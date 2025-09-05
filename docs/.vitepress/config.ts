@@ -7,6 +7,7 @@ export default defineConfig({
     title: '简创AIGC官方文档', // 网站标题
     themeConfig: {
         logo: '/logo.png', // 网站图标
+        outlineTitle: '当前页导航', // 右侧大纲标题
         // 文档页脚（上一页/下一页）
         docFooter: {
             prev: '上一页',
