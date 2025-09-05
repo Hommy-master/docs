@@ -1,0 +1,20 @@
+/* 定义蓝色系变量 */
+:root {
+  --vp-c-brand: #43aefc;           /* 主品牌色 */
+  --vp-c-brand-light: #75c4fe;     /* 高亮色 */
+  --vp-c-brand-lighter: #a6d8ff;
+  --vp-c-brand-dark: #1e7fcc;
+  --vp-c-brand-darker: #0f5c99;
+
+  /* 按钮颜色 */
+  --vp-button-brand-bg: var(--vp-c-brand);
+  --vp-button-brand-border: var(--vp-c-brand);
+  --vp-button-brand-hover-bg: var(--vp-c-brand-light);
+  --vp-button-brand-hover-border: var(--vp-c-brand-light);
+  --vp-button-brand-active-bg: var(--vp-c-brand-dark);
+  --vp-button-brand-active-border: var(--vp-c-brand-dark);
+
+  /* 首页标题渐变色（可选） */
+  /* --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, #43aefc, #75c4fe); */
+}

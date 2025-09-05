@@ -16,8 +16,18 @@ export default defineConfig({
         sidebar: [ // 侧边栏配置
             {
                 text: '指南', // 导航菜单标题
+                collapsed: false,
                 items: [
                     { text: '介绍', link: '/docs/guide' }, // 对应 docs/guide.md
+                    { text: '快速开始', link: '/docs/guide1' }, // 对应 docs/guide/getting-started.md
+                ]
+            },
+            {
+                text: '指南2', // 导航菜单标题
+                collapsed: false,
+                items: [
+                    { text: '快速开始2', link: '/docs/guide2' }, // 对应 docs/guide/getting-started.md
+                    { text: '快速开始3', link: '/docs/guide3' }, // 对应 docs/guide/getting-started.md
                 ]
             }
         ],
