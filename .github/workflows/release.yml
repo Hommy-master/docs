@@ -41,7 +41,7 @@ jobs:
     - name: 压缩代码
       run: |
         # 写入commit hash到文件中
-        echo "${{ github.sha }}" > ./dist/commit_hash.txt
+        echo "${{ github.sha }}" > ./docs/.vitepress/dist/commit_hash.txt
         # 压缩代码
         cd ./docs/.vitepress/dist
         tar -czvf ../../../dist.tar.gz ./*
