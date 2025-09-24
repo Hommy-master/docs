@@ -39,7 +39,7 @@ jobs:
       run: pnpm run build
 
     - name: 检查编译结果
-      run: ls -lhR ./.vitepress
+      run: ls -lhR ./docs/.vitepress
 
     # 压缩代码
     - name: 压缩代码
