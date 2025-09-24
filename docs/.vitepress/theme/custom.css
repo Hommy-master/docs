@@ -1,7 +1,17 @@
 /* 定义蓝色系变量 */
 :root {
-  --vp-c-brand: #356bfd;           /* 主品牌色 */
-  --vp-c-brand-light: #5c89ff;     /* 高亮色 */
+  /* 主品牌色 */
+  --vp-c-brand: #356bfd;
+  --vp-c-brand-light: #5c89ff;
+  --vp-c-brand-dark: #1a50d9;
+  --vp-c-brand-rgb: 53, 107, 253;
+  --vp-c-brand-light-rgb: 92, 137, 255;
+  --vp-c-brand-dark-rgb: 26, 80, 217;
+  --vp-c-brand-bg: rgba(var(--vp-c-brand-rgb), 0.08);
+  --vp-c-brand-light-bg: rgba(var(--vp-c-brand-light-rgb), 0.06);
+
+
+  /* 高亮色 */
   --vp-c-brand-lighter: #a6d8ff;
   --vp-c-brand-dark: #1a50d9;
   --vp-c-brand-darker: #0f5c99;
@@ -17,4 +27,34 @@
   /* 首页标题渐变色（可选） */
   /* --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: linear-gradient(135deg, #43aefc, #75c4fe); */
+
+  --vp-code-copy-copied-text-content: '已复制';
+  --vp-code-copy-copy-text-content: '复制代码';
+}
+
+.nav .item .link {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  word-break: break-all;
+}
+
+.nav .item .icon {
+  margin-right: 8px;
+  width: 16px;
+  display: inline-block;
+}
+
+.nav .item .icon.sub-icon {
+  margin-left: 24px;
+}
+
+.VPSidebarItem.level-0.is-active>.item .link>.text,
+.VPSidebarItem.level-1.is-active>.item .link>.text,
+.VPSidebarItem.level-2.is-active>.item .link>.text,
+.VPSidebarItem.level-3.is-active>.item .link>.text,
+.VPSidebarItem.level-4.is-active>.item .link>.text,
+.VPSidebarItem.level-5.is-active>.item .link>.text {
+  background-color: var(--vp-c-brand-bg);
+  border-radius: 6px;
 }

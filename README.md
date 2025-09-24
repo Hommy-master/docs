@@ -1,10 +1,18 @@
 # docs
 帮助文档
-
-
 .
 ├─ docs
 │  ├─ .vitepress
-│  │  └─ config.js
+│  │  └─ config.ts
 │  └─ index.md
 └─ package.json
+
+
+## 图片引入方法
+<!-- 插入网络图片 -->
+
+![Vue.js Logo](https://vuejs.org/images/logo.png)
+
+<!-- 插入本地图片 -->
+
+![图片引入示例](./demo.png)

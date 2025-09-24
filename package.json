@@ -17,5 +17,8 @@
         "@algolia/client-search"
       ]
     }
+  },
+  "dependencies": {
+    "vitepress-theme-async": "^0.0.29"
   }
 }
