@@ -17,29 +17,25 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    # 先安装 pnpm
-    - name: Install pnpm
+    - name: 安装pnpm
       uses: pnpm/action-setup@v4.1.0
       with:
         version: 10   # 明确指定 pnpm 大版本 (推荐)
 
-    # 再设置 Node.js 环境
-    - name: Set up Node.js
+    - name: 设置Node.js环境
       uses: actions/setup-node@v3
       with:
         node-version: 22
         cache: 'pnpm'  # 自动缓存 pnpm 依赖
 
-    # 安装依赖
-    - name: Install dependencies
+    - name: 安装依赖
       run: pnpm install
 
-    # 编译
-    - name: Build Project
+    - name: 编译
       run: pnpm run build
 
     - name: 检查编译结果
-      run: ls -lhR ./docs/.vitepress
+      run: ls -lhR ./docs/.vitepress/dist
 
     # 压缩代码
     - name: 压缩代码
@@ -47,12 +43,12 @@ jobs:
         # 写入commit hash到文件中
         echo "${{ github.sha }}" > ./dist/commit_hash.txt
         # 压缩代码
-        cd ./dist
-        tar -czvf ../dist.tar.gz ./*
-        cd ..
+        cd ./docs/.vitepress/dist
+        tar -czvf ../../../dist.tar.gz ./*
+        cd -
 
     # 使用社区 Action 支持覆盖
-    - name: Create Release and Upload Asset
+    - name: 上传压缩包
       uses: softprops/action-gh-release@v1
       with:
         tag_name: ${{ github.ref_name }}
