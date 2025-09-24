@@ -1,0 +1,42 @@
+name: Build And Deploy WebUI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    name: Build And Deploy WebUI
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # 先安装 pnpm
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4.1.0
+        with:
+          version: 10   # 明确指定 pnpm 大版本 (推荐)
+
+      # 再设置 Node.js 环境
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 22
+          cache: 'pnpm'  # 自动缓存 pnpm 依赖
+
+      # 安装依赖
+      - name: Install dependencies
+        run: pnpm install
+
+      # 编译
+      - name: Build Project
+        run: pnpm run build
+
+      - name: 检查编译结果
+        run: ls -lhR ./dist
+
+
