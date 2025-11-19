@@ -29,12 +29,23 @@ export default defineConfig({
                 // collapsed: false, // 这个字段可以确保有折叠功能
                 items: [
                     { text: '<span class="icon sub-icon">📝</span>add_audios.md', link: '/docs/add_audios' },
+                    { text: '<span class="icon sub-icon">📝</span>add_captions.md', link: '/docs/add_captions' },
+                    { text: '<span class="icon sub-icon">📝</span>add_effects.md', link: '/docs/add_effects' },
                     { text: '<span class="icon sub-icon">📝</span>add_images.md', link: '/docs/add_images' },
+                    { text: '<span class="icon sub-icon">📝</span>add_keyframes.md', link: '/docs/add_keyframes' },
+                    { text: '<span class="icon sub-icon">📝</span>add_masks.md', link: '/docs/add_masks' },
                     { text: '<span class="icon sub-icon">📝</span>add_sticker.md', link: '/docs/add_sticker' },
+                    { text: '<span class="icon sub-icon">📝</span>add_text_style.md', link: '/docs/add_text_style' },
                     { text: '<span class="icon sub-icon">📝</span>add_videos.md', link: '/docs/add_videos' },
                     { text: '<span class="icon sub-icon">📝</span>create_draft.md', link: '/docs/create_draft' },
+                    { text: '<span class="icon sub-icon">📝</span>easy_create_material.md', link: '/docs/easy_create_material' },
                     { text: '<span class="icon sub-icon">📝</span>gen_video.md', link: '/docs/gen_video' },
+                    { text: '<span class="icon sub-icon">📝</span>gen_video_status.md', link: '/docs/gen_video_status' },
+                    { text: '<span class="icon sub-icon">📝</span>get_audio_duration.md', link: '/docs/get_audio_duration' },
                     { text: '<span class="icon sub-icon">📝</span>get_draft.md', link: '/docs/get_draft' },
+                    { text: '<span class="icon sub-icon">📝</span>get_image_animations.md', link: '/docs/get_image_animations' },
+                    { text: '<span class="icon sub-icon">📝</span>get_text_animations.md', link: '/docs/get_text_animations' },
+                    { text: '<span class="icon sub-icon">📝</span>index.md', link: '/docs/index' },
                     { text: '<span class="icon sub-icon">📝</span>save_draft.md', link: '/docs/save_draft' },
                 ]
             },
