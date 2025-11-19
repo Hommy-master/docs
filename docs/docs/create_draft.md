@@ -1,14 +1,32 @@
 # CREATE_DRAFT API 接口文档
 
-## 接口信息
+## 📋 目录
+
+- [🔧 接口信息](#-接口信息)
+- [🎯 功能描述](#-功能描述)
+- [📖 更多文档](#-更多文档)
+- [📥 请求参数](#-请求参数)
+- [📤 响应格式](#-响应格式)
+- [💻 使用示例](#-使用示例)
+- [❌ 错误码说明](#-错误码说明)
+- [⚠️ 注意事项](#️-注意事项)
+- [🔄 工作流程](#-工作流程)
+- [➡️ 下一步操作](#️-下一步操作)
+- [🔗 相关接口](#-相关接口)
+
+## 🔧 接口信息
 
 ```
-POST /v1/create_draft
+POST /openapi/capcut-mate/v1/create_draft
 ```
 
 ## 功能描述
 
 创建剪映草稿。该接口用于创建一个新的剪映草稿项目，可以自定义视频的宽度和高度。创建成功后会返回草稿URL和帮助文档URL，为后续的视频编辑操作提供基础。
+
+## 更多文档
+
+📖 更多详细文档和教程请访问：[https://docs.jcaigc.cn](https://docs.jcaigc.cn)
 
 ## 请求参数
 
@@ -56,8 +74,8 @@ POST /v1/create_draft
 
 ```json
 {
-  "draft_url": "https://ts.fyshark.com/#/cozeToJianyin?drafId=https://video-snot-12220.oss-cn-shanghai.aliyuncs.com/2025-05-28/draft/2f52a63b-8c6a-4417-8b01-1b2a569ccb6c.json",
-  "tip_url": "https://help.example.com/draft-usage"
+  "draft_url": "https://cm.jcaigc.cn/openapi/v1/get_draft?draft_id=2025092811473036584258",
+  "tip_url": "https://help.assets.jcaigc.cn/draft-usage"
 }
 ```
 
@@ -76,14 +94,14 @@ POST /v1/create_draft
 }
 ```
 
-## 使用示例
+## 💻 使用示例
 
 ### cURL 示例
 
 #### 1. 创建默认分辨率草稿
 
 ```bash
-curl -X POST https://api.example.com/v1/create_draft \
+curl -X POST https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/create_draft \
   -H "Content-Type: application/json" \
   -d '{}'
 ```
@@ -91,7 +109,7 @@ curl -X POST https://api.example.com/v1/create_draft \
 #### 2. 创建自定义分辨率草稿
 
 ```bash
-curl -X POST https://api.example.com/v1/create_draft \
+curl -X POST https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/create_draft \
   -H "Content-Type: application/json" \
   -d '{
     "width": 1280,
@@ -102,7 +120,7 @@ curl -X POST https://api.example.com/v1/create_draft \
 #### 3. 创建竖屏短视频草稿
 
 ```bash
-curl -X POST https://api.example.com/v1/create_draft \
+curl -X POST https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/create_draft \
   -H "Content-Type: application/json" \
   -d '{
     "width": 1080,
@@ -112,9 +130,12 @@ curl -X POST https://api.example.com/v1/create_draft \
 
 ### JavaScript 示例
 
+#### 基础使用
+
 ```javascript
+// 创建草稿函数
 const createDraft = async (width = 1920, height = 1080) => {
-  const response = await fetch('/v1/create_draft', {
+  const response = await fetch('/openapi/capcut-mate/v1/create_draft', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ width, height })
@@ -122,34 +143,37 @@ const createDraft = async (width = 1920, height = 1080) => {
   return response.json();
 };
 
-// 创建默认分辨率草稿
-const defaultDraft = await createDraft();
-
-// 创建720P草稿
-const hdDraft = await createDraft(1280, 720);
-
-// 创建正方形草稿
-const squareDraft = await createDraft(1080, 1080);
-
-console.log('草稿创建成功:', {
-  default: defaultDraft.draft_url,
-  hd: hdDraft.draft_url,
-  square: squareDraft.draft_url
-});
+// 使用示例
+(async () => {
+  // 创建默认分辨率草稿
+  const defaultDraft = await createDraft();
+  
+  // 创建720P草稿
+  const hdDraft = await createDraft(1280, 720);
+  
+  // 创建正方形草稿
+  const squareDraft = await createDraft(1080, 1080);
+  
+  console.log('草稿创建成功:', {
+    default: defaultDraft.draft_url,
+    hd: hdDraft.draft_url,
+    square: squareDraft.draft_url
+  });
+})();
 ```
 
-### 高级JavaScript示例
+#### 高级封装类
 
 ```javascript
 class DraftManager {
-  constructor(baseUrl = 'https://api.example.com') {
+  constructor(baseUrl = 'https://capcut-mate.jcaigc.cn') {
     this.baseUrl = baseUrl;
   }
 
   async createDraft(config = {}) {
     const { width = 1920, height = 1080 } = config;
     
-    const response = await fetch(`${this.baseUrl}/v1/create_draft`, {
+    const response = await fetch(`${this.baseUrl}/openapi/capcut-mate/v1/create_draft`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ width, height })
@@ -218,12 +242,14 @@ class DraftManager {
 const draftManager = new DraftManager();
 
 // 创建单个草稿
-const draft = await draftManager.create1080p();
-console.log('草稿URL:', draft.draft_url);
+draftManager.create1080p().then(draft => {
+  console.log('草稿URL:', draft.draft_url);
+});
 
 // 批量创建多种格式
-const multipleDrafts = await draftManager.createMultipleFormats();
-console.log('多种格式草稿:', multipleDrafts);
+draftManager.createMultipleFormats().then(results => {
+  console.log('多种格式草稿:', results);
+});
 ```
 
 ### Python 示例
@@ -233,13 +259,13 @@ import requests
 from typing import Optional, Dict
 
 class DraftCreator:
-    def __init__(self, base_url: str = "https://api.example.com"):
+    def __init__(self, base_url: str = "https://api.assets.jcaigc.cn"):
         self.base_url = base_url
 
     def create_draft(self, width: int = 1920, height: int = 1080) -> Dict:
         """创建草稿"""
         response = requests.post(
-            f'{self.base_url}/v1/create_draft',
+            f'{self.base_url}/openapi/capcut-mate/v1/create_draft',
             headers={'Content-Type': 'application/json'},
             json={
                 "width": width,
@@ -316,10 +342,29 @@ for name, draft in drafts.items():
 - **save_draft**: 保存草稿
 - **gen_video**: 导出视频
 
-## 相关接口
+## 🔗 相关接口
 
-- [添加视频](./add_videos.md)
-- [添加音频](./add_audios.md)
-- [添加图片](./add_images.md)
-- [保存草稿](./save_draft.md)
-- [生成视频](./gen_video.md)
+<div align="center">
+
+### 📚 导航指南
+
+**🎯 新手路径**: [首页文档](./index.md) ← 当前位置 → [添加视频](./add_videos.md)
+
+**🔄 工作流程**: 创建草稿 → **当前: CREATE_DRAFT** → [添加素材](./add_videos.md) → [生成视频](./gen_video.md)
+
+**📖 相关文档**:
+- [项目概览](./index.md) - 了解完整功能
+- [添加视频](./add_videos.md) - 添加视频素材
+- [保存草稿](./save_draft.md) - 保存草稿更改
+
+</div>
+
+---
+
+<div align="right">
+
+📚 **项目资源**  
+**GitHub**: [https://github.com/Hommy-master/capcut-mate](https://github.com/Hommy-master/capcut-mate)  
+**Gitee**: [https://gitee.com/taohongmin-gitee/capcut-mate](https://gitee.com/taohongmin-gitee/capcut-mate)
+
+</div>

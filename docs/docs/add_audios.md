@@ -1,21 +1,38 @@
 # ADD_AUDIOS API 接口文档
 
-## 接口信息
+## 📋 目录
+
+- [🔧 接口信息](#-接口信息)
+- [🎯 功能描述](#-功能描述)
+- [📥 请求参数](#-请求参数)
+- [📤 响应格式](#-响应格式)
+- [💻 使用示例](#-使用示例)
+- [❌ 错误码说明](#-错误码说明)
+- [⚠️ 注意事项](#️-注意事项)
+- [🔄 工作流程](#-工作流程)
+- [➡️ 下一步操作](#️-下一步操作)
+- [🔗 相关接口](#-相关接口)
+
+## 🔧 接口信息
 
 ```
-POST /v1/add_audios
+POST /openapi/capcut-mate/v1/add_audios
 ```
 
 ## 功能描述
 
 批量向现有草稿中添加音频素材。该接口支持添加多个音频文件到剪映草稿，为视频创建背景音乐、音效、旁白等音频内容。音频将被添加到独立的音频轨道中，不会影响视频内容。
 
+## 更多文档
+
+📖 更多详细文档和教程请访问：[https://docs.jcaigc.cn](https://docs.jcaigc.cn)
+
 ## 请求参数
 
 ```json
 {
-  "draft_url": "https://ts.fyshark.com/#/cozeToJianyin?drafId=https://video-snot-12220.oss-cn-shanghai.aliyuncs.com/2025-05-28/draft/2f52a63b-8c6a-4417-8b01-1b2a569ccb6c.json",
-  "audio_infos": "[{\"audio_url\":\"https://example.com/audio1.mp3\",\"start\":0,\"end\":5000000,\"duration\":10000000,\"volume\":0.8,\"fade_in\":1000000,\"fade_out\":1000000}]"
+  "draft_url": "https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/get_draft?draft_id=2025092811473036584258",
+  "audio_infos": "[{\"audio_url\":\"https://assets.jcaigc.cn/audio1.mp3\",\"start\":0,\"end\":5000000,\"duration\":10000000,\"volume\":0.8,\"fade_in\":1000000,\"fade_out\":1000000}]"
 }
 ```
 
@@ -73,7 +90,7 @@ audio_infos是一个JSON字符串，解析后为数组，每个元素包含以�
 
 ```json
 {
-  "draft_url": "https://ts.fyshark.com/#/cozeToJianyin?drafId=...",
+  "draft_url": "https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/get_draft?draft_id=2025092811473036584258",
   "track_id": "audio-track-uuid",
   "audio_ids": ["audio1-uuid", "audio2-uuid", "audio3-uuid"]
 }
@@ -102,33 +119,33 @@ audio_infos是一个JSON字符串，解析后为数组，每个元素包含以�
 #### 1. 基本音频添加
 
 ```bash
-curl -X POST https://api.example.com/v1/add_audios \
+curl -X POST https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/add_audios \
   -H "Content-Type: application/json" \
   -d '{
     "draft_url": "YOUR_DRAFT_URL",
-    "audio_infos": "[{\"audio_url\":\"https://example.com/bgm.mp3\",\"start\":0,\"end\":10000000,\"duration\":15000000,\"volume\":0.8}]"
+    "audio_infos": "[{\"audio_url\":\"https://assets.jcaigc.cn/bgm.mp3\",\"start\":0,\"end\":10000000,\"duration\":15000000,\"volume\":0.8}]"
   }'
 ```
 
 #### 2. 多音频批量添加
 
 ```bash
-curl -X POST https://api.example.com/v1/add_audios \
+curl -X POST https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/add_audios \
   -H "Content-Type: application/json" \
   -d '{
     "draft_url": "YOUR_DRAFT_URL",
-    "audio_infos": "[{\"audio_url\":\"https://example.com/intro.mp3\",\"start\":0,\"end\":3000000,\"duration\":5000000,\"volume\":1.0,\"fade_in\":500000},{\"audio_url\":\"https://example.com/bgm.mp3\",\"start\":3000000,\"end\":30000000,\"duration\":35000000,\"volume\":0.6}]"
+    "audio_infos": "[{\"audio_url\":\"https://assets.jcaigc.cn/intro.mp3\",\"start\":0,\"end\":3000000,\"duration\":5000000,\"volume\":1.0,\"fade_in\":500000},{\"audio_url\":\"https://assets.jcaigc.cn/bgm.mp3\",\"start\":3000000,\"end\":30000000,\"duration\":35000000,\"volume\":0.6}]"
   }'
 ```
 
 #### 3. 带淡入淡出效果的音频
 
 ```bash
-curl -X POST https://api.example.com/v1/add_audios \
+curl -X POST https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/add_audios \
   -H "Content-Type: application/json" \
   -d '{
     "draft_url": "YOUR_DRAFT_URL",
-    "audio_infos": "[{\"audio_url\":\"https://example.com/outro.mp3\",\"start\":25000000,\"end\":30000000,\"duration\":8000000,\"volume\":0.9,\"fade_in\":1000000,\"fade_out\":2000000}]"
+    "audio_infos": "[{\"audio_url\":\"https://assets.jcaigc.cn/outro.mp3\",\"start\":25000000,\"end\":30000000,\"duration\":8000000,\"volume\":0.9,\"fade_in\":1000000,\"fade_out\":2000000}]"
   }'
 ```
 
@@ -136,7 +153,7 @@ curl -X POST https://api.example.com/v1/add_audios \
 
 ```javascript
 const addAudios = async (draftUrl, audioConfig) => {
-  const response = await fetch('/v1/add_audios', {
+  const response = await fetch('/openapi/capcut-mate/v1/add_audios', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
@@ -151,7 +168,7 @@ const addAudios = async (draftUrl, audioConfig) => {
 const basicAudio = {
   audio_infos: JSON.stringify([
     {
-      audio_url: "https://example.com/bgm.mp3",
+      audio_url: "https://assets.jcaigc.cn/bgm.mp3",
       start: 0,
       end: 10000000,
       duration: 15000000,
@@ -164,7 +181,7 @@ const basicAudio = {
 const audioSequence = {
   audio_infos: JSON.stringify([
     {
-      audio_url: "https://example.com/intro.mp3",
+      audio_url: "https://assets.jcaigc.cn/intro.mp3",
       start: 0,
       end: 3000000,
       duration: 5000000,
@@ -172,14 +189,14 @@ const audioSequence = {
       fade_in: 500000
     },
     {
-      audio_url: "https://example.com/main-bgm.mp3",
+      audio_url: "https://assets.jcaigc.cn/main-bgm.mp3",
       start: 2000000,
       end: 25000000,
       duration: 30000000,
       volume: 0.6
     },
     {
-      audio_url: "https://example.com/outro.mp3",
+      audio_url: "https://assets.jcaigc.cn/outro.mp3",
       start: 24000000,
       end: 28000000,
       duration: 6000000,
@@ -193,14 +210,14 @@ const audioSequence = {
 const soundEffects = {
   audio_infos: JSON.stringify([
     {
-      audio_url: "https://example.com/applause.mp3",
+      audio_url: "https://assets.jcaigc.cn/applause.mp3",
       start: 5000000,
       end: 8000000,
       duration: 4000000,
       volume: 0.7
     },
     {
-      audio_url: "https://example.com/transition.mp3",
+      audio_url: "https://assets.jcaigc.cn/transition.mp3",
       start: 12000000,
       end: 13500000,
       duration: 2000000,
@@ -228,12 +245,12 @@ try {
 
 ```javascript
 class AudioManager {
-  constructor(baseUrl = 'https://api.example.com') {
+  constructor(baseUrl = 'https://capcut-mate.jcaigc.cn') {
     this.baseUrl = baseUrl;
   }
 
   async addAudios(draftUrl, audioConfig) {
-    const response = await fetch(`${this.baseUrl}/v1/add_audios`, {
+    const response = await fetch(`${this.baseUrl}/openapi/capcut-mate/v1/add_audios`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -373,7 +390,7 @@ const audioManager = new AudioManager();
 
 // 创建背景音乐
 const bgm = audioManager.createBackgroundMusic(
-  "https://example.com/bgm.mp3", 
+  "https://assets.jcaigc.cn/bgm.mp3", 
   60000000, // 60秒
   0.6, 
   true // 循环播放
@@ -382,19 +399,19 @@ const bgm = audioManager.createBackgroundMusic(
 // 创建音频序列
 const sequence = audioManager.createAudioSequence([
   {
-    url: "https://example.com/intro.mp3",
+    url: "https://assets.jcaigc.cn/intro.mp3",
     playDuration: 5000000,
     totalDuration: 5000000,
     volume: 1.0
   },
   {
-    url: "https://example.com/main.mp3",
+    url: "https://assets.jcaigc.cn/main.mp3",
     playDuration: 20000000,
     totalDuration: 25000000,
     volume: 0.8
   },
   {
-    url: "https://example.com/outro.mp3",
+    url: "https://assets.jcaigc.cn/outro.mp3",
     playDuration: 3000000,
     totalDuration: 3000000,
     volume: 1.0,
@@ -405,13 +422,13 @@ const sequence = audioManager.createAudioSequence([
 // 创建音效
 const effects = audioManager.createSoundEffects([
   {
-    url: "https://example.com/whoosh.mp3",
+    url: "https://assets.jcaigc.cn/whoosh.mp3",
     startTime: 10000000,
     duration: 1500000,
     volume: 0.5
   },
   {
-    url: "https://example.com/ding.mp3",
+    url: "https://assets.jcaigc.cn/ding.mp3",
     startTime: 25000000,
     duration: 1000000,
     volume: 0.8
@@ -430,12 +447,12 @@ import json
 from typing import List, Dict, Optional
 
 class AudioProcessor:
-    def __init__(self, base_url="https://api.example.com"):
+    def __init__(self, base_url="https://capcut-mate.jcaigc.cn"):
         self.base_url = base_url
 
     def add_audios(self, draft_url: str, audio_config: Dict) -> Dict:
         response = requests.post(
-            f'{self.base_url}/v1/add_audios',
+            f'{self.base_url}/openapi/capcut-mate/v1/add_audios',
             headers={'Content-Type': 'application/json'},
             json={
                 "draft_url": draft_url,
@@ -526,7 +543,7 @@ processor = AudioProcessor()
 
 # 背景音乐
 bgm_config = processor.create_background_music(
-    "https://example.com/bgm.mp3",
+    "https://assets.jcaigc.cn/bgm.mp3",
     60000000,  # 60秒
     volume=0.6,
     loop=True
@@ -535,13 +552,13 @@ bgm_config = processor.create_background_music(
 # 音频序列
 sequence_config = processor.create_audio_sequence([
     {
-        "url": "https://example.com/intro.mp3",
+        "url": "https://assets.jcaigc.cn/intro.mp3",
         "play_duration": 5000000,
         "total_duration": 5000000,
         "volume": 1.0
     },
     {
-        "url": "https://example.com/main.mp3",
+        "url": "https://assets.jcaigc.cn/main.mp3",
         "play_duration": 20000000,
         "total_duration": 25000000,
         "volume": 0.8
@@ -551,7 +568,7 @@ sequence_config = processor.create_audio_sequence([
 # 音效
 effects_config = processor.create_sound_effects([
     {
-        "url": "https://example.com/whoosh.mp3",
+        "url": "https://assets.jcaigc.cn/whoosh.mp3",
         "start_time": 10000000,
         "duration": 1500000,
         "volume": 0.5
@@ -613,3 +630,11 @@ for config in [bgm_config, sequence_config, effects_config]:
 - [添加图片](./add_images.md)
 - [保存草稿](./save_draft.md)
 - [生成视频](./gen_video.md)
+
+<div align="right">
+
+📚 **项目资源**  
+**GitHub**: [https://github.com/Hommy-master/capcut-mate](https://github.com/Hommy-master/capcut-mate)  
+**Gitee**: [https://gitee.com/taohongmin-gitee/capcut-mate](https://gitee.com/taohongmin-gitee/capcut-mate)
+
+</div>
