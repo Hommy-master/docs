@@ -1,3 +1,10 @@
+---
+title: ADD_VIDEOS API 接口文档 - 批量添加视频素材
+lang: zh-CN
+description: ADD_VIDEOS API接口文档，批量向现有草稿中添加视频素材，支持时间范围控制、透明度调整、遮罩效果、转场动画等高级功能。适用于画中画效果、视频拼接等复杂场景。
+keywords: ADD_VIDEOS, 剪映API, 添加视频, 视频素材, 批量处理, 画中画, 转场动画, 遮罩效果
+---
+
 # ADD_VIDEOS API 接口文档
 
 ## 接口信息

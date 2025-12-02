@@ -1,3 +1,10 @@
+---
+title: ADD_CAPTIONS API 接口文档 - 批量添加字幕
+lang: zh-CN
+description: ADD_CAPTIONS API接口文档，向现有草稿中批量添加字幕，支持文本颜色、边框颜色、对齐方式、透明度、字体等丰富的字幕样式设置。提供详细的参数说明和使用示例。
+keywords: ADD_CAPTIONS, 剪映API, 添加字幕, 字幕样式, 文本颜色, 边框颜色, 对齐方式, 透明度, 字体
+---
+
 # ADD_CAPTIONS API 接口文档
 
 ## 接口信息

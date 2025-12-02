@@ -1,3 +1,10 @@
+---
+title: ADD_MASKS API 接口文档 - 添加遮罩效果
+lang: zh-CN
+description: ADD_MASKS API接口文档，向现有草稿中的指定片段添加遮罩效果，支持线性、镜面、圆形、矩形、爱心、星形等多种遮罩类型。提供详细的参数说明和使用示例。
+keywords: ADD_MASKS, 剪映API, 添加遮罩, 遮罩效果, 线性遮罩, 圆形遮罩, 矩形遮罩, 爱心遮罩, 星形遮罩
+---
+
 # ADD_MASKS API 接口文档
 
 ## 接口信息

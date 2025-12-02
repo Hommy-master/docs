@@ -1,3 +1,10 @@
+---
+title: ADD_AUDIOS API 接口文档 - 批量添加音频素材
+lang: zh-CN
+description: ADD_AUDIOS API接口文档，批量向现有草稿中添加音频素材，支持背景音乐、音效、旁白等音频内容添加。提供详细的参数说明和使用示例。
+keywords: ADD_AUDIOS, 剪映API, 添加音频, 音频素材, 背景音乐, 音效, 旁白, 音频轨道
+---
+
 # ADD_AUDIOS API 接口文档
 
 ## 接口信息

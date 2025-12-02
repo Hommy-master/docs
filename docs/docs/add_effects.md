@@ -1,3 +1,10 @@
+---
+title: ADD_EFFECTS API 接口文档 - 添加视频特效
+lang: zh-CN
+description: ADD_EFFECTS API接口文档，向现有草稿中添加视频特效，支持边框特效、滤镜特效、动态特效等多种类型。提供详细的参数说明和使用示例。
+keywords: ADD_EFFECTS, 剪映API, 添加特效, 视频特效, 边框特效, 滤镜特效, 动态特效, 视觉效果
+---
+
 # ADD_EFFECTS API 接口文档
 
 ## 接口信息

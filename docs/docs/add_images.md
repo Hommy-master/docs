@@ -1,3 +1,10 @@
+---
+title: ADD_IMAGES API 接口文档 - 添加图片素材
+lang: zh-CN
+description: ADD_IMAGES API接口文档，向现有草稿中添加图片素材，支持透明度、缩放和位置调整。适用于背景图、水印、装饰图等视觉效果增强。
+keywords: ADD_IMAGES, 剪映API, 添加图片, 图片素材, 透明度调整, 缩放, 位置调整, 水印
+---
+
 # ADD_IMAGES API 接口文档
 
 ## 接口信息

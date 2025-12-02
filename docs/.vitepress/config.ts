@@ -2,7 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
-    title: '简创AIGC官方文档', // 网站标题
+    title: '简创AIGC官方文档 - 剪映小助手API文档', // 网站标题
+    description: '简创AIGC剪映小助手API文档，提供完整的API接口说明、使用示例和最佳实践指南，帮助开发者快速集成和使用我们的视频自动化创作服务。', // 网站描述
     lang: 'zh-CN',
     locales: { root: { label: '简体中文', lang: 'zh-CN' } },
     themeConfig: {

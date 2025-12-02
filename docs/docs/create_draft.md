@@ -1,3 +1,10 @@
+---
+title: CREATE_DRAFT API 接口文档 - 创建剪映草稿
+lang: zh-CN
+description: CREATE_DRAFT API接口文档，用于创建新的剪映草稿项目，可自定义视频宽度和高度。提供详细的参数说明、使用示例和错误码说明。
+keywords: CREATE_DRAFT, 剪映API, 创建草稿, 视频编辑, API文档, 草稿URL
+---
+
 # CREATE_DRAFT API 接口文档
 
 ## 接口信息
