@@ -1,4 +1,3 @@
-
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.vuejs.org/config/app-configs
@@ -63,5 +62,25 @@ export default defineConfig({
             // 实际的版权文本
             copyright: '版权所有 © 2025 简创AIGC'
         }
-    }
+    },
+    // 添加自定义CSS实现全屏效果
+    head: [
+        ['style', {}, `
+            :root {
+                --vp-layout-max-width: 100%;
+            }
+            .VPDoc:not(.has-sidebar) .container {
+                max-width: 100% !important;
+            }
+            .VPDoc:not(.has-sidebar) .content {
+                max-width: 100% !important;
+            }
+            .VPDoc.has-aside .content-container {
+                max-width: 100% !important;
+            }
+            .content-container {
+                max-width: 100% !important;
+            }
+        `]
+    ]
 })
