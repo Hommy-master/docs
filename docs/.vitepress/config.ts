@@ -63,11 +63,14 @@ export default defineConfig({
             copyright: '版权所有 © 2025 简创AIGC'
         }
     },
-    // 添加自定义CSS实现全屏效果
+    // 添加自定义CSS实现全屏效果和美化样式
     head: [
         ['style', {}, `
             :root {
                 --vp-layout-max-width: 100%;
+                --vp-c-brand: #348feb;
+                --vp-c-brand-light: #54a6f2;
+                --vp-c-brand-dark: #1a6bc5;
             }
             .VPDoc:not(.has-sidebar) .container {
                 max-width: 100% !important;
@@ -80,6 +83,59 @@ export default defineConfig({
             }
             .content-container {
                 max-width: 100% !important;
+            }
+            
+            /* 首页网格布局样式 */
+            .grid-container {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+                gap: 20px;
+                margin: 20px 0;
+            }
+            
+            .grid-item {
+                border: 1px solid var(--vp-c-divider);
+                border-radius: 8px;
+                padding: 20px;
+                transition: box-shadow 0.3s ease;
+            }
+            
+            .grid-item:hover {
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            }
+            
+            .grid-item h3 {
+                margin-top: 0;
+                color: var(--vp-c-brand);
+            }
+            
+            .grid-item ul {
+                padding-left: 20px;
+            }
+            
+            .grid-item li {
+                margin-bottom: 8px;
+            }
+            
+            .grid-item a {
+                color: var(--vp-c-text-2);
+                text-decoration: none;
+            }
+            
+            .grid-item a:hover {
+                color: var(--vp-c-brand);
+                text-decoration: underline;
+            }
+            
+            /* 图标样式 */
+            .icon {
+                margin-right: 8px;
+            }
+            
+            /* 侧边栏图标样式 */
+            .sub-icon {
+                margin-right: 8px;
+                font-size: 0.9em;
             }
         `]
     ]
