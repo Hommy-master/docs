@@ -46,6 +46,7 @@ export default defineConfig({
                     { text: '<span class="icon sub-icon">📝</span>get_image_animations', link: '/docs/get_image_animations' },
                     { text: '<span class="icon sub-icon">📝</span>get_text_animations', link: '/docs/get_text_animations' },
                     { text: '<span class="icon sub-icon">📝</span>save_draft', link: '/docs/save_draft' },
+                    { text: '<span class="icon sub-icon">🎨</span>花字数据', link: '/page/huazi' },
                 ]
             },
             // {
