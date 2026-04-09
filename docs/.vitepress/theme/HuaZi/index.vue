@@ -54,12 +54,13 @@ watch([searchTerm, itemsPerPage], () => {
   currentPage.value = 1
 })
 
-// 复制标题
-const handleCopy = async (title: string, id: string) => {
+// 复制花字 ID（成功提示展示名称）
+const handleCopy = async (id: string, title: string) => {
   try {
-    await navigator.clipboard.writeText(title)
+    await navigator.clipboard.writeText(id)
     copiedId.value = id
-    alert('复制成功')
+    const name = title.trim() || id
+    alert(`复制花字 ${name} 成功`)
     setTimeout(() => {
       copiedId.value = null
     }, 2000)
@@ -163,8 +164,8 @@ const closePreview = () => {
           <div class="huazi-card-actions">
             <button
               :class="['huazi-copy-btn', { copied: copiedId === item.common_attr.id }]"
-              @click="handleCopy(item.common_attr.title, item.common_attr.id)"
-              title="复制标题"
+              @click="handleCopy(item.common_attr.id, item.common_attr.title ?? '')"
+              title="复制花字id"
             >
               {{ copiedId === item.common_attr.id ? '✓' : '📋' }}
             </button>
