@@ -1,32 +1,28 @@
----
-title: ADD_CAPTIONS API 接口文档 - 批量添加字幕
-lang: zh-CN
-description: ADD_CAPTIONS API接口文档，向现有草稿中批量添加字幕，支持文本颜色、边框颜色、对齐方式、透明度、字体等丰富的字幕样式设置。提供详细的参数说明和使用示例。
-keywords: ADD_CAPTIONS, 剪映API, 添加字幕, 字幕样式, 文本颜色, 边框颜色, 对齐方式, 透明度, 字体
----
+# ADD_CAPTIONS API Documentation
 
-# ADD_CAPTIONS API 接口文档
+## 🌐 Language Switch
+[中文版](./add_captions.zh.md) | [English](./add_captions.md)
 
-## 接口信息
+## Interface Information
 
 ```
 POST /openapi/capcut-mate/v1/add_captions
 ```
 
-## 功能描述
+## Function Description
 
-向现有草稿中批量添加字幕。该接口用于在指定的时间段内添加字幕到剪映草稿中，支持丰富的字幕样式设置，包括文本颜色、边框颜色、对齐方式、透明度、字体、字体大小、字间距、行间距、缩放和位置调整等。
+Batch add captions to existing drafts. This interface is used to add captions to Jianying drafts within specified time periods, supporting rich caption style settings including text color, border color, alignment, transparency, font, font size, letter spacing, line spacing, scaling, and position adjustments.
 
-## 更多文档
+## More Documentation
 
-📖 更多详细文档和教程请访问：[https://docs.jcaigc.cn](https://docs.jcaigc.cn)
+📖 For more detailed documentation and tutorials, please visit: [https://docs.jcaigc.cn](https://docs.jcaigc.cn)
 
-## 请求参数
+## Request Parameters
 
 ```json
 {
   "draft_url": "https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/get_draft?draft_id=2025092811473036584258",
-  "captions": "[{\"start\":0,\"end\":10000000,\"text\":\"你好，剪映\",\"keyword\":\"好\",\"keyword_color\":\"#457616\",\"keyword_font_size\":15,\"font_size\":15}]",
+  "captions": "[{\"start\":0,\"end\":10000000,\"text\":\"Hello, Jianying\",\"keyword\":\"Hello\",\"keyword_color\":\"#457616\",\"keyword_font_size\":15,\"font_size\":15}]",
   "text_color": "#ffffff",
   "border_color": null,
   "alignment": 1,
@@ -37,241 +33,217 @@ POST /openapi/capcut-mate/v1/add_captions
   "line_spacing": null,
   "scale_x": 1.0,
   "scale_y": 1.0,
-  "transform_x": 0,
-  "transform_y": 0,
+  "transform_x": 0.0,
+  "transform_y": 0.0,
   "style_text": false
 }
 ```
 
-### 参数说明
+### Parameter Description
 
-| 参数名 | 类型 | 必填 | 默认值 | 说明 |
-|--------|------|------|--------|------|
-| draft_url | string | ✅ | - | 目标草稿的完整URL |
-| captions | string | ✅ | - | 字幕信息列表的JSON字符串 |
-| text_color | string | ❌ | "#ffffff" | 文本颜色（十六进制） |
-| border_color | string | ❌ | null | 边框颜色（十六进制） |
-| alignment | integer | ❌ | 1 | 文本对齐方式（0-5） |
-| alpha | number | ❌ | 1.0 | 文本透明度（0.0-1.0） |
-| font | string | ❌ | null | 字体名称 |
-| font_size | integer | ❌ | 15 | 字体大小 |
-| letter_spacing | number | ❌ | null | 字间距 |
-| line_spacing | number | ❌ | null | 行间距 |
-| scale_x | number | ❌ | 1.0 | 水平缩放比例 |
-| scale_y | number | ❌ | 1.0 | 垂直缩放比例 |
-| transform_x | integer | ❌ | 0 | X轴位置偏移（像素） |
-| transform_y | integer | ❌ | 0 | Y轴位置偏移（像素） |
-| style_text | boolean | ❌ | false | 是否使用样式文本 |
+| Parameter | Type | Required | Default | Description |
+|-----------|------|----------|---------|-------------|
+| draft_url | string |✅ | - | Complete URL of the target draft |
+| captions | string |✅ | - | JSON string of caption information list |
+| text_color | string | ❌ | "#ffffff" | Text color (hexadecimal) |
+| border_color | string |❌ | null | Border color (hexadecimal) |
+| alignment | integer |❌ | 1 | Text alignment (0-5) |
+| alpha | number |❌ | 1.0 | Text transparency (0.0-1.0) |
+| font | string |❌ | null | Font name |
+| font_size | integer |❌ | 15 | Font size |
+| letter_spacing | number |❌ | null | Letter spacing |
+| line_spacing | number | ❌ | null | Line spacing |
+| scale_x | number |❌ | 1.0 | Horizontal scaling factor |
+| scale_y | number | ❌ | 1.0 | Vertical scaling factor |
+| transform_x | number | ❌ | 0.0 | Horizontal position offset |
+| transform_y | number | ❌ | 0.0 | Vertical position offset |
+| style_text | boolean |❌ | false | Whether to apply rich text styling |
 
-### captions字段详细说明
+### Parameter Details
 
-captions是一个JSON字符串，包含字幕数组，每个字幕对象包含以下字段：
+#### captions Array Structure
 
-| 字段名 | 类型 | 必填 | 默认值 | 说明 |
-|--------|------|------|--------|------|
-| start | integer | ✅ | - | 字幕开始时间（微秒） |
-| end | integer | ✅ | - | 字幕结束时间（微秒） |
-| text | string | ✅ | - | 字幕文本内容 |
-| keyword | string | ❌ | null | 关键词（用\|分隔多个关键词） |
-| keyword_color | string | ❌ | "#ff7100" | 关键词颜色 |
-| keyword_font_size | integer | ❌ | 15 | 关键词字体大小 |
-| font_size | integer | ❌ | 15 | 文本字体大小 |
-| in_animation | string | ❌ | null | 入场动画 |
-| out_animation | string | ❌ | null | 出场动画 |
-| loop_animation | string | ❌ | null | 循环动画 |
-| in_animation_duration | integer | ❌ | null | 入场动画时长 |
-| out_animation_duration | integer | ❌ | null | 出场动画时长 |
-| loop_animation_duration | integer | ❌ | null | 循环动画时长 |
+`captions` is a JSON string containing an array of caption objects, each with the following fields:
 
-### 参数详解
+```json
+[
+  {
+    "start": 0,
+    "end": 10000000,
+    "text": "Hello, Jianying",
+    "keyword": "Hello",
+    "keyword_color": "#457616",
+    "keyword_font_size": 15,
+    "font_size": 15
+  }
+]
+```
 
-#### 时间参数
+**Field Description**:
+- `start`: Caption start time (microseconds)
+- `end`: Caption end time (microseconds)
+- `text`: Caption text content
+- `keyword`: Keyword to highlight
+- `keyword_color`: Keyword highlight color
+- `keyword_font_size`: Keyword font size
+- `font_size`: Base font size
 
-- **start**: 字幕在时间轴上的开始时间，单位为微秒（1秒 = 1,000,000微秒）
-- **end**: 字幕在时间轴上的结束时间，单位为微秒
-- **duration**: 字幕显示时长 = end - start
+#### Time Parameters
 
-#### 对齐方式说明
+- **start**: Start time of the caption on the timeline, unit microseconds (1 second = 1,000,000 microseconds)
+- **end**: End time of the caption on the timeline, unit microseconds
+- **Duration**: Caption duration = end - start
 
-| 值 | 说明 |
-|---|------|
-| 0 | 左对齐 |
-| 1 | 居中对齐 |
-| 2 | 右对齐 |
-| 3 | 垂直居中 |
-| 4 | 垂直左对齐 |
-| 5 | 垂直右对齐 |
+#### Style Parameters
 
-#### 缩放参数
+- **text_color**: Main text color in hexadecimal format (e.g., "#ffffff" for white)
+- **border_color**: Text border color, null means no border
+- **alignment**: Text alignment mode (0-5)
+- **alpha**: Text transparency (0.0 = fully transparent, 1.0 = fully opaque)
+- **font_size**: Base font size in pixels
+- **scale_x/scale_y**: Horizontal/vertical scaling factors
+- **transform_x/transform_y**: Position offset values
 
-- **scale_x**: 字幕的水平缩放比例
-  - 1.0 = 原始大小
-  - 0.5 = 水平缩小到一半
-  - 2.0 = 水平放大到两倍
+## Response Format
 
-- **scale_y**: 字幕的垂直缩放比例
-  - 1.0 = 原始大小
-  - 0.5 = 垂直缩小到一半
-  - 2.0 = 垂直放大到两倍
-
-#### 位置参数
-
-- **transform_x**: 字幕在X轴方向的位置偏移，单位为像素
-  - 正值向右移动
-  - 负值向左移动
-  - 以画布中心为原点
-  - 实际存储时会转换为半画布宽单位（假设画布宽度1920，即除以960）
-
-- **transform_y**: 字幕在Y轴方向的位置偏移，单位为像素
-  - 正值向下移动
-  - 负值向上移动
-  - 以画布中心为原点
-  - 实际存储时会转换为半画布高单位（假设画布高度1080，即除以540）
-
-## 响应格式
-
-### 成功响应 (200)
+### Success Response (200)
 
 ```json
 {
   "draft_url": "https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/get_draft?draft_id=2025092811473036584258",
-  "track_id": "text_track_123",
-  "text_ids": ["text_001", "text_002"],
-  "segment_ids": ["seg_001", "seg_002"],
+  "track_id": "caption-track-uuid",
+  "text_ids": ["text1-uuid", "text2-uuid"],
+  "segment_ids": ["segment1-uuid", "segment2-uuid"],
   "segment_infos": [
     {
-      "id": "seg_001",
+      "id": "segment1-uuid",
       "start": 0,
       "end": 5000000
-    },
-    {
-      "id": "seg_002",
-      "start": 5000000,
-      "end": 10000000
     }
   ]
 }
 ```
 
-### 响应字段说明
+### Response Field Description
 
-| 字段名 | 类型 | 说明 |
-|--------|------|------|
-| draft_url | string | 更新后的草稿URL |
-| track_id | string | 字幕轨道ID |
-| text_ids | array | 字幕ID列表 |
-| segment_ids | array | 字幕片段ID列表 |
-| segment_infos | array | 片段信息列表 |
+| Field | Type | Description |
+|-------|------|-------------|
+| draft_url | string | Updated draft URL |
+| track_id | string | Caption track ID |
+| text_ids | array | List of added text IDs |
+| segment_ids | array | List of segment IDs |
+| segment_infos | array | Segment information array |
 
-### 错误响应 (4xx/5xx)
+### Error Response (4xx/5xx)
 
 ```json
 {
-  "detail": "错误信息描述"
+  "detail": "Error message description"
 }
 ```
 
-## 使用示例
+## Usage Examples
 
-### cURL 示例
+### cURL Examples
 
-#### 1. 基本字幕添加
+#### 1. Basic Caption Addition
 
 ```bash
 curl -X POST https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/add_captions \
   -H "Content-Type: application/json" \
   -d '{
     "draft_url": "YOUR_DRAFT_URL",
-    "captions": "[{\"start\":0,\"end\":5000000,\"text\":\"你好，剪映\"}]",
+    "captions": "[{\"start\":0,\"end\":5000000,\"text\":\"Welcome to Jianying\"}]",
     "text_color": "#ffffff",
-    "alignment": 1,
-    "alpha": 1.0,
-    "font_size": 20
+    "font_size": 18
   }'
 ```
 
-#### 2. 多字幕添加
+#### 2. Caption with Keyword Highlighting
 
 ```bash
 curl -X POST https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/add_captions \
   -H "Content-Type: application/json" \
   -d '{
     "draft_url": "YOUR_DRAFT_URL",
-    "captions": "[{\"start\":0,\"end\":5000000,\"text\":\"你好，剪映\"},{\"start\":5000000,\"end\":10000000,\"text\":\"欢迎使用字幕功能\"}]",
+    "captions": "[{\"start\":0,\"end\":3000000,\"text\":\"Hello World\",\"keyword\":\"Hello\",\"keyword_color\":\"#ff0000\",\"keyword_font_size\":20}]",
     "text_color": "#ffffff",
-    "alignment": 1,
-    "alpha": 1.0,
     "font_size": 16
   }'
 ```
 
-#### 3. 带样式和位置的字幕
+#### 3. Styled Caption with Positioning
 
 ```bash
 curl -X POST https://capcut-mate.jcaigc.cn/openapi/capcut-mate/v1/add_captions \
   -H "Content-Type: application/json" \
   -d '{
     "draft_url": "YOUR_DRAFT_URL",
-    "captions": "[{\"start\":0,\"end\":5000000,\"text\":\"你好，剪映\",\"keyword\":\"好\",\"keyword_color\":\"#ff0000\"}]",
-    "text_color": "#ffffff",
-    "alignment": 1,
-    "alpha": 1.0,
+    "captions": "[{\"start\":2000000,\"end\":7000000,\"text\":\"Styled Caption\"}]",
+    "text_color": "#00ff00",
+    "border_color": "#000000",
+    "alignment": 2,
+    "alpha": 0.8,
     "font_size": 20,
     "scale_x": 1.2,
     "scale_y": 1.2,
     "transform_x": 100,
-    "transform_y": -50
+    "transform_y": 50
   }'
 ```
 
-## 错误码说明
+## Error Code Description
 
-| 错误码 | 错误信息 | 说明 | 解决方案 |
-|--------|----------|------|----------|
-| 400 | draft_url是必填项 | 缺少草稿URL参数 | 提供有效的draft_url |
-| 400 | captions是必填项 | 缺少字幕信息参数 | 提供有效的captions |
-| 400 | 无效的字幕信息，请检查captions字段值是否正确 | 字幕参数校验失败 | 检查字幕参数是否符合要求 |
-| 400 | 时间范围无效 | end必须大于start | 确保结束时间大于开始时间 |
-| 404 | 草稿不存在 | 指定的草稿URL无效 | 检查草稿URL是否正确 |
-| 500 | 字幕添加失败 | 内部处理错误 | 联系技术支持 |
+| Error Code | Error Message | Description | Solution |
+|------------|---------------|-------------|----------|
+| 400 | draft_url is required | Missing draft URL parameter | Provide a valid draft URL |
+| 400 | captions is required | Missing caption information parameter | Provide valid caption information JSON |
+| 400 | captions format error | JSON format is incorrect | Check JSON string format |
+| 400 | Caption configuration validation failed | Caption parameters do not meet requirements | Check parameters for each caption |
+| 400 | start is required | Caption start time missing | Provide start time for each caption |
+| 400 | end is required | Caption end time missing | Provide end time for each caption |
+| 400 | text is required | Caption text content missing | Provide text content for each caption |
+| 400 | Time range invalid | end must be greater than start | Ensure end time is greater than start time |
+| 400 | Font size invalid | font_size must be positive | Use positive font size value |
+| 400 | Alpha value invalid | alpha not in 0.0-1.0 range | Use alpha value between 0.0-1.0 |
+| 404 | Draft does not exist | Specified draft URL invalid | Check if draft URL is correct |
+| 500 | Caption processing failed | Internal processing error | Contact technical support |
 
-## 注意事项
+## Notes
 
-1. **时间单位**: 所有时间参数使用微秒（1秒 = 1,000,000微秒）
-2. **字幕时长**: end 时间必须大于 start 时间
-3. **颜色格式**: 颜色值使用十六进制格式，如 "#ffffff"、"#ff0000"
-4. **关键词高亮**: 暂未完全实现，目前为预留功能
-5. **动画效果**: 暂未完全实现，目前为预留功能
-6. **字体支持**: 字体名称需要系统支持或使用默认字体
-7. **对齐方式**: 目前仅支持基础对齐方式（0-2），高级对齐方式（3-5）为预留功能
-8. **坐标系统**: transform_x 和 transform_y 使用像素值，会自动转换为草稿相对坐标
-9. **缩放参数**: scale_x 和 scale_y 建议在合理范围内使用
+1. **JSON Format**: captions must be a valid JSON string
+2. **Time Unit**: All time parameters use microseconds (1 second = 1,000,000 microseconds)
+3. **Color Format**: Colors use hexadecimal format (e.g., "#ffffff")
+4. **Font Support**: Ensure font names are supported by the system
+5. **Position Range**: transform_x and transform_y values should be within reasonable ranges
+6. **Scaling**: Scale factors should typically be between 0.1-5.0
+7. **Track Management**: Multiple captions will be added to the same caption track
 
-## 工作流程
+## Workflow
 
-1. 验证必填参数（draft_url, captions）
-2. 检查时间范围的有效性
-3. 从缓存中获取草稿
-4. 创建字幕轨道（如果不存在）
-5. 遍历字幕信息，创建字幕片段
-6. 添加片段到轨道
-7. 保存草稿
-8. 返回字幕信息
+1. Validate required parameters (draft_url, captions)
+2. Parse captions JSON string
+3. Validate parameter configuration for each caption
+4. Obtain and decrypt draft content
+5. Create caption track
+6. Add text segments to track
+7. Apply styling and positioning
+8. Save and encrypt draft
+9. Return processing result
 
-## 相关接口
+## Related Interfaces
 
-- [创建草稿](./create_draft.md)
-- [添加视频](./add_videos.md)
-- [添加音频](./add_audios.md)
-- [添加图片](./add_images.md)
-- [保存草稿](./save_draft.md)
-- [生成视频](./gen_video.md)
+- [Create Draft](./create_draft.md)
+- [Add Videos](./add_videos.md)
+- [Add Images](./add_images.md)
+- [Add Text Style](./add_text_style.md)
+- [Save Draft](./save_draft.md)
 
 ---
 
 <div align="right">
 
-📚 **项目资源**  
+📚 **Project Resources**  
 **GitHub**: [https://github.com/Hommy-master/capcut-mate](https://github.com/Hommy-master/capcut-mate)  
 **Gitee**: [https://gitee.com/taohongmin-gitee/capcut-mate](https://gitee.com/taohongmin-gitee/capcut-mate)
 
