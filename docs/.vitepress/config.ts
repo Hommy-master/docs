@@ -1,16 +1,12 @@
 import { defineConfig } from 'vitepress'
 
-/** 仅英文、无 .zh 的页面 */
-const EN_ONLY = new Set(['get_text_effects'])
-
 function subIcon(emoji: string, slug: string) {
     return `<span class="icon sub-icon">${emoji}</span>${slug}`
 }
 
 /** 默认进入中文文档；页内 Language Switch 可切英文 */
 function docItem(slug: string, emoji: string) {
-    const link = EN_ONLY.has(slug) ? `/docs/${slug}` : `/docs/${slug}.zh`
-    return { text: subIcon(emoji, slug), link }
+    return { text: subIcon(emoji, slug), link: `/docs/${slug}.zh` }
 }
 
 function category(title: string, slugs: string[], emoji: string) {
