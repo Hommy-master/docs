@@ -1,25 +1,11 @@
 ---
-title: 简创AIGC官方文档 - 剪映小助手API文档
+title: 简创AIGC官方文档
 lang: zh-CN
 description: 简创AIGC剪映小助手API文档。所有 RESTful API 基地址为 https://capcut-mate.jcaigc.cn。视频导出接口 gen_video 按 0.3 元/分钟计费，其余接口免费；SVIP 享 6 折。
 keywords: 简创AIGC, 剪映小助手, API基地址, capcut-mate, gen_video, 视频导出价格, 自动化视频创作, API文档
 ---
 
 # 简创AIGC官方文档
-
-<div align="center">
-
-![简创AIGC Logo](/logo.png)
-
-**专业高效的AI内容生成平台**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Hommy-master/capcut-mate)
-[![Gitee](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=white)](https://gitee.com/taohongmin-gitee/capcut-mate)
-[![文档版本](https://img.shields.io/badge/版本-v1.0.0-blue)](#)
-
-</div>
-
----
 
 ## 📖 剪映小助手 API 文档
 
