@@ -5,13 +5,9 @@ on:
     tags:
       - 'v*'  # 当推送v开头的tag时触发
 
-# 关键：添加权限声明
-permissions:
-  contents: write
-
 jobs:
   build:
-    name: Build and Release
+    name: Build and Package
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
@@ -47,13 +43,11 @@ jobs:
         tar -czvf ../../../dist.tar.gz ./*
         cd -
 
-    # 使用社区 Action 支持覆盖
+    # 上传为 workflow artifact，保留 30 天；不写入 GitHub Releases 页面
     - name: 上传压缩包
-      uses: softprops/action-gh-release@v1
+      uses: actions/upload-artifact@v4
       with:
-        tag_name: ${{ github.ref_name }}
-        name: Release ${{ github.ref_name }}
-        files: dist.tar.gz
-        overwrite: true  # 覆盖已存在的Release
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        name: dist-${{ github.ref_name }}
+        path: dist.tar.gz
+        retention-days: 30
+        if-no-files-found: error
