@@ -114,7 +114,9 @@ SVIP 用户在 `gen_video` 标准价格基础上再打 **6 折**（即按原价�
 <h3>🎨 效果增强</h3>
 <ul>
 <li><a href="/docs/add_effects.zh.html" title="ADD_EFFECTS API - 添加视频特效">添加特效</a></li>
+<li><a href="/docs/add_beauty.zh.html" title="ADD_BEAUTY API - 添加美颜效果">添加美颜</a></li>
 <li><a href="/docs/add_masks.zh.html" title="ADD_MASKS API - 添加遮罩效果">添加遮罩</a></li>
+<li><a href="/docs/add_mask_keyframes.zh.html" title="ADD_MASK_KEYFRAMES API - 添加蒙版关键帧">添加蒙版关键帧</a></li>
 <li><a href="/docs/add_captions.zh.html" title="ADD_CAPTIONS API - 批量添加字幕">添加字幕</a></li>
 </ul>
 </div>
