@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, computed, watch, onMounted } from 'vue'
 import { huaZiData, type HuaZiItem } from './data'
+import { schematicIds } from './schematicIds'
 
 import './index.less'
 
@@ -25,16 +26,26 @@ onMounted(() => {
   }, 100)
 })
 
-// 过滤数据
+// 过滤后排序：原始预览图在前，带「生成示意图」角标的排到最后
 const filteredData = computed(() => {
-  if (!searchTerm.value.trim()) {
-    return allData.value
+  const term = searchTerm.value.trim().toLowerCase()
+  const source = term
+    ? allData.value.filter((item) => {
+        const title = item.common_attr?.title || ''
+        return title.toLowerCase().includes(term)
+      })
+    : allData.value
+
+  const originals: HuaZiItem[] = []
+  const schematics: HuaZiItem[] = []
+  for (const item of source) {
+    if (schematicIds.has(item.common_attr?.id)) {
+      schematics.push(item)
+    } else {
+      originals.push(item)
+    }
   }
-  const term = searchTerm.value.toLowerCase()
-  return allData.value.filter((item) => {
-    const title = item.common_attr?.title || ''
-    return title.toLowerCase().includes(term)
-  })
+  return originals.concat(schematics)
 })
 
 // 当前页数据
@@ -121,6 +132,9 @@ const closePreview = () => {
     <div class="huazi-header">
       <h1>花字数据查看器</h1>
       <p>浏览和搜索所有花字素材</p>
+      <p class="huazi-note">
+        ⚠️ 图片说明：带「生成示意图」角标的图片为程序按花字名称渲染的文字示意，与剪映实际花字效果存在差异，仅供参考；无角标的图片为原始花字预览图。
+      </p>
     </div>
     <div class="huazi-search">      
       <div class="huazi-search-box">
