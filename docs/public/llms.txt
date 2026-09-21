@@ -1,0 +1,48 @@
+# CapCut Mate
+
+> 剪映草稿自动化 API。Base URL: https://capcut-mate.jcaigc.cn 。路径前缀: /openapi/capcut-mate/v1/ 。时间单位为微秒（1秒=1000000）。会话状态键为 draft_url。仅 gen_video 收费并需要 apiKey，其余接口免费。
+
+所有写接口必须携带 create_draft 返回的 draft_url，禁止自行拼接 draft_id。
+video_infos / audio_infos / image_infos / captions 等列表字段是 JSON 字符串，不是对象数组。
+导出是异步：gen_video 后轮询 gen_video_status，直到 status=completed 或 failed。
+扣子拼装辅助接口（*_infos、timelines、str_to_list）在原生 function calling 中不要主动调用。
+
+## 模型调用
+
+- [调用指南](https://docs.jcaigc.cn/guide/llm-guide.zh.md): 调用顺序、硬规则与最小示例
+- [精简契约](https://docs.jcaigc.cn/guide/llm-contract.zh.md): 核心写接口的方法、必填字段与最小 JSON
+
+## 核心流程
+
+- [创建草稿](https://docs.jcaigc.cn/docs/create_draft.zh.md): 返回后续必须携带的 draft_url
+- [添加视频](https://docs.jcaigc.cn/docs/add_videos.zh.md): video_infos 为 JSON 字符串，时间为微秒
+- [添加音频](https://docs.jcaigc.cn/docs/add_audios.zh.md): audio_infos 为 JSON 字符串，时间为微秒
+- [添加图片](https://docs.jcaigc.cn/docs/add_images.zh.md): image_infos 为 JSON 字符串，时间为微秒
+- [添加字幕](https://docs.jcaigc.cn/docs/add_captions.zh.md): captions 为 JSON 字符串，时间为微秒
+- [生成视频](https://docs.jcaigc.cn/docs/gen_video.zh.md): 异步提交导出任务，可带 apiKey
+- [查询导出状态](https://docs.jcaigc.cn/docs/gen_video_status.zh.md): pending / processing / completed / failed
+
+## 增强能力
+
+- [添加特效](https://docs.jcaigc.cn/docs/add_effects.zh.md)
+- [添加滤镜](https://docs.jcaigc.cn/docs/add_filters.zh.md)
+- [添加关键帧](https://docs.jcaigc.cn/docs/add_keyframes.zh.md)
+- [添加遮罩](https://docs.jcaigc.cn/docs/add_masks.zh.md)
+- [添加蒙版关键帧](https://docs.jcaigc.cn/docs/add_mask_keyframes.zh.md)
+- [添加美颜](https://docs.jcaigc.cn/docs/add_beauty.zh.md)
+- [添加贴纸](https://docs.jcaigc.cn/docs/add_sticker.zh.md)
+- [添加文本样式](https://docs.jcaigc.cn/docs/add_text_style.zh.md)
+- [保存草稿](https://docs.jcaigc.cn/docs/save_draft.zh.md)
+- [获取草稿](https://docs.jcaigc.cn/docs/get_draft.zh.md)
+- [快速创建素材](https://docs.jcaigc.cn/docs/easy_create_material.zh.md)
+
+## Optional
+
+- [全文镜像](https://docs.jcaigc.cn/llms-full.txt): 中文接口文档合集
+- [查询动画与特效](https://docs.jcaigc.cn/docs/get_text_animations.zh.md)
+- [查询图片动画](https://docs.jcaigc.cn/docs/get_image_animations.zh.md)
+- [查询花字](https://docs.jcaigc.cn/docs/get_text_effects.zh.md)
+- [搜索贴纸](https://docs.jcaigc.cn/docs/search_sticker.zh.md)
+- [扣子用 OpenAPI](https://github.com/Hommy-master/capcut-mate/blob/main/openapi.yaml): 工作流导入，体积大，不适合直接塞进模型上下文
+- [调用指南（English）](https://docs.jcaigc.cn/guide/llm-guide.md)
+- [精简契约（English）](https://docs.jcaigc.cn/guide/llm-contract.md)

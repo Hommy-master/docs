@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import llmstxt, { copyOrDownloadAsMarkdownButtons } from 'vitepress-plugin-llms'
 
 function subIcon(emoji: string, slug: string) {
     return `<span class="icon sub-icon">${emoji}</span>${slug}`
@@ -17,33 +18,69 @@ function category(title: string, slugs: string[], emoji: string) {
     }
 }
 
-// https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
-    title: '简创AIGC官方文档', // 网站标题
-    description: '简创AIGC剪映小助手API文档，提供完整的API接口说明、使用示例和最佳实践指南，帮助开发者快速集成和使用我们的视频自动化创作服务。', // 网站描述
+    title: '简创AIGC官方文档',
+    description: '简创AIGC剪映小助手API文档，提供完整的API接口说明、使用示例和最佳实践指南，帮助开发者快速集成和使用我们的视频自动化创作服务。',
     lang: 'zh-CN',
     locales: { root: { label: '简体中文', lang: 'zh-CN' } },
+    lastUpdated: true,
+    cleanUrls: false,
+    ignoreDeadLinks: false,
+    rewrites: {
+        'api/:category/:page': 'docs/:page',
+    },
+    markdown: {
+        config(md) {
+            md.use(copyOrDownloadAsMarkdownButtons)
+        },
+    },
+    vite: {
+        plugins: [
+            llmstxt({
+                generateLLMsTxt: false,
+                generateLLMsFullTxt: true,
+                generateLLMFriendlyDocsForEachPage: true,
+                ignoreFiles: ['page/huazi.md'],
+                ignoreFilesPerOutput: {
+                    llmsFullTxt: [
+                        'docs/*.md',
+                        '!docs/*.zh.md',
+                        'guide/*.md',
+                        '!guide/*.zh.md',
+                    ],
+                },
+            }),
+        ],
+    },
     themeConfig: {
-        logo: '/logo.png', // 网站图标
-
-        // 汉化 begin
-        outlineTitle: '当前页导航', // 右侧大纲标题
-        // 文档页脚（上一页/下一页）
+        logo: '/logo.png',
+        outline: { label: '当前页导航' },
         docFooter: {
             prev: '上一页',
             next: '下一页',
         },
-        lastUpdatedText: '最后更新于',
+        lastUpdated: { text: '最后更新于' },
         darkModeSwitchLabel: '主题切换',
         sidebarMenuLabel: '菜单',
         returnToTopLabel: '返回顶部',
-        // 汉化 end
-
-        // 侧边栏：按功能分类；每项一条链接（默认中文），文内自带中英文切换
+        llms: {
+            copyText: '复制本页',
+            copiedText: '已复制',
+            viewMarkdownText: '查看 Markdown',
+            openInAIText: '在 {provider} 中打开',
+        },
         sidebar: [
             {
                 text: '<span class="icon">🎬</span>剪映小助手',
                 items: [
+                    {
+                        text: '<span class="icon">🤖</span>模型调用',
+                        collapsed: false,
+                        items: [
+                            { text: subIcon('📘', '调用指南'), link: '/guide/llm-guide.zh' },
+                            { text: subIcon('📄', '精简契约'), link: '/guide/llm-contract.zh' },
+                        ],
+                    },
                     category(
                         '<span class="icon">📋</span>草稿与导出',
                         [
@@ -111,14 +148,11 @@ export default defineConfig({
             },
         ],
         footer: {
-            // 版权前显示的信息
-            // message: 'Released under the MIT License.',
-            // 实际的版权文本
             copyright: '版权所有 © 2025 简创AIGC',
         },
     },
-    // 添加自定义CSS实现全屏效果和美化样式
     head: [
+        ['link', { rel: 'describedby', href: '/llms.txt' }],
         [
             'style',
             {},

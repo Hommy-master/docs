@@ -79,6 +79,18 @@ SVIP 用户在 `gen_video` 标准价格基础上再打 **6 折**（即按原价�
 
 ---
 
+## 🤖 模型 / Agent 接入
+
+大模型请不要抓取整站 HTML。从发现入口开始：
+
+- [llms.txt](/llms.txt) — 硬规则与分组链接（llmstxt.org）
+- [调用指南](/guide/llm-guide.zh) — 调用顺序、微秒、JSON 字符串、异步导出
+- [精简契约](/guide/llm-contract.zh) — 核心写接口的最小请求体
+
+时间单位为**微秒**（1 秒 = 1000000）。列表字段（`video_infos` 等）是 JSON 字符串。写接口必须携带 `create_draft` 返回的 `draft_url`。
+
+---
+
 ## 🔧 核心功能
 
 - **自动化视频创作** — 通过 API 自动创建和编辑视频，提升制作效率
@@ -91,6 +103,15 @@ SVIP 用户在 `gen_video` 标准价格基础上再打 **6 折**（即按原价�
 ## 📚 文档导航
 
 <div class="grid-container">
+
+<div class="grid-item">
+<h3>🤖 模型接入</h3>
+<ul>
+<li><a href="/llms.txt" title="llms.txt 发现入口">llms.txt</a></li>
+<li><a href="/guide/llm-guide.zh.html" title="模型调用指南">调用指南</a></li>
+<li><a href="/guide/llm-contract.zh.html" title="精简契约">精简契约</a></li>
+</ul>
+</div>
 
 <div class="grid-item">
 <h3>🚀 快速开始</h3>

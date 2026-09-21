@@ -4,12 +4,28 @@
 
 ```
 .
-├─ docs
+├─ docs                         # VitePress srcDir
 │  ├─ .vitepress
-│  │  └─ config.ts
-│  └─ index.md
-└─ package.json
+│  │  ├─ config.ts
+│  │  └─ theme
+│  ├─ public
+│  │  └─ llms.txt               # 模型发现入口 → /llms.txt
+│  ├─ index.md
+│  ├─ guide                     # 模型调用指南 / 精简契约
+│  ├─ api                       # 接口正文（rewrites 到 /docs/{slug}）
+│  │  ├─ draft
+│  │  ├─ media
+│  │  ├─ effects
+│  │  ├─ lookup
+│  │  ├─ helpers
+│  │  └─ string
+│  └─ page
+│     └─ huazi.md
+├─ package.json
+└─ .github/workflows/release.yml
 ```
+
+对外 URL：接口页仍是 `/docs/{slug}.zh.html`；模型镜像为 `/docs/{slug}.zh.md`；发现入口为 `/llms.txt`。
 
 ## 环境要求
 

@@ -1,12 +1,11 @@
-import type { EnhanceAppContext } from 'vitepress'
+import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import CopyOrDownloadAsMarkdownButtons from 'vitepress-plugin-llms/vitepress-components/CopyOrDownloadAsMarkdownButtons.vue'
 import './custom.css'
-// import MyCode from './Code.vue'
 
 export default {
-    ...DefaultTheme,
-    // 继承默认主题，并覆盖 Code 组件
-    enhanceApp({ app }: EnhanceAppContext) {
-        // app.component('VPCode', MyCode)
-    }
-}
+    extends: DefaultTheme,
+    enhanceApp({ app }) {
+        app.component('CopyOrDownloadAsMarkdownButtons', CopyOrDownloadAsMarkdownButtons)
+    },
+} satisfies Theme
