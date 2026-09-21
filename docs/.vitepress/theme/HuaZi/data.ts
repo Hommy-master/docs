@@ -168,8 +168,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7527336771223407934.png",
+        static_img: "/huazi/7527336771223407934.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/adeb10a317c640ac81757899b1117742?lk3s=43402efa&x-expires=1789542749&x-signature=22pq%2FdG8JchnYhWIL2vbDFVGgOs%3D",
@@ -599,8 +599,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "橙黄色描边立体花字",
       description: "橙黄色描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7477040473454939454.png",
+        static_img: "/huazi/7477040473454939454.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/16a58bfb42854376a575d8fd27728503?lk3s=43402efa&x-expires=1789542749&x-signature=FAz2L%2FVhVz%2FDehkoz4%2FITAAtFBU%3D",
@@ -651,8 +651,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "动感黄色发光故障风花字",
       description: "动感黄色发光故障风花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406159958045232435.png",
+        static_img: "/huazi/7406159958045232435.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a8481afe3d7b4e6bb00d64d1a90c4f58?lk3s=43402efa&x-expires=1789542749&x-signature=rtXp9b%2BEmF0rGxIY44cBvCFHvqE%3D",
@@ -704,8 +704,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "渐变黄红色发光字",
       description: "渐变黄红色发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404758577623289123.png",
+        static_img: "/huazi/7404758577623289123.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/272ddbcaef554a969216083eaf2c1ffe?lk3s=43402efa&x-expires=1789542749&x-signature=cyveqCTxHiZOI0l3FFaYzY2l1dU%3D",
@@ -863,8 +863,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "618立体",
       description: "618立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7508541988401368345.png",
+        static_img: "/huazi/7508541988401368345.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c2b4ecf0f14c4cddadc22a94592e54c3?lk3s=43402efa&x-expires=1789542749&x-signature=o1RIn%2FEOu3wYtbBGXtp8YCxd4Mk%3D",
@@ -915,8 +915,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7545767280450227481.png",
+        static_img: "/huazi/7545767280450227481.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/33148adc228242acb8e3366a39d8826f?lk3s=43402efa&x-expires=1789542749&x-signature=pU36VVt7A3TKO528K2zSzveRKwM%3D",
@@ -967,8 +967,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "渐变黄色立体描边花字",
       description: "渐变黄色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404010442118515994.png",
+        static_img: "/huazi/7404010442118515994.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5285a819327247e49ffa9818a7ccb330?lk3s=43402efa&x-expires=1789542749&x-signature=X5pN3TQIuAkyndiBtQlptgom45I%3D",
@@ -1127,8 +1127,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝字黄背景字",
       description: "蓝字黄背景字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431415454515612963.png",
+        static_img: "/huazi/7431415454515612963.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0f8a9b041a984efe9779e2c9a4a9a607?lk3s=43402efa&x-expires=1789542749&x-signature=Uxcu%2BIDPmOzhxyndWa6UHpTW9wU%3D",
@@ -1233,8 +1233,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变描边花字",
       description: "黄色渐变描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404668885196131603.png",
+        static_img: "/huazi/7404668885196131603.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/223a6a51d355427d8e5a655f9912ee4e?lk3s=43402efa&x-expires=1789542749&x-signature=ixYjvnAmpuIP3EyKnAhNKaarpO4%3D",
@@ -1286,8 +1286,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色花字",
       description: "黄色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7508204538659310872.png",
+        static_img: "/huazi/7508204538659310872.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ddc7c4646b4642cda78c0bb5928e613d?lk3s=43402efa&x-expires=1789542749&x-signature=OZ9i48848Lb11PLiaB2SXWD1qgc%3D",
@@ -1338,8 +1338,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白色纹理花字",
       description: "白色纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405520166701813018.png",
+        static_img: "/huazi/7405520166701813018.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8cee5aba4b2a4645870493efa729e46e?lk3s=43402efa&x-expires=1789542749&x-signature=SjnRhogyZrkIOV9FYcy%2Bnh6Ag%2BQ%3D",
@@ -1444,8 +1444,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄红色渐变立体花字",
       description: "黄红色渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7477792820707757336.png",
+        static_img: "/huazi/7477792820707757336.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e6320ed9a57b41b2813937a3be114d82?lk3s=43402efa&x-expires=1789542749&x-signature=hrjHnuI4yLnAXV4B5vU%2B20SaqrM%3D",
@@ -1600,8 +1600,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430745422412549385.png",
+        static_img: "/huazi/7430745422412549385.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/dc50d5f227c64658ad35c9bc95dc7fc4?lk3s=43402efa&x-expires=1789542749&x-signature=cOqTnnE9A1Bu0P9Ru80I9%2FdQeHQ%3D",
@@ -1653,8 +1653,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色渐变花光字",
       description: "蓝色渐变花光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406860981114015014.png",
+        static_img: "/huazi/7406860981114015014.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c1f7a072f951444189de9c6fa0c2a384?lk3s=43402efa&x-expires=1789542749&x-signature=xCo6gr1z214GXVjhKSVjzkMI5mo%3D",
@@ -1706,8 +1706,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色立体字（秋天）",
       description: "黄色立体字（秋天）",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405788077832080659.png",
+        static_img: "/huazi/7405788077832080659.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/76c692434d8a4c368909520f0c96d934?lk3s=43402efa&x-expires=1789542749&x-signature=VV2%2FKtu1fS7rKr57s8n5HtkMBxY%3D",
@@ -1865,8 +1865,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红黄描边立体",
       description: "红黄描边立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7479056232117062937.png",
+        static_img: "/huazi/7479056232117062937.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3812150cb366442b97800dbe9ee62725?lk3s=43402efa&x-expires=1789542749&x-signature=HbzfyhYPV1vG0EJVyeGuRC2x3fw%3D",
@@ -2025,8 +2025,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺风红色渐变纹理立体花字",
       description: "综艺风红色渐变纹理立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7478970969026022680.png",
+        static_img: "/huazi/7478970969026022680.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/634e129ee857419886797822104f4c4b?lk3s=43402efa&x-expires=1789542749&x-signature=CgYoorJttgE4pETAQapQx%2Fz3dV4%3D",
@@ -2077,8 +2077,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色立体描边文字",
       description: "蓝色立体描边文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406221865171111208.png",
+        static_img: "/huazi/7406221865171111208.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e3abeb1434ca46c5b954279e89aec237?lk3s=43402efa&x-expires=1789542749&x-signature=Oa27LLGdiLlnZX5TIC4Fi5bopCQ%3D",
@@ -2182,8 +2182,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色蜡笔纹理立体花字",
       description: "蓝色蜡笔纹理立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404700591949204799.png",
+        static_img: "/huazi/7404700591949204799.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7dbf5285c5cb4a01bcd8e98713a1446e?lk3s=43402efa&x-expires=1789542749&x-signature=Sz5%2BF0pUlkXCUgWS7uVcbPgM2T8%3D",
@@ -2235,8 +2235,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉笔拼贴花字（教师节）",
       description: "粉笔拼贴花字（教师节）",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403915995569474870.png",
+        static_img: "/huazi/7403915995569474870.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ed2c7013e7fb464bbbe19732c68a9ffb?lk3s=43402efa&x-expires=1789542749&x-signature=sNpO0lieq5F52iWRVgTCLdivPrM%3D",
@@ -2288,8 +2288,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变粉蓝描边立体花字",
       description: "黄色渐变粉蓝描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7523881114054970648.png",
+        static_img: "/huazi/7523881114054970648.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/669d782c1da046ffaeb4e5615726c2e1?lk3s=43402efa&x-expires=1789542749&x-signature=2IIIDTwvLKY1RWp5BvJlxfcTWHw%3D",
@@ -2557,8 +2557,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色立体描边多彩花字",
       description: "黄色立体描边多彩花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404837954532789523.png",
+        static_img: "/huazi/7404837954532789523.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0ecb7fc08d0a4538bd5368adc5a23261?lk3s=43402efa&x-expires=1789542749&x-signature=RrbajsFDx1VO1T1pbb%2BSbzptIDo%3D",
@@ -2663,8 +2663,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色紫色渐变立体描边花字",
       description: "红色紫色渐变立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7506824081531243801.png",
+        static_img: "/huazi/7506824081531243801.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6e77e4f7985c4af89889c1d57868ee10?lk3s=43402efa&x-expires=1789542749&x-signature=TRLYwvl9m3ERnSgongXUA%2BHnxTk%3D",
@@ -2874,8 +2874,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "冬至立体",
       description: "冬至立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430861390933413130.png",
+        static_img: "/huazi/7430861390933413130.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/86c382736d62463baecca363130486eb?lk3s=43402efa&x-expires=1789542749&x-signature=EsQRe5kXXk7AT6CFqUZfKf%2FQOl0%3D",
@@ -3033,8 +3033,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "橘黄色渐变温柔发光花字",
       description: "橘黄色渐变温柔发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7467426470714051902.png",
+        static_img: "/huazi/7467426470714051902.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f4a4dc922b7147db828433c963d52908?lk3s=43402efa&x-expires=1789542749&x-signature=kZXvqUOLMMHnzYpCgeiiD2sqCQo%3D",
@@ -3085,8 +3085,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色闪粉星光闪闪发光划走",
       description: "蓝色闪粉星光闪闪发光划走",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7496504150797274393.png",
+        static_img: "/huazi/7496504150797274393.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c165eafbf90342d086e12b97f5c0da97?lk3s=43402efa&x-expires=1789542749&x-signature=4zV8hr%2B6MzekB2J6LHZlRbc6Sws%3D",
@@ -3296,8 +3296,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "岩石花字",
       description: "岩石花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7477883005953051928.png",
+        static_img: "/huazi/7477883005953051928.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2df35ef472ea466795502ccfe3ce2bcc?lk3s=43402efa&x-expires=1789542749&x-signature=8EkthoA8gElqv21LI1WRXCsQg2k%3D",
@@ -3401,8 +3401,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "简约黄蓝方块综艺花字",
       description: "简约黄蓝方块综艺花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7494576393569733913.png",
+        static_img: "/huazi/7494576393569733913.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f2c1672b489e448489e005520b354a23?lk3s=43402efa&x-expires=1789542749&x-signature=LAFrwH2JEssnenEgROlGZcELYBc%3D",
@@ -3453,8 +3453,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色",
       description: "红色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7511243674546867518.png",
+        static_img: "/huazi/7511243674546867518.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/116f7bebf6fd4121988c5dc807d60f59?lk3s=43402efa&x-expires=1789542749&x-signature=cFOlh62oqCXvpVq651wRqTpHnbk%3D",
@@ -3505,8 +3505,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "运动教程-花字",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7311259516392197439.png",
+        static_img: "/huazi/7311259516392197439.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/oAtsLeCNNnlDdF8OpgATCW2HIbU3DfADa9AAtA?lk3s=43402efa&x-expires=1789542749&x-signature=ZelMJ5XgDPU0SeD2Q%2FKUS23xSDQ%3D",
@@ -3562,8 +3562,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "3D蓝字黄边立体综艺花字",
       description: "3D蓝字黄边立体综艺花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404134454844788018.png",
+        static_img: "/huazi/7404134454844788018.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/47914c578b0c40b8bbf466682fc3d7e7?lk3s=43402efa&x-expires=1789542749&x-signature=rnYYzKn6PDBouc9q%2F32SW0qrDuk%3D",
@@ -3615,8 +3615,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变纹理粉蓝立体花字",
       description: "黄色渐变纹理粉蓝立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7485579082764225817.png",
+        static_img: "/huazi/7485579082764225817.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2f6562b1df744fcea22b010885173c34?lk3s=43402efa&x-expires=1789542749&x-signature=TlFA3tKUMKdfXDSW8ecDzFnGgs0%3D",
@@ -3722,8 +3722,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红粉渐变花字",
       description: "红粉渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405872381320842515.png",
+        static_img: "/huazi/7405872381320842515.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f95a795d52d74a868bbd9ffc309b176b?lk3s=43402efa&x-expires=1789542749&x-signature=gvrar3db%2FKsPWcHGxFPWOHro1AM%3D",
@@ -3775,8 +3775,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色阴森情绪发光花字",
       description: "紫色阴森情绪发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406170424935058726.png",
+        static_img: "/huazi/7406170424935058726.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/233e44c61eb24eddb4706d754dba7d66?lk3s=43402efa&x-expires=1789542749&x-signature=MpyGQ4YDGJGtX9F%2Bi23pqA1Chig%3D",
@@ -3934,8 +3934,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红黄渐变背景花字",
       description: "红黄渐变背景花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404440675225292083.png",
+        static_img: "/huazi/7404440675225292083.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/53256224018a4ee890d4d10aa5cc54da?lk3s=43402efa&x-expires=1789542749&x-signature=Hptov2zAWJk1ttXnSzm6mnwwcqo%3D",
@@ -4040,8 +4040,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄紫撞色复古立体字",
       description: "黄紫撞色复古立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405221368561700148.png",
+        static_img: "/huazi/7405221368561700148.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4ecf0be78ed24c1a9d7e1e2f575ab784?lk3s=43402efa&x-expires=1789542749&x-signature=HFGt6CpYfzh1LVrE5H9N148n4O0%3D",
@@ -4199,8 +4199,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色复古投影字",
       description: "红色复古投影字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405906746461424930.png",
+        static_img: "/huazi/7405906746461424930.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d864acfe362644ebb822767f11620018?lk3s=43402efa&x-expires=1789542749&x-signature=yODUyGXgP8AMlht4lJdVRdDXMwE%3D",
@@ -4252,8 +4252,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "像素化花字",
       description: "像素化花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7488151895048211736.png",
+        static_img: "/huazi/7488151895048211736.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0eaef651c68f46718da61fe59278d2d1?lk3s=43402efa&x-expires=1789542749&x-signature=2iS%2B8IZDaboiDVFYz3za5dQ6%2Fvg%3D",
@@ -4304,8 +4304,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝橙色立体花字",
       description: "蓝橙色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7492933140210666776.png",
+        static_img: "/huazi/7492933140210666776.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/490eb8e7683944498d05e8c62eb62cfb?lk3s=43402efa&x-expires=1789542749&x-signature=1c3rfYxu%2FXD3UCnbDhDAJ55qLuw%3D",
@@ -4521,8 +4521,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺红黄立体",
       description: "综艺红黄立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7434585603439742218.png",
+        static_img: "/huazi/7434585603439742218.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/484dcd177dc74aa1943bad2fed099ba7?lk3s=43402efa&x-expires=1789542749&x-signature=iWYUd34bsWSsE1Ge3fr%2BA90aN7w%3D",
@@ -4627,8 +4627,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄红蓝边立体花字",
       description: "黄红蓝边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7525867881331215640.png",
+        static_img: "/huazi/7525867881331215640.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/20488069fb334d81b1f709839837cc7b?lk3s=43402efa&x-expires=1789542749&x-signature=bAfOeZEEDU11jzvbtYI%2BwU6Wz%2BI%3D",
@@ -4732,8 +4732,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄蓝立体字",
       description: "黄蓝立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431490038736702760.png",
+        static_img: "/huazi/7431490038736702760.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c26ebdfb45a24eb7b6bce8917dc8a35f?lk3s=43402efa&x-expires=1789542749&x-signature=JEn9Y%2BKscEzLlp%2Fp0OwwmEvEMx0%3D",
@@ -4785,8 +4785,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7533790251915955518.png",
+        static_img: "/huazi/7533790251915955518.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a6b3ff6a370d4fe5bb97ae4769466733?lk3s=43402efa&x-expires=1789542749&x-signature=tANc2alp41ZogMmkNxOPRJeqsJQ%3D",
@@ -4837,8 +4837,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色霓虹灯发光花字",
       description: "黄色霓虹灯发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7408956728529751333.png",
+        static_img: "/huazi/7408956728529751333.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f21e71461a0140b69335c5f799b88f52?lk3s=43402efa&x-expires=1789542749&x-signature=%2BtVR0pfKa2m5%2BDkD9vLLKzz09xw%3D",
@@ -4890,8 +4890,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7532883085390548286.png",
+        static_img: "/huazi/7532883085390548286.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/82c587018d274764a23b1d4d44eccda8?lk3s=43402efa&x-expires=1789542749&x-signature=nlPIBnDxEBhFWn6gqWSHpYtLBtk%3D",
@@ -4942,8 +4942,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色马卡龙",
       description: "黄色马卡龙",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7509743284898794777.png",
+        static_img: "/huazi/7509743284898794777.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/17fa8d671d9c449490da710e170e21c5?lk3s=43402efa&x-expires=1789542749&x-signature=hd%2Bq08cRtF%2F9xxAXGGmVZhxu29g%3D",
@@ -4994,8 +4994,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "撞色描边立体字",
       description: "撞色描边立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406334288930557218.png",
+        static_img: "/huazi/7406334288930557218.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b5be29fda2df4c3487c3ca89fa008e51?lk3s=43402efa&x-expires=1789542749&x-signature=XHWkSIhREhJYVraWWL%2Be9XkiSlI%3D",
@@ -5047,8 +5047,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "游戏像素文字效果花字",
       description: "游戏像素文字效果花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405871504769961254.png",
+        static_img: "/huazi/7405871504769961254.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a8e51c448c314177a49afadb6c6a7dbf?lk3s=43402efa&x-expires=1789542749&x-signature=W1tf%2BqeOejt59xhmOW2ZfqdNcqo%3D",
@@ -5100,8 +5100,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色立体字",
       description: "粉色立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7475271686095506712.png",
+        static_img: "/huazi/7475271686095506712.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/217197dafddd4f7b826cbc16b9e7a81b?lk3s=43402efa&x-expires=1789542749&x-signature=6uYHgEAE%2Fw%2F%2FVFSFIHj8BCfjMPc%3D",
@@ -5152,8 +5152,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "霓虹灯花字",
       description: "霓虹灯花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7330423055900069155.png",
+        static_img: "/huazi/7330423055900069155.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/571769be132d4037aea980824519f350?lk3s=43402efa&x-expires=1789542749&x-signature=JTYdOI%2FiSVFm8sCG%2B1Mjzy7fIiY%3D",
@@ -5310,8 +5310,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉紫描边立体",
       description: "粉紫描边立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7474511004676803902.png",
+        static_img: "/huazi/7474511004676803902.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e049787cb58848bd85f802074ff887e8?lk3s=43402efa&x-expires=1789542749&x-signature=rxd6cyqWGbHUeE7RlwlUu1ryy8Q%3D",
@@ -5362,8 +5362,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7495665652816956697.png",
+        static_img: "/huazi/7495665652816956697.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/94f257ff67de47a0b266ffc57028a633?lk3s=43402efa&x-expires=1789542749&x-signature=1dH6G92ncqAF50wcR%2BHGB8bvOLI%3D",
@@ -5414,8 +5414,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "渐变黄色中秋圆底花字",
       description: "渐变黄色中秋圆底花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405070516706381092.png",
+        static_img: "/huazi/7405070516706381092.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3f4d2000141141ffb885023f5b9f8eb5?lk3s=43402efa&x-expires=1789542749&x-signature=W3XoHCqrWEFZU7xc7NRsiBiBaNg%3D",
@@ -5467,8 +5467,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古背景字",
       description: "复古背景字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430809868333780259.png",
+        static_img: "/huazi/7430809868333780259.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c6c764e25f094d4e8bf3231204a629b0?lk3s=43402efa&x-expires=1789542749&x-signature=sJo3WNkiTnmzIkiye6e7YI1VCOc%3D",
@@ -5573,8 +5573,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄绿发光字",
       description: "黄绿发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403962881252805903.png",
+        static_img: "/huazi/7403962881252805903.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/cfeee65f0b3540668e91de543f3af71c?lk3s=43402efa&x-expires=1789542749&x-signature=UudzUiGBqNG%2FAEshLzKpexX6l%2Bw%3D",
@@ -5679,8 +5679,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7525463353603640601.png",
+        static_img: "/huazi/7525463353603640601.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8e597f705c794d01b157e944f5f934e2?lk3s=43402efa&x-expires=1789542749&x-signature=68dlCkgGjSKceNodD2sTIBCbPmA%3D",
@@ -5731,8 +5731,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色描边白色字",
       description: "粉色描边白色字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7474605929825193240.png",
+        static_img: "/huazi/7474605929825193240.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7ca87b825d374b539022b32ea228b6bf?lk3s=43402efa&x-expires=1789542749&x-signature=2zltlDt5Xdon%2B6oH9sEy43xTp7Y%3D",
@@ -5888,8 +5888,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色东南亚",
       description: "绿色东南亚",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7411032759457631515.png",
+        static_img: "/huazi/7411032759457631515.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d57cb443934440d1889e0b0acbbc80b6?lk3s=43402efa&x-expires=1789542749&x-signature=2bIAjTIWnapY%2FGPXJj54i%2Bpsqr8%3D",
@@ -5941,8 +5941,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色纸纹纹理花字",
       description: "蓝色纸纹纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7520663448003415358.png",
+        static_img: "/huazi/7520663448003415358.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6e680e2f3ba34b7bbceb97ce52e809b6?lk3s=43402efa&x-expires=1789542749&x-signature=VLqkaunfhT9irYKSZ4AOvVEh4Gw%3D",
@@ -5993,8 +5993,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红黄渐变发光字",
       description: "红黄渐变发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406976068789210403.png",
+        static_img: "/huazi/7406976068789210403.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/52dc86c052594b5280d806c56f86ccb9?lk3s=43402efa&x-expires=1789542749&x-signature=MMOdaYiqtFty9T0dUW6yYiezFdI%3D",
@@ -6099,8 +6099,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色立体字",
       description: "粉色立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404321887817452800.png",
+        static_img: "/huazi/7404321887817452800.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9defff4392464bf5b97707a0ca581377?lk3s=43402efa&x-expires=1789542749&x-signature=LhWNyOekJhBOaR%2B3Og3nCiu9sQE%3D",
@@ -6152,8 +6152,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金属划痕暗黑立体字",
       description: "金属划痕暗黑立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405501393248881960.png",
+        static_img: "/huazi/7405501393248881960.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7d884e33b9564fb582d5445ed572e181?lk3s=43402efa&x-expires=1789542749&x-signature=fdZmZvb2qxbF5l1ZWEBvYH4x%2Fjk%3D",
@@ -6205,8 +6205,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色",
       description: "粉色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7507145578984361241.png",
+        static_img: "/huazi/7507145578984361241.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/42799f2b89714f4eb6f08abf79714439?lk3s=43402efa&x-expires=1789542749&x-signature=XzJW%2BVz00bRlhyyz22ICcv5f3No%3D",
@@ -6257,8 +6257,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "橘黄色立体字",
       description: "橘黄色立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407078807309503744.png",
+        static_img: "/huazi/7407078807309503744.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/cd3cbb1bf46e4460ac41a4e4a60fa8f2?lk3s=43402efa&x-expires=1789542749&x-signature=WnTjwUtGG96H9inTaS3ARbaGnVM%3D",
@@ -6363,8 +6363,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "三花猫配色",
       description: "三花猫配色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7532428202199797016.png",
+        static_img: "/huazi/7532428202199797016.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/431a3815ecb4492e8a8c638b8a1ea58e?lk3s=43402efa&x-expires=1789542749&x-signature=oYOrCgxKvj1DAn1hTPJbHpezrRQ%3D",
@@ -6520,8 +6520,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红绿撞色发光字",
       description: "红绿撞色发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406650793631223075.png",
+        static_img: "/huazi/7406650793631223075.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5c7875abca904d449bab9411105a5cc9?lk3s=43402efa&x-expires=1789542749&x-signature=875XEDKO7cHy6TriJNApO6AeA1k%3D",
@@ -6679,8 +6679,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝绿纹理花字",
       description: "蓝绿纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7527597707930799422.png",
+        static_img: "/huazi/7527597707930799422.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/34db7e834b2f472bb9e1fe9d9d1f8ebe?lk3s=43402efa&x-expires=1789542749&x-signature=C4OBiekce2Ln%2Faq%2Fz%2Bou5CDVkmE%3D",
@@ -6837,8 +6837,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7478268728992419096.png",
+        static_img: "/huazi/7478268728992419096.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7e336f00baa1491999e0c223b71183d5?lk3s=43402efa&x-expires=1789542749&x-signature=Cc%2B5UweQ9foShikYjloqzMU8gLo%3D",
@@ -6995,8 +6995,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "未来科技感发光花字",
       description: "未来科技感发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404471553607421222.png",
+        static_img: "/huazi/7404471553607421222.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8e28c005b83c4a4bb83160dd46f33945?lk3s=43402efa&x-expires=1789542749&x-signature=9fWhz43G%2FO2UcLJOjMvDlrWscUU%3D",
@@ -7101,8 +7101,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "橙色渐变花字",
       description: "橙色渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404263174230297882.png",
+        static_img: "/huazi/7404263174230297882.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2864ada7052d4a8f9fea7652ec65f39f?lk3s=43402efa&x-expires=1789542749&x-signature=JFUWrQZG4FVvW%2B%2Br2SbIl92miQc%3D",
@@ -7154,8 +7154,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "可爱花字",
       description: "可爱花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430667459683831079.png",
+        static_img: "/huazi/7430667459683831079.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/83c5b9abebdd455c80c87a19e20b69c7?lk3s=43402efa&x-expires=1789542749&x-signature=jrdQFQRiqjFNpZ8IYpVmoTsQWZw%3D",
@@ -7418,8 +7418,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "酸性质感花字",
       description: "酸性质感花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7481664682638560537.png",
+        static_img: "/huazi/7481664682638560537.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/be7bb3e2cd174e368ab7508282fbf23c?lk3s=43402efa&x-expires=1789542749&x-signature=4hinU0AgsCHSlCzwCVITtmIwOw8%3D",
@@ -7522,8 +7522,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "赛博朋克风故障字",
       description: "赛博朋克风故障字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404304312135896360.png",
+        static_img: "/huazi/7404304312135896360.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9fcfec3582804afeaf0ee2ead6cbd982?lk3s=43402efa&x-expires=1789542749&x-signature=H1xZnIO7J%2Fu5EVUSX9wbPDEWPX4%3D",
@@ -7628,8 +7628,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉橙立体花字",
       description: "粉橙立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7475398432807521561.png",
+        static_img: "/huazi/7475398432807521561.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a7c00ed759524603b4237c2028036f08?lk3s=43402efa&x-expires=1789542749&x-signature=iETIJaHZRQtHMHlpj3UJVWnCtC4%3D",
@@ -7839,8 +7839,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "薰衣草",
       description: "薰衣草",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7509044952912055614.png",
+        static_img: "/huazi/7509044952912055614.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4cec9857708f4d4c8384b733e5b7129b?lk3s=43402efa&x-expires=1789542749&x-signature=kO12%2BWE9kt8LxayHhQEavJGz7J0%3D",
@@ -7944,8 +7944,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "马卡龙色渐变文字",
       description: "马卡龙色渐变文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406238235141213440.png",
+        static_img: "/huazi/7406238235141213440.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b0c4cbffc3af46529110fbfa3b32e9cc?lk3s=43402efa&x-expires=1789542749&x-signature=lTM6LzJhDOoKORCuSx1njsxrvsE%3D",
@@ -8103,8 +8103,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "描边橙色黄色双色立体花字",
       description: "描边橙色黄色双色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405049138867424523.png",
+        static_img: "/huazi/7405049138867424523.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/407e574592e84b408b82471e6d3de291?lk3s=43402efa&x-expires=1789542749&x-signature=YySJJUelkTnMfv9HcoBW5yjKU4s%3D",
@@ -8156,8 +8156,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色渐变",
       description: "粉色渐变",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7491540791689530686.png",
+        static_img: "/huazi/7491540791689530686.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/19cd56f54d9f4a23b6279d7336c06bed?lk3s=43402efa&x-expires=1789542749&x-signature=pL4vCS5K56rUGs5ElkPWe8V9rUw%3D",
@@ -8208,8 +8208,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄粉色立体渐变花字",
       description: "黄粉色立体渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7371110382393494793.png",
+        static_img: "/huazi/7371110382393494793.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e9a8c63b330f4ceeb247f5707d2fc798?lk3s=43402efa&x-expires=1789542749&x-signature=BE3CaeS3i0z4hhWYrp72rmwsTJk%3D",
@@ -8314,8 +8314,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "莫兰迪清新蓝色描边花字",
       description: "莫兰迪清新蓝色描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404083693003853096.png",
+        static_img: "/huazi/7404083693003853096.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8ddc1b98baf148a987cc7947b070c680?lk3s=43402efa&x-expires=1789542749&x-signature=9THadsetbbspXDhjVsvF8eu5DoE%3D",
@@ -8367,8 +8367,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "节日花字",
       description: "节日花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405888865132711220.png",
+        static_img: "/huazi/7405888865132711220.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/341e71ecb7924f8a815ec55c8446e4b6?lk3s=43402efa&x-expires=1789542749&x-signature=KW0d41N2hF32l1q%2FVvuup9TMQJA%3D",
@@ -8693,8 +8693,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄绿色立体纹理花字",
       description: "黄绿色立体纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404772432323546422.png",
+        static_img: "/huazi/7404772432323546422.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ad58c5a2ad274781b1fdddd856c75f13?lk3s=43402efa&x-expires=1789542749&x-signature=8MVsVXtcQRmUWAXP%2BhhDFmLEDtg%3D",
@@ -9064,8 +9064,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿橙花字",
       description: "绿橙花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7392196588426382629.png",
+        static_img: "/huazi/7392196588426382629.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4fba283295fd4478adf6c42502320c6c?lk3s=43402efa&x-expires=1789542749&x-signature=YAa2zXK9c0aNanXXfaSqAUQ10qU%3D",
@@ -9117,8 +9117,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "中式背景框文字",
       description: "中式背景框文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406225575712443663.png",
+        static_img: "/huazi/7406225575712443663.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0b38bbb676c14585b1d666d9584167dc?lk3s=43402efa&x-expires=1789542749&x-signature=Vx962PPhMlaHqTqCZHl6fErOKVU%3D",
@@ -9275,8 +9275,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄绿综艺花字",
       description: "黄绿综艺花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7476505479364201753.png",
+        static_img: "/huazi/7476505479364201753.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/604bd4687c764ed7bd7589446d2dd9b0?lk3s=43402efa&x-expires=1789542749&x-signature=mTV40AmPpUzwjjvzK5c1Vx3bejU%3D",
@@ -9327,8 +9327,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "抹茶绿多层描边立体花字",
       description: "抹茶绿多层描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405039371037986089.png",
+        static_img: "/huazi/7405039371037986089.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c6e7d41f027341bbbe611c29d8352a3e?lk3s=43402efa&x-expires=1789542749&x-signature=y1vMQjFcCGwm%2FhluSSPdlzqqIjI%3D",
@@ -9380,8 +9380,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉紫色渐变立体发光花字",
       description: "粉紫色渐变立体发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407013513979251978.png",
+        static_img: "/huazi/7407013513979251978.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a348a78a097e4f398b681004c7497102?lk3s=43402efa&x-expires=1789542749&x-signature=uwH0BUm0hl9sWOTmxUmv2SDOIeU%3D",
@@ -9433,8 +9433,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红粉色渐变立体发光花字",
       description: "红粉色渐变立体发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7475276656626863385.png",
+        static_img: "/huazi/7475276656626863385.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/fdcdbf64eb3a4471aa2337db98315a92?lk3s=43402efa&x-expires=1789542749&x-signature=JyQd1Bl6Lq01oizl0XlpaocZIWM%3D",
@@ -9485,8 +9485,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7543043727103675673.png",
+        static_img: "/huazi/7543043727103675673.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ca613f3c67ab4475ac00726dc5449032?lk3s=43402efa&x-expires=1789542749&x-signature=ksPb8al8jHwcYIVlh%2Bk3AoE7%2Bmo%3D",
@@ -9854,8 +9854,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "五一立体",
       description: "五一立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7359406447718862131.png",
+        static_img: "/huazi/7359406447718862131.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/672b834eb9e04c0c952326f9bd7cd787?lk3s=43402efa&x-expires=1789542749&x-signature=NgXZfNWZp5xCHi2dWyr9eVpquK4%3D",
@@ -9907,8 +9907,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色紫边立体字",
       description: "粉色紫边立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7409954407321783586.png",
+        static_img: "/huazi/7409954407321783586.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6f67c720974b429db14b2a73457b264f?lk3s=43402efa&x-expires=1789542749&x-signature=%2BzrVj3UW5CHluozLRLbL%2FrmFyu8%3D",
@@ -10118,8 +10118,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古红色立体花字",
       description: "复古红色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7480506672746794264.png",
+        static_img: "/huazi/7480506672746794264.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3615a0d9456d46b2bdda42f9800d6baa?lk3s=43402efa&x-expires=1789542749&x-signature=Wc7%2Fcdk25IAS46ufPPkxr7Jxos4%3D",
@@ -10170,8 +10170,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色花字",
       description: "绿色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431433243922107689.png",
+        static_img: "/huazi/7431433243922107689.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/oEg4wzAAfCCYAQBIeZDhD2AgNiGFOkUAFDiEA2?lk3s=43402efa&x-expires=1789542749&x-signature=sHPL6HPcqFFRLaHXhvMwlUJiX5g%3D",
@@ -10223,8 +10223,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "美妆纹理",
       description: "美妆纹理",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7411406288350874917.png",
+        static_img: "/huazi/7411406288350874917.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e3a2c65e0e8348229e101945c82535a1?lk3s=43402efa&x-expires=1789542749&x-signature=HLDd5GmhoCzwPN7mO13IEnYit%2FM%3D",
@@ -10276,8 +10276,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄绿花字",
       description: "黄绿花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404294636656774451.png",
+        static_img: "/huazi/7404294636656774451.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e652134e585b471fa6c9682beacf89e6?lk3s=43402efa&x-expires=1789542749&x-signature=XLIB8vXepLVhqDLSeclKaOkVx2o%3D",
@@ -10329,8 +10329,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "糖果色彩色渐变描边花字",
       description: "糖果色彩色渐变描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404705863442713910.png",
+        static_img: "/huazi/7404705863442713910.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4798ee042aba4a28a56db2f6498a41b3?lk3s=43402efa&x-expires=1789542749&x-signature=HGCpALrFI5HjWokHmv%2FbyFQwJGI%3D",
@@ -10488,8 +10488,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "纹理花字",
       description: "纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7339054041458036006.png",
+        static_img: "/huazi/7339054041458036006.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d71b8ec363654124973b3a79236a00fb?lk3s=43402efa&x-expires=1789542749&x-signature=bhdOCvCtyYob64aZEfaufJ6zGSI%3D",
@@ -10541,8 +10541,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "纹理复古深色字",
       description: "纹理复古深色字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404307108625206563.png",
+        static_img: "/huazi/7404307108625206563.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/39784c69d2e94f3581950e804a54d5c2?lk3s=43402efa&x-expires=1789542749&x-signature=MzMN6T3%2F8HSwz00qM1ax24%2BuE7g%3D",
@@ -10863,8 +10863,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色描边纹理立体字",
       description: "红色描边纹理立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405218557342059816.png",
+        static_img: "/huazi/7405218557342059816.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7d16ffc1d51d43fda7803ce6cb2b4b51?lk3s=43402efa&x-expires=1789542752&x-signature=kTt6TBZtpbMNaKV84hxWK7wfIMo%3D",
@@ -10916,8 +10916,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色渐变阴影立体花字",
       description: "蓝色渐变阴影立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7495216846946274584.png",
+        static_img: "/huazi/7495216846946274584.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b9c0085b88e54329af94394998191c2e?lk3s=43402efa&x-expires=1789542752&x-signature=6rqE42VAU8n8qxsLQK4tZlVvnZY%3D",
@@ -10968,8 +10968,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色立体纹理花字",
       description: "红色立体纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405838293843070234.png",
+        static_img: "/huazi/7405838293843070234.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b8546520035145ecbbbf8abdc909e30d?lk3s=43402efa&x-expires=1789542752&x-signature=QlvdeOzGZbYiHPubtI6G3c7yVO8%3D",
@@ -11127,8 +11127,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝白色渐变立体花字",
       description: "蓝白色渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404520330502458674.png",
+        static_img: "/huazi/7404520330502458674.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8129f94464ac4c5aab3865bcb89c529b?lk3s=43402efa&x-expires=1789542752&x-signature=TzN9qNIWiCwlv8cFTmoLlc0w4jE%3D",
@@ -11180,8 +11180,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7547970729258519833.png",
+        static_img: "/huazi/7547970729258519833.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/72206da3a2fc4c68b02b7bdf893f7793?lk3s=43402efa&x-expires=1789542752&x-signature=j%2BL6Ff5NYil9yOV2O9LWQFnGC7Q%3D",
@@ -11232,8 +11232,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色",
       description: "蓝色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7507097456283274520.png",
+        static_img: "/huazi/7507097456283274520.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9157ed1acf2e4acc9a29252ae970a501?lk3s=43402efa&x-expires=1789542752&x-signature=fVUJlDkQmkqcQLzxGV9%2B7ku3P5s%3D",
@@ -11337,8 +11337,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "愚人节立体",
       description: "愚人节立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7482688482754694462.png",
+        static_img: "/huazi/7482688482754694462.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/af14a8e4ddf042a6a4da0325a2f1508a?lk3s=43402efa&x-expires=1789542752&x-signature=J51YFmC88S6u9PSWvsXn5%2BGQ1CE%3D",
@@ -11389,8 +11389,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "中秋桂花花字",
       description: "中秋桂花花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406740764207713577.png",
+        static_img: "/huazi/7406740764207713577.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c4a032c1556b4709938f209bb50f7b62?lk3s=43402efa&x-expires=1789542752&x-signature=Aqt9GI3bKjaUzxCFvAe35iDlfec%3D",
@@ -11442,8 +11442,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7455608333563874585.png",
+        static_img: "/huazi/7455608333563874585.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8f7c12b1ff6a43f69a7e5d3c1c6e19bd?lk3s=43402efa&x-expires=1789542752&x-signature=EaLGbAMSXn5r1bBH%2Fn2KHTx9tiw%3D",
@@ -11494,8 +11494,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "双十一红黄立体",
       description: "双十一红黄立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430822256806284594.png",
+        static_img: "/huazi/7430822256806284594.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/35a5680b3103414aae162977ce6617b7?lk3s=43402efa&x-expires=1789542752&x-signature=spPim5jQ0GJCXOWjDypARMDb6bM%3D",
@@ -11547,8 +11547,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金色渐变立体红边发光花字",
       description: "金色渐变立体红边发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7459686003079630104.png",
+        static_img: "/huazi/7459686003079630104.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a3ad5d3c8ef34a9f9d92eae504ba2ede?lk3s=43402efa&x-expires=1789542752&x-signature=AZcPy0h4GnjQpa%2FE1iu616MBs4s%3D",
@@ -11599,8 +11599,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "银色渐变描边发光花字",
       description: "银色渐变描边发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405031205877419305.png",
+        static_img: "/huazi/7405031205877419305.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/dd8dfc4b7eac42d484df1727750dd33a?lk3s=43402efa&x-expires=1789542752&x-signature=Uhiib21oJasUf%2FkY%2BO3vuBaO1Pg%3D",
@@ -11862,8 +11862,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金红纸纹理发光字",
       description: "金红纸纹理发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404877070158908698.png",
+        static_img: "/huazi/7404877070158908698.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/640ff9c6b6c64b208cb329c77bceebf5?lk3s=43402efa&x-expires=1789542752&x-signature=nHauS%2B2p2hYwXoZvOfGvMWhXdqQ%3D",
@@ -11968,8 +11968,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "云纹金箔字",
       description: "云纹金箔字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405518341814668544.png",
+        static_img: "/huazi/7405518341814668544.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/90c8e3c28aeb40b494e22e41b9a9d82f?lk3s=43402efa&x-expires=1789542752&x-signature=PA1sRtnNNDJd6hp4lIMjBCnuRN8%3D",
@@ -12021,8 +12021,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺风黄色渐变纹理立体花字",
       description: "综艺风黄色渐变纹理立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7478934394141527358.png",
+        static_img: "/huazi/7478934394141527358.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5c6baea26c62493899a48629edac27e2?lk3s=43402efa&x-expires=1789542752&x-signature=xXpzkVWT5hU0RS%2BTSffnqWlp%2FbA%3D",
@@ -12126,8 +12126,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红金国风花字",
       description: "红金国风花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7507460201549843736.png",
+        static_img: "/huazi/7507460201549843736.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e0772dc1a013485c8848ab11ba5324a6?lk3s=43402efa&x-expires=1789542752&x-signature=Aw3mkiE9Yo35CBd8QPcjDiDRjHI%3D",
@@ -12231,8 +12231,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白纸纹理蓝阴影花字",
       description: "白纸纹理蓝阴影花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7509041829556522265.png",
+        static_img: "/huazi/7509041829556522265.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/cfbfd0d4432c4c08baaa85acc2811e28?lk3s=43402efa&x-expires=1789542752&x-signature=OoQGiczlA6QpHFtFQFJ52WSvCPA%3D",
@@ -12283,8 +12283,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "国风花字",
       description: "国风花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406648659976260903.png",
+        static_img: "/huazi/7406648659976260903.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2f912ff9e65c40ce9adb3e44174d1da4?lk3s=43402efa&x-expires=1789542752&x-signature=LaZ8V2ury7DmoYqc7wbJXG7ArIQ%3D",
@@ -12442,8 +12442,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7465177921276136766.png",
+        static_img: "/huazi/7465177921276136766.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/957fb51ce5b74b05972dc3df1e81552e?lk3s=43402efa&x-expires=1789542752&x-signature=56TFJ7%2F7zC5yPAh45SWLPf9%2Bub0%3D",
@@ -12494,8 +12494,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "点金花字",
       description: "点金花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406200724171787574.png",
+        static_img: "/huazi/7406200724171787574.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/171bff61f9bf48f9a3e793d21266c998?lk3s=43402efa&x-expires=1789542752&x-signature=l8TjcWG%2BN%2FJb9iWqGX6qyU7jqTM%3D",
@@ -12547,8 +12547,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白字内发光蓝边字",
       description: "白字内发光蓝边字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406693646592003366.png",
+        static_img: "/huazi/7406693646592003366.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d6b63e75757340d4b29346482f07af75?lk3s=43402efa&x-expires=1789542752&x-signature=4vQkJgN6JiE9jUbAO7CDySwySIM%3D",
@@ -12653,8 +12653,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "水墨红底白色花字",
       description: "水墨红底白色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405529606859607347.png",
+        static_img: "/huazi/7405529606859607347.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f97768e68dd24614aff48e2af822aef1?lk3s=43402efa&x-expires=1789542752&x-signature=z5J0220v9nfCyZ4JzVOJhuH3v7M%3D",
@@ -12759,8 +12759,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色恐怖氛围纹理花字",
       description: "红色恐怖氛围纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404872280662166834.png",
+        static_img: "/huazi/7404872280662166834.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/923e7729f0384754a14b61e12c4b2241?lk3s=43402efa&x-expires=1789542752&x-signature=n%2FyUKIYa5yh0ZpqdZ1GeZ%2BuE%2F6I%3D",
@@ -12864,8 +12864,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "港风立体",
       description: "港风立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7434560086166490418.png",
+        static_img: "/huazi/7434560086166490418.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a2acc63326474e5baecd327c0817218f?lk3s=43402efa&x-expires=1789542752&x-signature=aIbSxBeGxJN%2B1MTlAyNx0OpQkwI%3D",
@@ -12970,8 +12970,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变立体字",
       description: "黄色渐变立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404696990510042402.png",
+        static_img: "/huazi/7404696990510042402.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/cfaa86a3cb91470f85acb7ce8781d34b?lk3s=43402efa&x-expires=1789542752&x-signature=wuKT62%2BL8gU1cyAFBIje2rHs4B4%3D",
@@ -13023,8 +13023,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝莓奶酪",
       description: "蓝莓奶酪",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7506829483878649150.png",
+        static_img: "/huazi/7506829483878649150.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4678a26d2a8544a98114eb490d098ffc?lk3s=43402efa&x-expires=1789542752&x-signature=CjCOt1stY3FoIxEV3cx%2BL9xy%2F3c%3D",
@@ -13075,8 +13075,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "新年立体花字",
       description: "新年立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7451570972550991166.png",
+        static_img: "/huazi/7451570972550991166.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9a91b6cc71b64b239cafafc80a555f73?lk3s=43402efa&x-expires=1789542752&x-signature=fZZSqCTXK%2Bv9wwhy%2FB0gSf6QrMo%3D",
@@ -13127,8 +13127,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430745414313332006.png",
+        static_img: "/huazi/7430745414313332006.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0bbf79247fbc4cac848b3d0b91df28a7?lk3s=43402efa&x-expires=1789542752&x-signature=tiR6v%2FCLsYeo95BcCginHslOWk4%3D",
@@ -13180,8 +13180,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "25元旦-红花背景花字",
       description: "25元旦-红花背景花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7447831886874938678.png",
+        static_img: "/huazi/7447831886874938678.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/10726ae0a1a74505bdf55bd7c9ce5223?lk3s=43402efa&x-expires=1789542752&x-signature=BY8A8wZJ1QmXIA1nJCkGuLdaMCY%3D",
@@ -13232,8 +13232,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黑色金箔描边立体花字",
       description: "黑色金箔描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404523157400472869.png",
+        static_img: "/huazi/7404523157400472869.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ca5b2baecbb54f71b46b4a18aad79942?lk3s=43402efa&x-expires=1789542752&x-signature=cMWXS0LhP5Dfc0hl6M%2FALZ%2BMzvY%3D",
@@ -13497,8 +13497,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "中式背景文字",
       description: "中式背景文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405203982286720256.png",
+        static_img: "/huazi/7405203982286720256.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/35aa109b47364b25a960254c35df32dc?lk3s=43402efa&x-expires=1789542752&x-signature=WXOgai6VKM1quLhLHXfsT5633%2BQ%3D",
@@ -13602,8 +13602,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺蓝黄立体",
       description: "综艺蓝黄立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7436409520848522546.png",
+        static_img: "/huazi/7436409520848522546.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a6a0c277548c44efa2a927ad059768bb?lk3s=43402efa&x-expires=1789542752&x-signature=RzAzuzAzGPPjtDLsKbpk%2F4LW188%3D",
@@ -13655,8 +13655,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "水墨风白字黑边红墨点花字",
       description: "水墨风白字黑边红墨点花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405514240779357449.png",
+        static_img: "/huazi/7405514240779357449.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d1542fed4a594bd9a208f4bea55a3439?lk3s=43402efa&x-expires=1789542752&x-signature=2ZufFf%2FRcYPSx%2FibjO078xuIwVM%3D",
@@ -13761,8 +13761,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白色",
       description: "白色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7509055757908806937.png",
+        static_img: "/huazi/7509055757908806937.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/33fbb5280c254f639f548ff0d03324c7?lk3s=43402efa&x-expires=1789542752&x-signature=dor%2FFUZcwyeBOWlU20uBVa82zCo%3D",
@@ -13866,8 +13866,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "大理石花纹字",
       description: "大理石花纹字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7411036229677878554.png",
+        static_img: "/huazi/7411036229677878554.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/705edc364cdb4e7fa96b4cb9b65a0658?lk3s=43402efa&x-expires=1789542752&x-signature=BdA2wnHBhOy%2Bj%2FUKmpOpxU6ORrc%3D",
@@ -13919,8 +13919,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "中秋黄色字",
       description: "中秋黄色字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404409329991879988.png",
+        static_img: "/huazi/7404409329991879988.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/daf4f75eafc141f286f814d502ee0078?lk3s=43402efa&x-expires=1789542752&x-signature=SJuYDV%2BXu2TN9xAsj%2FcKH5%2B2xlo%3D",
@@ -13972,8 +13972,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺感黄色立体描边花字",
       description: "综艺感黄色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7481983816001834265.png",
+        static_img: "/huazi/7481983816001834265.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f5ffebbe8dd04a41ac72cb48576bb06b?lk3s=43402efa&x-expires=1789542752&x-signature=XDsAugOt7AzITL0NsZhBJO5BEwI%3D",
@@ -14076,8 +14076,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色渐变微立体花字",
       description: "蓝色渐变微立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406980293233560859.png",
+        static_img: "/huazi/7406980293233560859.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c8d7a1d751fb44658b23f6b2d332f104?lk3s=43402efa&x-expires=1789542752&x-signature=lgso4cmbEggvY2IrvAefryPna%2BI%3D",
@@ -14235,8 +14235,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "悬疑剧字幕",
       description: "悬疑剧字幕",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7411046109285485861.png",
+        static_img: "/huazi/7411046109285485861.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/79e253fa4fdb46beb257ba3312a9ec3d?lk3s=43402efa&x-expires=1789542752&x-signature=oWoBldvV1YVXepMxSGntgTvhxEM%3D",
@@ -14288,8 +14288,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色纹理花字",
       description: "蓝色纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7479073211918044441.png",
+        static_img: "/huazi/7479073211918044441.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9d446aeb973845efa2ca88dff7bb41b2?lk3s=43402efa&x-expires=1789542752&x-signature=kQB%2BtHlYMIyo2Sqn1lQRuFhaKVI%3D",
@@ -14445,8 +14445,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "雪花图案渐变蓝色立体花字",
       description: "雪花图案渐变蓝色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405034038135655719.png",
+        static_img: "/huazi/7405034038135655719.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8463044f026b45a9a8871f4930573499?lk3s=43402efa&x-expires=1789542752&x-signature=82uFJic2raFkFiCoeI14NitrRE8%3D",
@@ -14551,8 +14551,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变橘色阴影立体花字",
       description: "黄色渐变橘色阴影立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7495033287438781758.png",
+        static_img: "/huazi/7495033287438781758.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/deb80c1ce1e34f0ea240f9a09897290e?lk3s=43402efa&x-expires=1789542752&x-signature=oZw61SWNuepsi8aSQDvZXbYpkYM%3D",
@@ -14816,8 +14816,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古黄沙水彩纹理花字",
       description: "复古黄沙水彩纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405517504128273676.png",
+        static_img: "/huazi/7405517504128273676.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f32899a457224050ac6e999927565286?lk3s=43402efa&x-expires=1789542752&x-signature=cGBymQLcMPwpdN9RV6qIBe%2BP61g%3D",
@@ -14869,8 +14869,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色渐变",
       description: "红色渐变",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7461550488073538841.png",
+        static_img: "/huazi/7461550488073538841.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/962994f54e4d45b4a1b48feb98b1d77b?lk3s=43402efa&x-expires=1789542752&x-signature=fuu4MARLe5h%2FjcQcnMzZAc5p1Hg%3D",
@@ -14921,8 +14921,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "潮酷背景字",
       description: "潮酷背景字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431460080228257039.png",
+        static_img: "/huazi/7431460080228257039.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/de1333a33b964de095e5860cd7dd4dad?lk3s=43402efa&x-expires=1789542752&x-signature=otD%2BEX0smBS20e1BwcHBfvJ3qcQ%3D",
@@ -15133,8 +15133,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红黄复古浮雕纹理字",
       description: "红黄复古浮雕纹理字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405414031072169250.png",
+        static_img: "/huazi/7405414031072169250.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/23b22da0fc8e4f4a8f61809649719dc3?lk3s=43402efa&x-expires=1789542752&x-signature=jJMs%2FR2GFHKLfgxtj2B%2F2XFmOIk%3D",
@@ -15239,8 +15239,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉蓝渐变花字",
       description: "粉蓝渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404522414941424923.png",
+        static_img: "/huazi/7404522414941424923.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a652c0153eaa425fa46277ffb0a84580?lk3s=43402efa&x-expires=1789542752&x-signature=pBed4FlpRX9mdh2aDs%2BO6A1nENA%3D",
@@ -15292,8 +15292,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7511273485730237758.png",
+        static_img: "/huazi/7511273485730237758.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d9ba5612963f4ac2b03ea5935b5eb327?lk3s=43402efa&x-expires=1789542752&x-signature=fkF3qGs9g8dswlCcop5df%2Fsbiek%3D",
@@ -15344,8 +15344,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7491617722359565630.png",
+        static_img: "/huazi/7491617722359565630.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/37b20f98f3814b52b9239149741cd516?lk3s=43402efa&x-expires=1789542752&x-signature=oIzA03K1QnFCB2nSSjLUq6syVVA%3D",
@@ -15714,8 +15714,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "渐变圆底花字",
       description: "渐变圆底花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406353145938382130.png",
+        static_img: "/huazi/7406353145938382130.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2cf02601597b4e9eb74494aafb46fa22?lk3s=43402efa&x-expires=1789542752&x-signature=pnuWQq%2FUIt03%2FvnyFRg7PUbHXWM%3D",
@@ -15820,8 +15820,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺风黄色立体描边花字",
       description: "综艺风黄色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7505458612001852697.png",
+        static_img: "/huazi/7505458612001852697.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5ef09e411b634f7da3fde9c7f9a6f222?lk3s=43402efa&x-expires=1789542752&x-signature=8YvjfZqrkdT%2B4kIBkd%2BeXThW9f0%3D",
@@ -15872,8 +15872,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色纸张质感立体花字",
       description: "蓝色纸张质感立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430855417703435529.png",
+        static_img: "/huazi/7430855417703435529.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/bed0ba907c284fc9a0d99a21969c8c33?lk3s=43402efa&x-expires=1789542752&x-signature=TkYLPH6SxWPMIKWJRia%2BvxuMJeo%3D",
@@ -15925,8 +15925,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "彩色带图案花字",
       description: "彩色带图案花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407037141584203059.png",
+        static_img: "/huazi/7407037141584203059.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/46b5b3de47d94366ab456d18a0bcd2f4?lk3s=43402efa&x-expires=1789542752&x-signature=ZfoAWVgNGlk%2FLHySWO3H0VF1owI%3D",
@@ -15978,8 +15978,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红蓝橙描边立体花字",
       description: "红蓝橙描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7481302843849329982.png",
+        static_img: "/huazi/7481302843849329982.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8a92e0412e1d46129358116aa501c02c?lk3s=43402efa&x-expires=1789542752&x-signature=SGCtcTQiYBrFU1WXf98NtdDKp8s%3D",
@@ -16083,8 +16083,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "五一立体",
       description: "五一立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7493107948286250302.png",
+        static_img: "/huazi/7493107948286250302.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7bfdc3307a3e4fc8ab80f3149234c18f?lk3s=43402efa&x-expires=1789542752&x-signature=BU03R8ZvtKdmDuADy4T4g%2Flf1fo%3D",
@@ -16293,8 +16293,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "暗黑金泼墨风花字",
       description: "暗黑金泼墨风花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405492993878281510.png",
+        static_img: "/huazi/7405492993878281510.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c97e4ac6e0ba49bf8c364bc0f423a6ff?lk3s=43402efa&x-expires=1789542752&x-signature=mmaunM8FhiAsU1uUR4vOLmzVzBM%3D",
@@ -16346,8 +16346,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7545366362924043582.png",
+        static_img: "/huazi/7545366362924043582.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5e43aed179e540a3b861ac7f33b78268?lk3s=43402efa&x-expires=1789542752&x-signature=55tSrcXPM7RSrUcwPEGFetcf4vs%3D",
@@ -16451,8 +16451,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金色渐变立体花字",
       description: "金色渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7506868020917226777.png",
+        static_img: "/huazi/7506868020917226777.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/84197a12c66844e1b9a5f6a20c0470e6?lk3s=43402efa&x-expires=1789542752&x-signature=I3RsI%2FNdxoajpZBloq%2FAuZuTqv4%3D",
@@ -16556,8 +16556,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色锈迹文字",
       description: "红色锈迹文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7412523765768178944.png",
+        static_img: "/huazi/7412523765768178944.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/13f527b1e2454bf38689ca75667e6aa3?lk3s=43402efa&x-expires=1789542752&x-signature=dBrSfu6FJqb9ABtTKX1x9wlju5k%3D",
@@ -16662,8 +16662,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色",
       description: "黄色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7398454655505763593.png",
+        static_img: "/huazi/7398454655505763593.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8ea4f961db14495b9be263791326ee36?lk3s=43402efa&x-expires=1789542752&x-signature=VC0iITAGbwLD00uUWU4e6o9QSVM%3D",
@@ -16715,8 +16715,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黑色渐变白蓝描边",
       description: "黑色渐变白蓝描边",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406687421921791282.png",
+        static_img: "/huazi/7406687421921791282.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3ba663bb520b43cc9530a52bb8f15085?lk3s=43402efa&x-expires=1789542752&x-signature=PznN%2FIPUcQLW86UTgmV3JQm1c8s%3D",
@@ -16768,8 +16768,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "端午61立体字效",
       description: "端午61立体字效",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7506872589642665240.png",
+        static_img: "/huazi/7506872589642665240.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/31d4e065bd01493dad07fd6bcd88917b?lk3s=43402efa&x-expires=1789542752&x-signature=1lBS14SFLRDOiwPMFhSa%2BYw%2BMGQ%3D",
@@ -16820,8 +16820,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色立体文字",
       description: "黄色立体文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405120470477065507.png",
+        static_img: "/huazi/7405120470477065507.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/328432f3cfdb486db3d86d6fba27d719?lk3s=43402efa&x-expires=1789542752&x-signature=2aW5dXenIDJlhQjSx2FsMS6vwEA%3D",
@@ -16873,8 +16873,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431452163181792524.png",
+        static_img: "/huazi/7431452163181792524.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9e3f852ef7674c48a080faaca794d6e1?lk3s=43402efa&x-expires=1789542752&x-signature=g%2Br2TipHgEzUrDcBT564c3V9GM8%3D",
@@ -16979,8 +16979,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "五四青年立体",
       description: "五四青年立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7494656119529393470.png",
+        static_img: "/huazi/7494656119529393470.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/715e53f593fc4748b9e3c69984d34c19?lk3s=43402efa&x-expires=1789542752&x-signature=K3yl53pxY%2BWjXye0BVgrVmU%2F4Wg%3D",
@@ -17294,8 +17294,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金色渐变立体发光花字",
       description: "金色渐变立体发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7372363920864005386.png",
+        static_img: "/huazi/7372363920864005386.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/35ef03c61ce2455bada51c5b86838d63?lk3s=43402efa&x-expires=1789542752&x-signature=%2FwuDY7mBDzfS74UqUSWMb0U2F7Q%3D",
@@ -17347,8 +17347,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7547731905500794174.png",
+        static_img: "/huazi/7547731905500794174.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c4e183358f964d629040e5da617e627f?lk3s=43402efa&x-expires=1789542752&x-signature=RRZngno%2FokuP%2BsZNtt7t5Fqp870%3D",
@@ -17399,8 +17399,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色描边立体花字",
       description: "蓝色描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7471910410766109977.png",
+        static_img: "/huazi/7471910410766109977.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/530c59ba4e354d0f86f23c9fe9e846f6?lk3s=43402efa&x-expires=1789542752&x-signature=lSbBlYaieGmtqdJ0uMJgojBD6hQ%3D",
@@ -17451,8 +17451,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色白色",
       description: "黄色白色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7505771535878098200.png",
+        static_img: "/huazi/7505771535878098200.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9d951b206d8c4a7ea75eb4ee7ad36d7e?lk3s=43402efa&x-expires=1789542752&x-signature=I5n5kGuANCJq5M1CTLTEyjuSpFo%3D",
@@ -17556,8 +17556,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "橘猫花字",
       description: "橘猫花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403728040653573387.png",
+        static_img: "/huazi/7403728040653573387.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7bca06b519b741e583afeebc2b55f5f9?lk3s=43402efa&x-expires=1789542752&x-signature=jplpxWFicIjYoEF3VnkFau2jA2k%3D",
@@ -17662,8 +17662,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红橘新年花字",
       description: "红橘新年花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7455529495043525950.png",
+        static_img: "/huazi/7455529495043525950.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4fbb41885a6742f39ec7612adf61dc34?lk3s=43402efa&x-expires=1789542752&x-signature=xdpAkHAdOVz0XPms11yyUEFiMkk%3D",
@@ -17714,8 +17714,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红包花字",
       description: "红包花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7449034603760749839.png",
+        static_img: "/huazi/7449034603760749839.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d18ce91501134cb991f601dd204ccf84?lk3s=43402efa&x-expires=1789542752&x-signature=xl%2BFg4%2FI%2Bc4ksVJXnI56bEoS57w%3D",
@@ -17977,8 +17977,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "新年红金花字",
       description: "新年红金花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7455254263888104766.png",
+        static_img: "/huazi/7455254263888104766.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d0abd946110143f8b892bea305433d93?lk3s=43402efa&x-expires=1789542752&x-signature=5ErtTy27CLu2%2Fi25CxcyQwiCs7A%3D",
@@ -18135,8 +18135,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "拼贴绿",
       description: "拼贴绿",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7360540744035142953.png",
+        static_img: "/huazi/7360540744035142953.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/89205ccf66fc4c3a841b700aabfd4d76?lk3s=43402efa&x-expires=1789542752&x-signature=oZUb0P5tk2J8zDRN7vTHh4AozDk%3D",
@@ -18188,8 +18188,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "橘黄色波点渐变发光花字",
       description: "橘黄色波点渐变发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404370982238014747.png",
+        static_img: "/huazi/7404370982238014747.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/02dceff9ea604feba4888fa6db35a010?lk3s=43402efa&x-expires=1789542752&x-signature=DwlPE4%2FlxMJcr2v774FFrGU3dXU%3D",
@@ -18241,8 +18241,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红黄白多层渐变立体花字",
       description: "红黄白多层渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403764204420730122.png",
+        static_img: "/huazi/7403764204420730122.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ac46c50e38714cd38b1b8073ac799254?lk3s=43402efa&x-expires=1789542752&x-signature=iidbOXI9EC6aKEmQYaZX612FqQ4%3D",
@@ -18294,8 +18294,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色渐变",
       description: "蓝色渐变",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7364604452323495204.png",
+        static_img: "/huazi/7364604452323495204.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0673822fc0aa4a529353d51e2c118c8c?lk3s=43402efa&x-expires=1789542752&x-signature=qZacatHG%2BO6V1gmVQSo0tP33N6E%3D",
@@ -18453,8 +18453,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "简约雪纹理立体花字",
       description: "简约雪纹理立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430397468082228543.png",
+        static_img: "/huazi/7430397468082228543.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4b651b749e874b7782a1c3db20543746?lk3s=43402efa&x-expires=1789542752&x-signature=aAMoGgzdhF%2Fg3hIzcMzIFIVZiLw%3D",
@@ -18559,8 +18559,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色渐变",
       description: "蓝色渐变",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7385227292521418018.png",
+        static_img: "/huazi/7385227292521418018.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d653ff8216da414195c733fee2947d19?lk3s=43402efa&x-expires=1789542752&x-signature=39D%2BbptSZWr7mkHKKFGZoiQYEVo%3D",
@@ -18665,8 +18665,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色奶酪字",
       description: "黄色奶酪字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405831511003417871.png",
+        static_img: "/huazi/7405831511003417871.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/731df3b2bd9947209655ae4185489f4f?lk3s=43402efa&x-expires=1789542752&x-signature=kIfiRdbfrX%2BQtj%2FnqTuml0zgHLs%3D",
@@ -18718,8 +18718,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "彩虹色描边白字",
       description: "彩虹色描边白字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406673678412418354.png",
+        static_img: "/huazi/7406673678412418354.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c9a3eb5163cb429b91b68cd4e87b01ba?lk3s=43402efa&x-expires=1789542752&x-signature=CA%2BvT0851P6R1mbEh%2FAAZMUCuBs%3D",
@@ -18824,8 +18824,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色纸张质感黄底花字",
       description: "蓝色纸张质感黄底花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430856547934211379.png",
+        static_img: "/huazi/7430856547934211379.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0a93661ffe8741749f1964d3e339df5a?lk3s=43402efa&x-expires=1789542752&x-signature=1f5K5tE2e5ybkeOIj%2F7VLne9VSw%3D",
@@ -18877,8 +18877,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7533174868930645273.png",
+        static_img: "/huazi/7533174868930645273.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e07422bedc7c4e42a47cc37fe95bdb75?lk3s=43402efa&x-expires=1789542752&x-signature=3AtPZC2wwx8i98PEbjbSSfXiuRo%3D",
@@ -18929,8 +18929,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色爱心立体字",
       description: "粉色爱心立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7474476846223101209.png",
+        static_img: "/huazi/7474476846223101209.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/54e11b1d6b89427cae7b5c4c40c4316d?lk3s=43402efa&x-expires=1789542752&x-signature=KI4DYt1g87rLpYHdLV%2Fv6SYmz5M%3D",
@@ -18981,8 +18981,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色纹理立体描边花字",
       description: "蓝色纹理立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406335734044577035.png",
+        static_img: "/huazi/7406335734044577035.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/87c6934ceed64679937f21196ceb6e91?lk3s=43402efa&x-expires=1789542752&x-signature=75oqJCpqUkeFSH7AKB2v0A8BzmM%3D",
@@ -19454,8 +19454,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7539626317688425753.png",
+        static_img: "/huazi/7539626317688425753.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ab7a28f299d4460ea0d0c1d238701b34?lk3s=43402efa&x-expires=1789542755&x-signature=brs5BHf7KaPOSEzBLk7bTUYgKfk%3D",
@@ -19506,8 +19506,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7548813025013419289.png",
+        static_img: "/huazi/7548813025013419289.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9c8332902d824a4e87a32b3775a862c6?lk3s=43402efa&x-expires=1789542755&x-signature=ZwaPghDj6hkapGAzEaQ8nnx9U04%3D",
@@ -19558,8 +19558,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7540868241737141529.png",
+        static_img: "/huazi/7540868241737141529.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0d2298c299634a61ad1a325e182479e8?lk3s=43402efa&x-expires=1789542755&x-signature=lTlQ%2F4uufkWfFZY4mlzXP41rcWk%3D",
@@ -19662,8 +19662,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7538719944897236286.png",
+        static_img: "/huazi/7538719944897236286.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/57e9c3f6a6944186bfc1497696770159?lk3s=43402efa&x-expires=1789542755&x-signature=wBwrKIXrd3OMykN%2FDfEQuV%2FjIaY%3D",
@@ -19714,8 +19714,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "618黑边",
       description: "618黑边",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7509793945480613144.png",
+        static_img: "/huazi/7509793945480613144.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9984303f7bd148fa83db9312c2d3bbce?lk3s=43402efa&x-expires=1789542755&x-signature=mx8ZmXBLao0ZQVTOX5mvXRl1mOI%3D",
@@ -19766,8 +19766,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺风红色立体描边花字",
       description: "综艺风红色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7508042807811280190.png",
+        static_img: "/huazi/7508042807811280190.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a1e192c0eb994aeeafebbfacc5cae5f0?lk3s=43402efa&x-expires=1789542755&x-signature=MruiENxcphR%2Fqq4zx7GzhRENzRc%3D",
@@ -19818,8 +19818,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "高考立体",
       description: "高考立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7509930498681163032.png",
+        static_img: "/huazi/7509930498681163032.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/da62cbaa907d4b269712c41c282d01ad?lk3s=43402efa&x-expires=1789542755&x-signature=AvRxmL3F4wnC%2FqH5jCQ6dskR5yk%3D",
@@ -19922,8 +19922,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7540131523937357118.png",
+        static_img: "/huazi/7540131523937357118.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4d8cc6cb48f34b53a4d43ae4c5cb0583?lk3s=43402efa&x-expires=1789542755&x-signature=%2BKd07v44c7NiVuNvobix0x9RX20%3D",
@@ -19974,8 +19974,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7546127896943840536.png",
+        static_img: "/huazi/7546127896943840536.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6ebd441ee8154073a8d36f422909643b?lk3s=43402efa&x-expires=1789542755&x-signature=j3QHQJCrAnumQSl7igSkfA2vNgc%3D",
@@ -20078,8 +20078,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变蓝色描边立体花字",
       description: "黄色渐变蓝色描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7507853100984667416.png",
+        static_img: "/huazi/7507853100984667416.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/86fe03b4328841768a1dc342531968db?lk3s=43402efa&x-expires=1789542755&x-signature=%2BISldi%2BGkVsroriNszkeCjWxqQs%3D",
@@ -20130,8 +20130,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "三原色",
       description: "三原色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7527398816782454040.png",
+        static_img: "/huazi/7527398816782454040.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/69b0fc52e898402cbdaf2ad153884ae4?lk3s=43402efa&x-expires=1789542755&x-signature=MZaG%2Futu6TdFUcj%2BgtOJVZoxIxE%3D",
@@ -20234,8 +20234,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7544777148205190425.png",
+        static_img: "/huazi/7544777148205190425.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/06fc7a46d6aa47a59f1815cf32fee245?lk3s=43402efa&x-expires=1789542755&x-signature=l0ry%2FxtwoKQjrXNaBNezya2alFk%3D",
@@ -20286,8 +20286,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色纹理蓝棕色阴影描边立体花字",
       description: "黄色纹理蓝棕色阴影描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7511339634761420057.png",
+        static_img: "/huazi/7511339634761420057.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/fd60132da1e54df9ac746a43055c8f1b?lk3s=43402efa&x-expires=1789542755&x-signature=iSZCbUUrAMuB9WuWXaeq3JuAVlw%3D",
@@ -20338,8 +20338,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "橙色渐变立体花字",
       description: "橙色渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7533092158820142360.png",
+        static_img: "/huazi/7533092158820142360.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a70e0cb6e6014a9593d891d335668679?lk3s=43402efa&x-expires=1789542755&x-signature=me79EVbR%2Bnbtin6JoORAVOyvKvs%3D",
@@ -20390,8 +20390,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "立体花字",
       description: "立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7532701961364278553.png",
+        static_img: "/huazi/7532701961364278553.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4dfdfbacee2d4351977472c8981ea883?lk3s=43402efa&x-expires=1789542755&x-signature=6Y6BHppO0z7rQIM19A7d3zz%2Ftu8%3D",
@@ -20442,8 +20442,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "毛绒字",
       description: "毛绒字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7535694140227456280.png",
+        static_img: "/huazi/7535694140227456280.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b42b42a6b5f44126aacad258abbf878d?lk3s=43402efa&x-expires=1789542755&x-signature=d1NblJe4JFdysBSYV5LcWvBvROQ%3D",
@@ -20494,8 +20494,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "我的潮流指南",
       description: "我的潮流指南",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7506898516468370750.png",
+        static_img: "/huazi/7506898516468370750.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/48262b3d06f0460cbf4e004746d70c32?lk3s=43402efa&x-expires=1789542755&x-signature=l%2BltfjBBd1ZLW0%2F1cXhoilMD2bs%3D",
@@ -20546,8 +20546,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝莓奶酪",
       description: "蓝莓奶酪",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7507101495339568446.png",
+        static_img: "/huazi/7507101495339568446.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/56e41060422f44d8ac9333b11ff8db14?lk3s=43402efa&x-expires=1789542757&x-signature=JsXuaHl3HqZ63GyRbSPSH5LspEY%3D",
@@ -20598,8 +20598,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺风蓝色立体描边花字",
       description: "综艺风蓝色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7495312625169911065.png",
+        static_img: "/huazi/7495312625169911065.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/734b9af2199a47ff83b2ec16f8e9a26f?lk3s=43402efa&x-expires=1789542757&x-signature=DxOHA9DPTLnp1P6xsAdUlowq4gs%3D",
@@ -20650,8 +20650,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "彩铅渐变黄色花字",
       description: "彩铅渐变黄色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7477620313522703678.png",
+        static_img: "/huazi/7477620313522703678.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f3544f8e20b14719b5aea7684c0ae58b?lk3s=43402efa&x-expires=1789542757&x-signature=r%2FZydkSQTARKtTJs0rwhRE%2FuDi8%3D",
@@ -20702,8 +20702,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "彩色",
       description: "彩色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7474582555853901080.png",
+        static_img: "/huazi/7474582555853901080.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0782d59cc7cd45e4b7e787e70c2da281?lk3s=43402efa&x-expires=1789542757&x-signature=iJSukFemSM%2BWIkRbemrBl%2FuzM5s%3D",
@@ -20754,8 +20754,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "膨胀感字",
       description: "膨胀感字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7480089681586130238.png",
+        static_img: "/huazi/7480089681586130238.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ea26e15463e2499f898f6bb0b3f6e0e8?lk3s=43402efa&x-expires=1789542757&x-signature=6Mz2jLNrLaSKp3OmsygZW0U%2B6j4%3D",
@@ -20806,8 +20806,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7492216396290542873.png",
+        static_img: "/huazi/7492216396290542873.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b517aeec2a994e5a909a1bfe5276d67c?lk3s=43402efa&x-expires=1789542757&x-signature=VkOE9sv4qZuENTwH8BUyoNUudZs%3D",
@@ -20858,8 +20858,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7507526398710435097.png",
+        static_img: "/huazi/7507526398710435097.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c0ccefc58f1c4e30a56057a76556bb84?lk3s=43402efa&x-expires=1789542757&x-signature=IYNOBpaowJYoG0zw6rOb8oGb%2Fe8%3D",
@@ -20910,8 +20910,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7482733632910675262.png",
+        static_img: "/huazi/7482733632910675262.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2b2987d93feb4675b6ae3b24df7093c0?lk3s=43402efa&x-expires=1789542757&x-signature=kX8lPxIoVtiw5W3pjfXp6OZHyXg%3D",
@@ -21015,8 +21015,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色",
       description: "蓝色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7481665617796369689.png",
+        static_img: "/huazi/7481665617796369689.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6dc77d9d303e414f80d8e306d93d58a8?lk3s=43402efa&x-expires=1789542757&x-signature=W3HnfjgwKtiWgwgMzlZcCeA0WSY%3D",
@@ -21067,8 +21067,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "彩铅渐变粉色花字",
       description: "彩铅渐变粉色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7477756249665342744.png",
+        static_img: "/huazi/7477756249665342744.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/41967f8ea89e4e34b051ae7ffba48429?lk3s=43402efa&x-expires=1789542757&x-signature=ESFliU6I22Od4QIqaAmSbbSTNbM%3D",
@@ -21278,8 +21278,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7508005459065097497.png",
+        static_img: "/huazi/7508005459065097497.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/51373981d0a045f590229d8aea0a263e?lk3s=43402efa&x-expires=1789542757&x-signature=t8q6oYQ%2FEOZ%2FAL7zSwzuuqkBhR4%3D",
@@ -21330,8 +21330,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色闪闪芭比花字",
       description: "粉色闪闪芭比花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7507082793592032536.png",
+        static_img: "/huazi/7507082793592032536.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e1a2b819af774e378dfb2d63d85e7d40?lk3s=43402efa&x-expires=1789542757&x-signature=yuF%2B7hMAfIOai%2Fj%2Fj1mdkLEYnfE%3D",
@@ -21382,8 +21382,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色渐变",
       description: "粉色渐变",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7469677410414382398.png",
+        static_img: "/huazi/7469677410414382398.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b7d289320cbf4f66a7efd22c3a697a5b?lk3s=43402efa&x-expires=1789542757&x-signature=7AGMED4hcF6RX2TGB%2FyEXytpWdo%3D",
@@ -21434,8 +21434,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "马卡龙",
       description: "马卡龙",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7509757725908225304.png",
+        static_img: "/huazi/7509757725908225304.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9745e80ec76945aeb20a5edbbe379f0c?lk3s=43402efa&x-expires=1789542757&x-signature=jmhu1OiJCxRPmkxUO1JxlGc%2FAiM%3D",
@@ -21539,8 +21539,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉笔字",
       description: "粉笔字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403964791372533027.png",
+        static_img: "/huazi/7403964791372533027.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c9e0013dde6948e0950cd27ccaf4cbaa?lk3s=43402efa&x-expires=1789542757&x-signature=XihCQ9F7PG%2B5LH9HtuWnGG2pRbk%3D",
@@ -21592,8 +21592,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝白",
       description: "蓝白",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7508363172798270744.png",
+        static_img: "/huazi/7508363172798270744.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/eeb291a78f0740329e05a7e4f2b25e3b?lk3s=43402efa&x-expires=1789542757&x-signature=jsZq%2BTXmv%2Bz6WzdaZI9uEFcFJUo%3D",
@@ -21644,8 +21644,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄绿渐变立体字",
       description: "黄绿渐变立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7477149973520583961.png",
+        static_img: "/huazi/7477149973520583961.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f72cca11a9c847b3a9bd476a5c16bfc1?lk3s=43402efa&x-expires=1789542757&x-signature=3XA4NAiOiatm7bp3DDPGqD5A0Og%3D",
@@ -21696,8 +21696,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7495692617561181502.png",
+        static_img: "/huazi/7495692617561181502.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8d48d829c0f2435e9b2e2c5a67c6b1fd?lk3s=43402efa&x-expires=1789542757&x-signature=sU5oiqBlRWVuVaJltDQtKbBlCkA%3D",
@@ -21748,8 +21748,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "多层描边彩色多巴胺花字",
       description: "多层描边彩色多巴胺花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7494493486155042110.png",
+        static_img: "/huazi/7494493486155042110.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/71b13727d8304efcad67f373ae5ca2cf?lk3s=43402efa&x-expires=1789542757&x-signature=6%2FIfgPVmlUPO%2BP56DEknIZazgRA%3D",
@@ -21800,8 +21800,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝粉",
       description: "蓝粉",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7492310644704841022.png",
+        static_img: "/huazi/7492310644704841022.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5a5902413811405c9607fbd007005c1d?lk3s=43402efa&x-expires=1789542757&x-signature=REAWQZFPzXMVklz5NtP5K29zQsQ%3D",
@@ -21852,8 +21852,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "节日绿色立体描边花字",
       description: "节日绿色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7507164704448679193.png",
+        static_img: "/huazi/7507164704448679193.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7c407fe53c554a0d9bc8aca2c65fe28d?lk3s=43402efa&x-expires=1789542757&x-signature=BbYJcio0%2FGNunF988x%2BR9eCh7Ts%3D",
@@ -22010,8 +22010,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "彩色描边立体可爱花字",
       description: "彩色描边立体可爱花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7492411773329476889.png",
+        static_img: "/huazi/7492411773329476889.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/475fd56cdd4148e78ddbd46adc940dc3?lk3s=43402efa&x-expires=1789542757&x-signature=6uQnHZ38L1Ij%2FtuvXRnH6OR4uVI%3D",
@@ -22062,8 +22062,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色立体",
       description: "绿色立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7492716248091004222.png",
+        static_img: "/huazi/7492716248091004222.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/bd36b6425b424168afb994a9a5d40238?lk3s=43402efa&x-expires=1789542757&x-signature=aa3y532hHfQk8i6olwo5RGIVtFM%3D",
@@ -22114,8 +22114,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7471905506001669401.png",
+        static_img: "/huazi/7471905506001669401.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0925cb34f7ae4426be9b16fded7cb2a0?lk3s=43402efa&x-expires=1789542757&x-signature=MJ6iEVwOKaPoH9AHCVndunRAuRE%3D",
@@ -22166,8 +22166,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "春日综艺感渐变纹理花字",
       description: "春日综艺感渐变纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7479683834464898329.png",
+        static_img: "/huazi/7479683834464898329.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e0c4fa9044ea4646b8f7ffe016405cb8?lk3s=43402efa&x-expires=1789542757&x-signature=UPsswr9U23jrM5IlVt645LGg%2BCk%3D",
@@ -22220,8 +22220,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿紫黄紫立体字",
       description: "绿紫黄紫立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7478608447794187582.png",
+        static_img: "/huazi/7478608447794187582.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0a281bc078154d8789c011a9eedd77af?lk3s=43402efa&x-expires=1789542757&x-signature=%2BRNRdfShyMRGfJGNTBTEkTrI6fg%3D",
@@ -22272,8 +22272,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "膨胀感字",
       description: "膨胀感字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7480097920361073945.png",
+        static_img: "/huazi/7480097920361073945.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9c53f82b91d74d5e85fc73a122a376d5?lk3s=43402efa&x-expires=1789542757&x-signature=WK3JujRAzxD5r5BJWgIMRm5yOBM%3D",
@@ -22324,8 +22324,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "立体综艺花字",
       description: "立体综艺花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403676308145802522.png",
+        static_img: "/huazi/7403676308145802522.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7bc4a8347a8f410bae25077b82e2ca04?lk3s=43402efa&x-expires=1789542757&x-signature=C68J35cjhCqV4ngiANdMDc2TTEs%3D",
@@ -22377,8 +22377,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白色纹理描边花字",
       description: "白色纹理描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405202500493610275.png",
+        static_img: "/huazi/7405202500493610275.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/18fefe59a0c245d0ad82a411b30a155e?lk3s=43402efa&x-expires=1789542757&x-signature=oP1OvexU%2B2Xz3%2BIx3rjZBF2fEuI%3D",
@@ -22483,8 +22483,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白色发光字",
       description: "白色发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405564299122429219.png",
+        static_img: "/huazi/7405564299122429219.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/cd673b7065654507803ecca98a8bd4a2?lk3s=43402efa&x-expires=1789542757&x-signature=agKNzM%2BaEWHgAADAa6%2FPCQ2WIhM%3D",
@@ -22536,8 +22536,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变立体白描边花字",
       description: "黄色渐变立体白描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403679510702378278.png",
+        static_img: "/huazi/7403679510702378278.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/46026b0faa9347c586229731a5516632?lk3s=43402efa&x-expires=1789542757&x-signature=f%2B2dvj0CS6W5n1plnAFDO0REL7c%3D",
@@ -22642,8 +22642,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色立体字",
       description: "蓝色立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405107629137186082.png",
+        static_img: "/huazi/7405107629137186082.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/db0adce484ab4b3fbf925790df01b9a3?lk3s=43402efa&x-expires=1789542757&x-signature=p4VRsl1%2FIm0N94GFXfWWuKM2JH4%3D",
@@ -22695,8 +22695,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "美拉德立体文字",
       description: "美拉德立体文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7410649194110733602.png",
+        static_img: "/huazi/7410649194110733602.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/25f1c9934f1b4c9c9b2ca49047946edc?lk3s=43402efa&x-expires=1789542757&x-signature=%2B6cR1vwX3%2BJAQK1ITWvtI6vmm6c%3D",
@@ -22748,8 +22748,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色立体通用花字",
       description: "绿色立体通用花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404477237837270299.png",
+        static_img: "/huazi/7404477237837270299.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f5636f3b48394ca9a8d193bf36e04277?lk3s=43402efa&x-expires=1789542757&x-signature=UF7xpdmBU7GvjKBDuRstz2Mnyuw%3D",
@@ -22801,8 +22801,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色镂空透明文字",
       description: "绿色镂空透明文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405105991651544360.png",
+        static_img: "/huazi/7405105991651544360.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d555adb3e2c24560b57295eebf5a048b?lk3s=43402efa&x-expires=1789542757&x-signature=oRrOd69Z9NkwtcD6osDiF2VDGfU%3D",
@@ -22854,8 +22854,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色描边投影字",
       description: "绿色描边投影字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405410790867586344.png",
+        static_img: "/huazi/7405410790867586344.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/77a494c88c5b4174a50f289ea127555f?lk3s=43402efa&x-expires=1789542757&x-signature=x2DcbQFNVb1TnYjqPENweDb9hGM%3D",
@@ -22907,8 +22907,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色透明纹理花字",
       description: "绿色透明纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405203773066415360.png",
+        static_img: "/huazi/7405203773066415360.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/42587d81ffc44818be296f4df63f8afb?lk3s=43402efa&x-expires=1789542757&x-signature=CSYuTiHdlT%2FJzx1qnpsc1Ajjg6g%3D",
@@ -23065,8 +23065,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色黄色渐变立体描边花字",
       description: "蓝色黄色渐变立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7532041202787487038.png",
+        static_img: "/huazi/7532041202787487038.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/abce5c03af474175a5435d907966a532?lk3s=43402efa&x-expires=1789542760&x-signature=7Fa7YWjrVBOmJDeaLxm9e2JE5qc%3D",
@@ -23229,8 +23229,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色火焰燃烧花字",
       description: "红色火焰燃烧花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405896759987227931.png",
+        static_img: "/huazi/7405896759987227931.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ae1115aee6ef4b4d91000ea7b2a662ae?lk3s=43402efa&x-expires=1789542760&x-signature=cx4XlPmzmioMaieaaOQ%2FsF7nWPs%3D",
@@ -23341,8 +23341,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺风蓝色描边立体花字",
       description: "综艺风蓝色描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7494932494253608216.png",
+        static_img: "/huazi/7494932494253608216.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/60d59b61054141009e83e4519daee460?lk3s=43402efa&x-expires=1789542760&x-signature=MuLicl8E76KWVakrCBia0%2Bj%2FRWA%3D",
@@ -23393,8 +23393,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "喷溅红立体",
       description: "喷溅红立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7411046111760125211.png",
+        static_img: "/huazi/7411046111760125211.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4f95de0f862f487fbc74b03fe2e2104a?lk3s=43402efa&x-expires=1789542760&x-signature=bZPGyw43lm76I%2BbOgmTtWH3k4MI%3D",
@@ -23610,8 +23610,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色火焰字",
       description: "红色火焰字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406328633205312820.png",
+        static_img: "/huazi/7406328633205312820.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a45fd9d950684d49b7b8a5daec6371bf?lk3s=43402efa&x-expires=1789542760&x-signature=G2Yl6uFrK5q%2Fw3nn3%2Fi5tJ9zShw%3D",
@@ -23663,8 +23663,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "镂空发光字",
       description: "镂空发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404690754590821632.png",
+        static_img: "/huazi/7404690754590821632.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/28e4c6c3fe9641d58d88c95648928e26?lk3s=43402efa&x-expires=1789542760&x-signature=JRntSOoosBqSXmX8%2BQcTLZ5lG4Q%3D",
@@ -23716,8 +23716,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色纹理花字",
       description: "蓝色纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405902936175381787.png",
+        static_img: "/huazi/7405902936175381787.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c916cc0627304c7e85ae5ceb31742734?lk3s=43402efa&x-expires=1789542760&x-signature=%2BHtIgU6bue7eG2hOSqazUeWo42k%3D",
@@ -23875,8 +23875,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺立体",
       description: "综艺立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7448962185159609625.png",
+        static_img: "/huazi/7448962185159609625.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ff1c5fec642f404ea305c249d21bc0cb?lk3s=43402efa&x-expires=1789542760&x-signature=BM4CkHS%2FsU4xl6HzRkwGFGJ%2FAoA%3D",
@@ -23927,8 +23927,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "五一复古立体",
       description: "五一复古立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7494493305716378905.png",
+        static_img: "/huazi/7494493305716378905.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/17dc063229054decbb0bcea79f2fb3a7?lk3s=43402efa&x-expires=1789542760&x-signature=N4KFQif0q1aSzdVBPFD1yUcZr8o%3D",
@@ -24140,8 +24140,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "彩色",
       description: "彩色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7474546033763224894.png",
+        static_img: "/huazi/7474546033763224894.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8627693ff6b74be4b31e2f1fabe2e598?lk3s=43402efa&x-expires=1789542760&x-signature=lM5Yx7BTeJ28FyphC%2BykSHzqBcM%3D",
@@ -24192,8 +24192,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "像素格背景字",
       description: "像素格背景字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406866881144966409.png",
+        static_img: "/huazi/7406866881144966409.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b88cd495a21b4789838811c3f109bd05?lk3s=43402efa&x-expires=1789542760&x-signature=FOpp4fchMhTuhoMNzmt%2FqoX76g8%3D",
@@ -24245,8 +24245,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "橙黄渐变花字",
       description: "橙黄渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404777689518738728.png",
+        static_img: "/huazi/7404777689518738728.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/05b56ceacda149af871fc8f11eee1eaf?lk3s=43402efa&x-expires=1789542760&x-signature=YP3FrjA%2B%2B5AMAYiAD642yKa5bpg%3D",
@@ -24404,8 +24404,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色渐变波点底纹立体花字",
       description: "红色渐变波点底纹立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406013385969569062.png",
+        static_img: "/huazi/7406013385969569062.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c7f8c2cc4ca245d58ec9d33cb82e8c51?lk3s=43402efa&x-expires=1789542760&x-signature=oZnJHCmWlueUgEFztQdLPRzM1sg%3D",
@@ -24457,8 +24457,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺风蓝色渐变纹理立体花字",
       description: "综艺风蓝色渐变纹理立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7478945314318241086.png",
+        static_img: "/huazi/7478945314318241086.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c550b3e7ac1f436aa105f706d0797a25?lk3s=43402efa&x-expires=1789542760&x-signature=iQx1ogCYB4W1UhocN%2Fb%2F%2Bvul%2BW0%3D",
@@ -24562,8 +24562,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "3D蓝红色立体综艺花字",
       description: "3D蓝红色立体综艺花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404132140365008179.png",
+        static_img: "/huazi/7404132140365008179.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/cf514c916b8441e19e13d9f7d30a8f14?lk3s=43402efa&x-expires=1789542760&x-signature=TtHjUd8R3sKSUDvB3%2FxMpeMbIoE%3D",
@@ -24615,8 +24615,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "音乐节-杂点黄字",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7272729157895769355.png",
+        static_img: "/huazi/7272729157895769355.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/ocIfCL2PIEDB2fTwC88eDtDetI2LUHbA5AAEAA?lk3s=43402efa&x-expires=1789542760&x-signature=TsOaw4L4Q5ZqUvsSx0VHY85qHE0%3D",
@@ -24774,8 +24774,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺风蓝色立体描边花字",
       description: "综艺风蓝色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7495656020006669592.png",
+        static_img: "/huazi/7495656020006669592.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e7836c93807141c1bc4760994e6cb59d?lk3s=43402efa&x-expires=1789542760&x-signature=mVVpsS7L59MH2U3rT1BSpDworEI%3D",
@@ -24879,8 +24879,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "海浪卡通立体字",
       description: "海浪卡通立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405947244395924770.png",
+        static_img: "/huazi/7405947244395924770.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/632e216e41564278b04b5e795b9c3233?lk3s=43402efa&x-expires=1789542760&x-signature=%2FpBHdnOkYd8XxA%2FGrLy8EV8Zuw4%3D",
@@ -24985,8 +24985,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "裂纹立体文字",
       description: "裂纹立体文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405953030996184335.png",
+        static_img: "/huazi/7405953030996184335.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/75c8d7fc87c044c7990e11a6532f4f48?lk3s=43402efa&x-expires=1789542760&x-signature=LlDSF2zWmc%2Fmv6cfXJyJzeKMYTU%3D",
@@ -25038,8 +25038,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "漫画层叠花字",
       description: "漫画层叠花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406307881865301258.png",
+        static_img: "/huazi/7406307881865301258.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/26ef9c97eba54d2caa2c99961f5c379c?lk3s=43402efa&x-expires=1789542760&x-signature=6%2BoRGyn9UMhwvumMVoWsUNNHBMQ%3D",
@@ -25197,8 +25197,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古白蓝色立体花字",
       description: "复古白蓝色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405563025169632562.png",
+        static_img: "/huazi/7405563025169632562.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e7e560b6eec745a79e98164220c09cfb?lk3s=43402efa&x-expires=1789542760&x-signature=POaaEtvhkkW6FjmNi8Wwn1AVnYE%3D",
@@ -25250,8 +25250,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "爆款热卖",
       description: "爆款热卖",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430816571443940659.png",
+        static_img: "/huazi/7430816571443940659.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e2b2c6bb80cd40ebaa5c81da3794f6c0?lk3s=43402efa&x-expires=1789542760&x-signature=VPT6rkvBTvlQfW1yk3kYDJQYb7s%3D",
@@ -25356,8 +25356,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺白色立体描边纹理花字",
       description: "综艺白色立体描边纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404868077101255988.png",
+        static_img: "/huazi/7404868077101255988.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f5e828a2e57547949f22b0d032be5bfb?lk3s=43402efa&x-expires=1789542760&x-signature=Nfdh6B1lLmVO8pW0JwqmggqvxgQ%3D",
@@ -25463,8 +25463,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "立体字粉色背景",
       description: "立体字粉色背景",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7409964157296020751.png",
+        static_img: "/huazi/7409964157296020751.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9403ee9f45e040dc9b7f900ac8355e82?lk3s=43402efa&x-expires=1789542760&x-signature=66kvrhmDtHpoIOLS7uC5UEvgybI%3D",
@@ -25569,8 +25569,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "热销字体",
       description: "热销字体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431487397017226507.png",
+        static_img: "/huazi/7431487397017226507.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7497e9196e6a4b3a8f9f43b3dd87ec9c?lk3s=43402efa&x-expires=1789542760&x-signature=guevZ1GDRnVRaiN7%2FWyiicBrmYg%3D",
@@ -26057,8 +26057,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "3D蓝色渐变综艺花字",
       description: "3D蓝色渐变综艺花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403911656587234597.png",
+        static_img: "/huazi/7403911656587234597.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ab027728e8054513a43c775267bae34c?lk3s=43402efa&x-expires=1789542760&x-signature=%2BwYoUKoGg%2B38Oh2C2h1sP%2BHe0Kc%3D",
@@ -26481,8 +26481,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "立体方块花字",
       description: "立体方块花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7481488244421741848.png",
+        static_img: "/huazi/7481488244421741848.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0f00386f97174fe49a57522b958feb64?lk3s=43402efa&x-expires=1789542760&x-signature=IMxF5Yr1X1bVQ4u%2FfumLjUIWNDE%3D",
@@ -26586,8 +26586,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7529442177953352985.png",
+        static_img: "/huazi/7529442177953352985.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5e71edadce0a4666b47413dcca6587db?lk3s=43402efa&x-expires=1789542760&x-signature=mvbOZ7OCIYWyKS0QhFH2%2Fuy%2BqIE%3D",
@@ -26744,8 +26744,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红黄绿复古花字",
       description: "红黄绿复古花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407014154613116210.png",
+        static_img: "/huazi/7407014154613116210.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7db8d26816f243e88bf2031d06df6fe1?lk3s=43402efa&x-expires=1789542760&x-signature=dYlknTdLEZObra5Do7tzf1vYxRc%3D",
@@ -26850,8 +26850,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "潮酷薄膜纹理字",
       description: "潮酷薄膜纹理字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404380953893735714.png",
+        static_img: "/huazi/7404380953893735714.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2ba3da08dd334cc08b392288bcc5f1a3?lk3s=43402efa&x-expires=1789542760&x-signature=MhFuDJc1RJR36fPprje2DZcuBN8%3D",
@@ -27009,8 +27009,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色立体描边发光花字",
       description: "蓝色立体描边发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404828145255288075.png",
+        static_img: "/huazi/7404828145255288075.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/01624926bb744af0b289634f350ca1d6?lk3s=43402efa&x-expires=1789542760&x-signature=JqvfjADiFWKn8eNvUSWZsv9eLnM%3D",
@@ -27062,8 +27062,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "限时抢购",
       description: "限时抢购",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7510183639066627352.png",
+        static_img: "/huazi/7510183639066627352.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/60368cbdbc534d9ab6fc66a393327b6c?lk3s=43402efa&x-expires=1789542760&x-signature=Ot%2FqdBXdJqncteGKaaxmd41i%2Fro%3D",
@@ -27114,8 +27114,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "游戏综艺风蓝色波点渐变花字",
       description: "游戏综艺风蓝色波点渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404883759012597030.png",
+        static_img: "/huazi/7404883759012597030.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5c58ba7555b0409ba918e06bd1fdd9af?lk3s=43402efa&x-expires=1789542760&x-signature=Am5yZlk3RJvDCcUBhHjRXYBSkDI%3D",
@@ -27220,8 +27220,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色渐变综艺",
       description: "蓝色渐变综艺",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7435551949266701580.png",
+        static_img: "/huazi/7435551949266701580.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/668792dbbf3d4d14b1bd5907575b2111?lk3s=43402efa&x-expires=1789542760&x-signature=TfhrC5%2B5V2%2FG0Q3t5IVVfB5sfOA%3D",
@@ -27379,8 +27379,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉笔涂鸦花字（教师节）",
       description: "粉笔涂鸦花字（教师节）",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405546666498985227.png",
+        static_img: "/huazi/7405546666498985227.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ab135f6fea534cba9781a77877f32476?lk3s=43402efa&x-expires=1789542760&x-signature=dGc0Iig1Oz6EwOkrSwIjmFJRUa4%3D",
@@ -27432,8 +27432,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "可爱花字",
       description: "可爱花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430667612146666764.png",
+        static_img: "/huazi/7430667612146666764.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8d09857af7d2410c91fcb591f9fd4810?lk3s=43402efa&x-expires=1789542760&x-signature=vFpHCV377ZCn4cx81GVpr%2BgmSk0%3D",
@@ -27485,8 +27485,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黑粉甜酷拼贴文字",
       description: "黑粉甜酷拼贴文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431814893415812362.png",
+        static_img: "/huazi/7431814893415812362.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/bbbf64f1f61347b28824aa534046cbd6?lk3s=43402efa&x-expires=1789542760&x-signature=yHUifVltO3CfD3NHkimDQCQ61CI%3D",
@@ -27538,8 +27538,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "彩色立体",
       description: "彩色立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7506818824885390616.png",
+        static_img: "/huazi/7506818824885390616.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0485e4d376c94677883a8effe0cce945?lk3s=43402efa&x-expires=1789542760&x-signature=t8d%2FNZT52H1lrYK%2BDl4Vyj9GCys%3D",
@@ -27590,8 +27590,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "浅棕色描边花字",
       description: "浅棕色描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7328771445960592640.png",
+        static_img: "/huazi/7328771445960592640.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/660b7db2ad4f421aa7f423bf2ce003eb?lk3s=43402efa&x-expires=1789542760&x-signature=CcH7UGvhmC18DV48Ot%2ByzE54%2By8%3D",
@@ -27695,8 +27695,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变",
       description: "线上-1 关键词",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7410369831503006988.png",
+        static_img: "/huazi/7410369831503006988.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d3fe3c969dd3400bb8fb1f056af2b625?lk3s=43402efa&x-expires=1789542760&x-signature=r4uhcY0Pfr18B5mPajB3OaOk9UE%3D",
@@ -27854,8 +27854,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺感蓝色立体描边花字",
       description: "综艺感蓝色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7482027387266469145.png",
+        static_img: "/huazi/7482027387266469145.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/711318aa9965466f8396489f53483ba8?lk3s=43402efa&x-expires=1789542760&x-signature=4djitDbUznPlrQ75Ld%2FEDZ1MtMA%3D",
@@ -27906,8 +27906,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "彩色透明花字",
       description: "彩色透明花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406321401969364264.png",
+        static_img: "/huazi/7406321401969364264.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/95a03822cd1949269c69562f4fa69ac7?lk3s=43402efa&x-expires=1789542760&x-signature=Ut%2Fc65PBWEmqAKUcfAOoVOoMSAs%3D",
@@ -28065,8 +28065,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝橙白立体花字",
       description: "蓝橙白立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7504864758944927001.png",
+        static_img: "/huazi/7504864758944927001.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d6487e763cdd4a17a4aef743bc9484f2?lk3s=43402efa&x-expires=1789542760&x-signature=MeE8bOaHK0bl0tpzEFEQTb21%2FTI%3D",
@@ -28170,8 +28170,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "玫粉黑花字",
       description: "玫粉黑花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407015583444782375.png",
+        static_img: "/huazi/7407015583444782375.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/02679dd746704cb38988d28d6a9bcb6a?lk3s=43402efa&x-expires=1789542760&x-signature=hQQTO1cvOhOIC3WpOYscEwnU35s%3D",
@@ -28223,8 +28223,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "芭比粉背景白字",
       description: "芭比粉背景白字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405183112906378522.png",
+        static_img: "/huazi/7405183112906378522.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/705693a4dbe840e9b007ac22ad3c8277?lk3s=43402efa&x-expires=1789542760&x-signature=HJhAD8Anh5et99j1brmWZNGtP28%3D",
@@ -28276,8 +28276,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "万圣节多色花字",
       description: "万圣节多色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407047445240139071.png",
+        static_img: "/huazi/7407047445240139071.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/de282760bca84a6ea505023dcd474062?lk3s=43402efa&x-expires=1789542760&x-signature=qCwxYrijfU3ZqUulDIwdLxf5t%2Fc%3D",
@@ -28329,8 +28329,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古风花字",
       description: "复古风花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406318872862674185.png",
+        static_img: "/huazi/7406318872862674185.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c23e2f59afca492a8f3456c40f61e031?lk3s=43402efa&x-expires=1789542760&x-signature=%2FZ6Stp%2Fp4apO3hHHzstTtWALsro%3D",
@@ -28435,8 +28435,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "APT花字",
       description: "APT花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431429796434890021.png",
+        static_img: "/huazi/7431429796434890021.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9c3d7ab5bf014b2c847623c2c7cee2cc?lk3s=43402efa&x-expires=1789542760&x-signature=yp70pZ9%2BLxx%2B%2F%2F9ZCcp7a2xUJOU%3D",
@@ -28541,8 +28541,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "未来科技感立体厚重标题花字",
       description: "未来科技感立体厚重标题花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405789476561095986.png",
+        static_img: "/huazi/7405789476561095986.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4eccac9f593141989326bad25db77486?lk3s=43402efa&x-expires=1789542760&x-signature=Xx24377oTkB7238PFASkZEDY%2Bx8%3D",
@@ -28594,8 +28594,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白字带描边花字",
       description: "白字带描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405944078992559411.png",
+        static_img: "/huazi/7405944078992559411.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d398be2c9a154d248c02c8a6e09fa147?lk3s=43402efa&x-expires=1789542760&x-signature=4lsPXqGc6jMLKNJ9f0To3hj906E%3D",
@@ -28647,8 +28647,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "美妆方底",
       description: "美妆方底",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7411583332707863835.png",
+        static_img: "/huazi/7411583332707863835.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/22c0fd24ff604dd49b225d7b5fb4e068?lk3s=43402efa&x-expires=1789542760&x-signature=w8baDVV82%2Fqrb%2FvQ1gself0I8Tc%3D",
@@ -28806,8 +28806,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄绿撕纸拼贴质感花字",
       description: "黄绿撕纸拼贴质感花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405065396648283455.png",
+        static_img: "/huazi/7405065396648283455.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b649e22959094dd393e39ef325c9d57f?lk3s=43402efa&x-expires=1789542760&x-signature=LgN%2Fk9KglEezscu6gWLvyfrM6eM%3D",
@@ -29017,8 +29017,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄蓝渐变立体字",
       description: "黄蓝渐变立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7382058294157774107.png",
+        static_img: "/huazi/7382058294157774107.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/554e50219a734a6a8b01bcbcd1e7507a?lk3s=43402efa&x-expires=1789542760&x-signature=owPPSQv%2F4dALUTLEfzD4GKAS2%2Fc%3D",
@@ -29176,8 +29176,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色渐变黄绿描边",
       description: "红色渐变黄绿描边",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406979682911931657.png",
+        static_img: "/huazi/7406979682911931657.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/df58d64da41045cd83c167e37a0b4f33?lk3s=43402efa&x-expires=1789542760&x-signature=qTUasoYKaR35zMF5VfEILqZNVOI%3D",
@@ -29229,8 +29229,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "美妆拼贴",
       description: "美妆拼贴",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7411563961381817610.png",
+        static_img: "/huazi/7411563961381817610.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c09fcdfa9354478aa8ede545bb68f18c?lk3s=43402efa&x-expires=1789542760&x-signature=MnwXxf1JpN4Ef62WVftRK%2B%2B71X8%3D",
@@ -29704,8 +29704,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金箔纹理阴影花字",
       description: "金箔纹理阴影花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405530102324415807.png",
+        static_img: "/huazi/7405530102324415807.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/cfb59b9f3eda430bb8ddd3eb45c58a9d?lk3s=43402efa&x-expires=1789542763&x-signature=lK%2BsROLPV%2BMw6aFoAFP6YQaBJD0%3D",
@@ -29757,8 +29757,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "书法墨迹白色花字",
       description: "书法墨迹白色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405519026367122727.png",
+        static_img: "/huazi/7405519026367122727.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a599dbe939424fe3973c916f4aaf7801?lk3s=43402efa&x-expires=1789542763&x-signature=IDhiiFtqbWnkwxoBn8p7et%2B85As%3D",
@@ -29810,8 +29810,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "泼墨书法纹理花字",
       description: "泼墨书法纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405512855434382611.png",
+        static_img: "/huazi/7405512855434382611.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/70aefc308c0f4ddf916502b0754228c9?lk3s=43402efa&x-expires=1789542763&x-signature=P34R2A4t9gg1gaaWHKSWrz%2B1l2Q%3D",
@@ -29863,8 +29863,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色斑驳",
       description: "红色斑驳",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7475566213477977368.png",
+        static_img: "/huazi/7475566213477977368.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7216badfc2bf4c8d8bf99a2bae3bf023?lk3s=43402efa&x-expires=1789542763&x-signature=MbQRMUBf07BahJc4UkzxhrL1i34%3D",
@@ -29915,8 +29915,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色立体",
       description: "红色立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7546579616576720152.png",
+        static_img: "/huazi/7546579616576720152.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7652316004d24ab2b764e0857cc800e4?lk3s=43402efa&x-expires=1789542763&x-signature=5%2BC%2BuYyORChdNI4%2FG7jJzXziF%2BI%3D",
@@ -29967,8 +29967,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金色质感立体花字",
       description: "金色质感立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405499580399357210.png",
+        static_img: "/huazi/7405499580399357210.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/794a01a047b54e8db98d603d30d7828b?lk3s=43402efa&x-expires=1789542763&x-signature=iQ84h2tCAPOaZvODTQbPDNbSYWU%3D",
@@ -30020,8 +30020,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "国风花字",
       description: "国风花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406643508242582825.png",
+        static_img: "/huazi/7406643508242582825.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/745d9b5109ea4dd99b1b98b186f979a0?lk3s=43402efa&x-expires=1789542763&x-signature=vAd%2FBTLXQlUTvCXBuCE4l3q2Urs%3D",
@@ -30073,8 +30073,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黑白水墨字",
       description: "黑白水墨字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405516433863511348.png",
+        static_img: "/huazi/7405516433863511348.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/30d56b32539543c4aa7e368175def757?lk3s=43402efa&x-expires=1789542763&x-signature=YFmuH6QgaC4NcA8a8Trk9P5SG60%3D",
@@ -30126,8 +30126,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古红色立体花字",
       description: "复古红色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7435884430620691739.png",
+        static_img: "/huazi/7435884430620691739.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3b131b47f65f4b268c816098db604642?lk3s=43402efa&x-expires=1789542763&x-signature=w97d7bHn0Bl%2FadziHKUEq1XQTWM%3D",
@@ -30178,8 +30178,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "国风花字",
       description: "国风花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406646658768882983.png",
+        static_img: "/huazi/7406646658768882983.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b1b8864e69dc4c53a4e75997e2610a7f?lk3s=43402efa&x-expires=1789542763&x-signature=ASvsXez%2BqV%2B%2FisvGaMfvZeslp%2FU%3D",
@@ -30231,8 +30231,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "水墨风晕染花字",
       description: "水墨风晕染花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405497799036407090.png",
+        static_img: "/huazi/7405497799036407090.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/1779d8d410964251a4bfd4bd9ee5c3cf?lk3s=43402efa&x-expires=1789542763&x-signature=9A6xsOyuOHuX4MO9JSI77WNC%2FpQ%3D",
@@ -30337,8 +30337,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "古风质感花字",
       description: "古风质感花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7483351934074817817.png",
+        static_img: "/huazi/7483351934074817817.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3e7a546950c94f45bc1fdb941d2c1ce8?lk3s=43402efa&x-expires=1789542763&x-signature=JawOfc4fhxOTKEAbWwCoK1cZzzA%3D",
@@ -30389,8 +30389,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "暗黑系红色火焰纹理花字",
       description: "暗黑系红色火焰纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405504415408409865.png",
+        static_img: "/huazi/7405504415408409865.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6f4f675d1bf94cacb829ec8590394a06?lk3s=43402efa&x-expires=1789542763&x-signature=UivjH%2F47RjweaBa7jJ5Y4XtqMp0%3D",
@@ -30654,8 +30654,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色暗黑花字",
       description: "红色暗黑花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405501851887586611.png",
+        static_img: "/huazi/7405501851887586611.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f0e05634f9ff4cedbc02ce1130661de4?lk3s=43402efa&x-expires=1789542763&x-signature=CfUnT93jhQ6fjNORqZNzanCPfLM%3D",
@@ -30707,8 +30707,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "国风花字",
       description: "国风花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406643758231571766.png",
+        static_img: "/huazi/7406643758231571766.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ae4e793dd9d24186a4209e2632da12ed?lk3s=43402efa&x-expires=1789542763&x-signature=jflc3KWbreI3%2FK2%2FyhUq%2F7qBHOo%3D",
@@ -30760,8 +30760,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黑红渐变立体描边花字",
       description: "黑红渐变立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405506413524569363.png",
+        static_img: "/huazi/7405506413524569363.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/dde2573628e545539a573324451e282d?lk3s=43402efa&x-expires=1789542763&x-signature=kZuCV1JMGJDvX%2FC99klL2TvedTQ%3D",
@@ -30813,8 +30813,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "书法水痕阴影花字",
       description: "书法水痕阴影花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405527291209469196.png",
+        static_img: "/huazi/7405527291209469196.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9184a886b0da4eeaa6ecaa8819de8e7e?lk3s=43402efa&x-expires=1789542763&x-signature=1pyK39ljdA2%2Fv1csH91xoo4IXng%3D",
@@ -30866,8 +30866,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "水墨背景白色花字",
       description: "水墨背景白色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405534702221790515.png",
+        static_img: "/huazi/7405534702221790515.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b4ccdcd480d74291aa3fac1f5c74d857?lk3s=43402efa&x-expires=1789542763&x-signature=WuB0L9ivkFPzxICm%2BT6ZNOEoB3A%3D",
@@ -30972,8 +30972,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红金国风花字",
       description: "红金国风花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7507132514088062233.png",
+        static_img: "/huazi/7507132514088062233.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5f2ea663a86a4dedb44e6ac8e4b409bd?lk3s=43402efa&x-expires=1789542763&x-signature=4ona16Cz87NB5UUhoGSE4Be8v1g%3D",
@@ -31024,8 +31024,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黑白水墨花字",
       description: "黑白水墨花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405498270568418611.png",
+        static_img: "/huazi/7405498270568418611.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8af5716fc44647c9bb25780dd885f593?lk3s=43402efa&x-expires=1789542763&x-signature=GyOsjpKINg4nViB0rakAsPhhv04%3D",
@@ -31077,8 +31077,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "暗黑红色立体花字",
       description: "暗黑红色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405503477444644106.png",
+        static_img: "/huazi/7405503477444644106.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/feea46d1889f46479caafc1fc48c3549?lk3s=43402efa&x-expires=1789542763&x-signature=CG4iuzlwrdjl3Z5FgvMGOt4Np6M%3D",
@@ -31130,8 +31130,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "暗黑墨迹字",
       description: "暗黑墨迹字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405513478645091636.png",
+        static_img: "/huazi/7405513478645091636.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9f996c8e51dc4f189fefd38e256356bb?lk3s=43402efa&x-expires=1789542763&x-signature=EnSSuOy97VXDoDqqN%2BsjGhoOx6Y%3D",
@@ -31183,8 +31183,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "青绿色水墨风古典边框花字",
       description: "青绿色水墨风古典边框花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405879747340700937.png",
+        static_img: "/huazi/7405879747340700937.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/01f2ad59e3604b0fa818e2987f6069af?lk3s=43402efa&x-expires=1789542763&x-signature=KqSSXo%2FeXkm3k7m%2F0FoIdfGXqrk%3D",
@@ -31236,8 +31236,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "水墨书法纹理花字",
       description: "水墨书法纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405514792724745484.png",
+        static_img: "/huazi/7405514792724745484.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/775d025ab63046ffa53fb1c50ee3fd59?lk3s=43402efa&x-expires=1789542763&x-signature=Gac9rIFX%2Fc1k0ITHyyAh%2FJPqgQk%3D",
@@ -31289,8 +31289,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黑灰色质感立体花字",
       description: "黑灰色质感立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405500890620120358.png",
+        static_img: "/huazi/7405500890620120358.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3e218c8e906a476fbf318fedbe246cae?lk3s=43402efa&x-expires=1789542763&x-signature=ZpsMt%2FtejtZNHo7aTj1n3DpumEg%3D",
@@ -31342,8 +31342,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "暗黑火焰红边花字",
       description: "暗黑火焰红边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405494488019275059.png",
+        static_img: "/huazi/7405494488019275059.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2811f1b43bb34c9ab4af0b515619276d?lk3s=43402efa&x-expires=1789542763&x-signature=BUQC6I%2BmIHL6lkwd2TZDQCw4Mes%3D",
@@ -31395,8 +31395,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "暗红色墨痕书法花字",
       description: "暗红色墨痕书法花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405528972135583030.png",
+        static_img: "/huazi/7405528972135583030.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/59fe12aed5b443a5bb79e6d43045d41e?lk3s=43402efa&x-expires=1789542763&x-signature=3MkQl0pIAERGKjIzsHo8HUyboo4%3D",
@@ -31501,8 +31501,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "书法墨环图案花字",
       description: "书法墨环图案花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405524745959034124.png",
+        static_img: "/huazi/7405524745959034124.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3f332f9235aa4914a229d9d6770c112e?lk3s=43402efa&x-expires=1789542763&x-signature=F%2BfQQATVcE%2FGFU1NJ7TLy%2BMl4ag%3D",
@@ -31554,8 +31554,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金箔描边书法水墨花字",
       description: "金箔描边书法水墨花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405523665145613631.png",
+        static_img: "/huazi/7405523665145613631.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/555ae2d0c8934d00ba81bfb4615b24ab?lk3s=43402efa&x-expires=1789542763&x-signature=4XE9eke7qo4k44cp4cFIPP6FRp4%3D",
@@ -31953,8 +31953,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金色渐变立体发光花字",
       description: "金色渐变立体发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406007163417529638.png",
+        static_img: "/huazi/7406007163417529638.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b8eefc8bcdc24c41b3356c5d13461fdd?lk3s=43402efa&x-expires=1789542766&x-signature=%2BQ7kxQ7aZCgpeD%2FxnyjlbRHZSEA%3D",
@@ -32230,8 +32230,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色渐变黄色发光花字",
       description: "红色渐变黄色发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406005354070379802.png",
+        static_img: "/huazi/7406005354070379802.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/fc2ccb2f8cd140ce870bad0603aec1ef?lk3s=43402efa&x-expires=1789542766&x-signature=wfPvbV8d25hVX73QJy7PbB5YVO8%3D",
@@ -32283,8 +32283,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色霓虹灯发光花字",
       description: "蓝色霓虹灯发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7408957503892884774.png",
+        static_img: "/huazi/7408957503892884774.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/773541f3efba43b2a51e023901a12557?lk3s=43402efa&x-expires=1789542766&x-signature=isQ7XeJ%2FP0QnMzIpUE83R8jsKnA%3D",
@@ -32389,8 +32389,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金色渐变立体发光花字",
       description: "金色渐变立体发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7459717947620363582.png",
+        static_img: "/huazi/7459717947620363582.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/25c7fa8028004ca79b90e8df4d269ae6?lk3s=43402efa&x-expires=1789542766&x-signature=RXM1Y0AXbuR4V7UGy3vKBEL%2Bmck%3D",
@@ -32441,8 +32441,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色发光花字",
       description: "蓝色发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404751791503576339.png",
+        static_img: "/huazi/7404751791503576339.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/107a67da5194462db88b0e23e415d731?lk3s=43402efa&x-expires=1789542766&x-signature=f5Olr9ZIHEAgMx5O5jjDnG%2Bxhgk%3D",
@@ -33220,8 +33220,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色内发光文字",
       description: "红色内发光文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405197593808096527.png",
+        static_img: "/huazi/7405197593808096527.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0b5809ce5e85434f88316c9e3b9f2e64?lk3s=43402efa&x-expires=1789542766&x-signature=e2hMmukZ1vBTgMmTnSeJcBiwT2g%3D",
@@ -33491,8 +33491,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "霓虹灯发光红黄花字",
       description: "霓虹灯发光红黄花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404014524900199706.png",
+        static_img: "/huazi/7404014524900199706.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/51188d2259174f3181c9334d2448b8a5?lk3s=43402efa&x-expires=1789542766&x-signature=U2x5%2Fg4%2FLwuRq8Lx8GkfuxOE34A%3D",
@@ -33868,8 +33868,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "电商节日直播贴片标题立体字",
       description: "电商节日直播贴片标题立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406289529096719625.png",
+        static_img: "/huazi/7406289529096719625.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f127140f66d7473ba36a9258ce23cd85?lk3s=43402efa&x-expires=1789542766&x-signature=nbRRtmkJnSOWKcs14prKIJKaNMY%3D",
@@ -34345,8 +34345,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色霓虹灯发光花字",
       description: "红色霓虹灯发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7408956912089206067.png",
+        static_img: "/huazi/7408956912089206067.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/18195adfa9924018a384aeca4700251a?lk3s=43402efa&x-expires=1789542766&x-signature=%2BUztHj9Cgx3%2Bonv3uhr3aE%2FmfrI%3D",
@@ -34557,8 +34557,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "亮黄字橙色描边发光花字",
       description: "亮黄字橙色描边发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404047060221037851.png",
+        static_img: "/huazi/7404047060221037851.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/db9eb724a97d418bb41c263722016732?lk3s=43402efa&x-expires=1789542766&x-signature=UhHg21A34TmmyBICn9becjHG9so%3D",
@@ -34610,8 +34610,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "冬季发光",
       description: "冬季发光",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7434806614781168947.png",
+        static_img: "/huazi/7434806614781168947.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5ce2d2fbe3404a1a9289559c9294bd51?lk3s=43402efa&x-expires=1789542766&x-signature=189IK%2F94DyDElVYkjIGd%2FaF%2BZrs%3D",
@@ -34716,8 +34716,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "渐变彩虹色发光花字",
       description: "渐变彩虹色发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405056348200684827.png",
+        static_img: "/huazi/7405056348200684827.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9a36c9a82a614f03a75f426d07e978af?lk3s=43402efa&x-expires=1789542766&x-signature=wcRibplwygavcTn4I4wOGHu4lZ0%3D",
@@ -35354,8 +35354,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变发光字",
       description: "黄色渐变发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404001083665812771.png",
+        static_img: "/huazi/7404001083665812771.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a5d3548fc8074779acac5c9cd67972f2?lk3s=43402efa&x-expires=1789542766&x-signature=QB3KxqFHXiWsVdjIJJ5MhO7sCKQ%3D",
@@ -35576,8 +35576,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色渐变温柔发光花字",
       description: "粉色渐变温柔发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404385123975613706.png",
+        static_img: "/huazi/7404385123975613706.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b5b47c272f164d5793a04a73f186c681?lk3s=43402efa&x-expires=1789542766&x-signature=2Pw54guZKR1bEkjPjbGFGhK2LGQ%3D",
@@ -35894,8 +35894,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色渐变双层立体发光花字",
       description: "粉色渐变双层立体发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7494822504427539737.png",
+        static_img: "/huazi/7494822504427539737.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/dce42307020145e59561b1ee2b1d22b7?lk3s=43402efa&x-expires=1789542766&x-signature=9%2FVET%2FYAKtNXJ3ycz3ksyw9edVU%3D",
@@ -35946,8 +35946,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "东南亚渐变",
       description: "东南亚渐变",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7411034104415685939.png",
+        static_img: "/huazi/7411034104415685939.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/57e047e475c04ff7be4c5b0411a73fd2?lk3s=43402efa&x-expires=1789542766&x-signature=vDPcAs%2Fif4Zp4YQzeNSjiQdE8PU%3D",
@@ -36052,8 +36052,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄红色霓虹灯镂空发光花字",
       description: "黄红色霓虹灯镂空发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404089520070593843.png",
+        static_img: "/huazi/7404089520070593843.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/468efcdc72204fb0abbf6ae8381e17ec?lk3s=43402efa&x-expires=1789542766&x-signature=ocZqOjhQQoVH0YLkp1b5f2vKZvc%3D",
@@ -36105,8 +36105,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色渐变圆圈",
       description: "粉色渐变圆圈",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403922592194710834.png",
+        static_img: "/huazi/7403922592194710834.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2cc04ebfce034763ac98b2a58c621af8?lk3s=43402efa&x-expires=1789542766&x-signature=rRO6cOHHe%2FdQ8YZTFGVATBTmiF4%3D",
@@ -36317,8 +36317,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色发光字",
       description: "紫色发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403992509212314920.png",
+        static_img: "/huazi/7403992509212314920.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/579bc84360e64a6f8f1755e970ed44e2?lk3s=43402efa&x-expires=1789542766&x-signature=rdMBoDS12FCJtjsWWoTUSxtdkEA%3D",
@@ -36370,8 +36370,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色闪粉星光闪闪发光划走",
       description: "粉色闪粉星光闪闪发光划走",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7496497861224516926.png",
+        static_img: "/huazi/7496497861224516926.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2f6c678e43b841bfb51a67ee1d74882f?lk3s=43402efa&x-expires=1789542766&x-signature=rkMIF9sO6MG2uNOM3y68%2FldylbY%3D",
@@ -36581,8 +36581,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色发光立体花字",
       description: "粉色发光立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404070348263607603.png",
+        static_img: "/huazi/7404070348263607603.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9be7061b223f46ad8e844b77bbd9b307?lk3s=43402efa&x-expires=1789542766&x-signature=j8tkdTbMzRuUE4ONz%2F18mLsJnlg%3D",
@@ -36634,8 +36634,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色渐变立体描边花字",
       description: "绿色渐变立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406241968847670569.png",
+        static_img: "/huazi/7406241968847670569.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/49d3f8a840554903bdc68c9fc31224d3?lk3s=43402efa&x-expires=1789542766&x-signature=kvrlPZ%2B%2BMWisBeX%2FEgnbs6Q4VxY%3D",
@@ -36846,8 +36846,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "荧光绿线条发光字",
       description: "荧光绿线条发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405916937353465128.png",
+        static_img: "/huazi/7405916937353465128.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6f8b5345fc4e4b8c9a0439ba96634afc?lk3s=43402efa&x-expires=1789542766&x-signature=6JXkRGEXa9YmpAvCeM13E6inUik%3D",
@@ -37005,8 +37005,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色闪粉白色描边发光花字",
       description: "粉色闪粉白色描边发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404388775264030003.png",
+        static_img: "/huazi/7404388775264030003.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/300f3ec9cb3742608851a9eeb50ab385?lk3s=43402efa&x-expires=1789542766&x-signature=6RrSVsIH1sPtGoJKMiXTKmaZb%2Bc%3D",
@@ -37058,8 +37058,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫红发光字",
       description: "紫红发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405417769446968610.png",
+        static_img: "/huazi/7405417769446968610.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b6c8dc0aa0e34e20b6d28c2f946aebf8?lk3s=43402efa&x-expires=1789542766&x-signature=o%2F4td6e8HF8s7H4d8zx5SQoKoYM%3D",
@@ -37270,8 +37270,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "梦幻紫星光双层立体花字",
       description: "梦幻紫星光双层立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404321217110396187.png",
+        static_img: "/huazi/7404321217110396187.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/74e0f3700d8346b0937ac574f97ba72c?lk3s=43402efa&x-expires=1789542766&x-signature=OwMcTkv1gaOisU7Ol34Ndr0YCQ4%3D",
@@ -37323,8 +37323,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色闪闪",
       description: "粉色闪闪",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7529808923725925657.png",
+        static_img: "/huazi/7529808923725925657.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/93f88f6017ca4acc85f7171038f95904?lk3s=43402efa&x-expires=1789542766&x-signature=5i8hFQK6mzMXhgqy%2F58AJ8OEPMU%3D",
@@ -37375,8 +37375,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "荧光线条发光字",
       description: "荧光线条发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405939554047233295.png",
+        static_img: "/huazi/7405939554047233295.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/abe5db95564c4ce5a90fcd0f6bcf736c?lk3s=43402efa&x-expires=1789542766&x-signature=hA5Ovbe3hQH5fqBq7OsYHGr8VQY%3D",
@@ -37481,8 +37481,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "发光灯箱感绿色描边立体花字",
       description: "发光灯箱感绿色描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404100687820229922.png",
+        static_img: "/huazi/7404100687820229922.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/23896d3c45bb414faec508b151cc5b88?lk3s=43402efa&x-expires=1789542766&x-signature=PHCPs332p0wpA75%2FQvX9d2joMTw%3D",
@@ -37746,8 +37746,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色发光字",
       description: "紫色发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406201706456960256.png",
+        static_img: "/huazi/7406201706456960256.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a3d62ba44f574cca8571586b3a495e0d?lk3s=43402efa&x-expires=1789542766&x-signature=f4b4if2m2LRYmUBRhAhv97C%2F9SQ%3D",
@@ -37799,8 +37799,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白色描边芭比粉发光花字",
       description: "白色描边芭比粉发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404708538926353700.png",
+        static_img: "/huazi/7404708538926353700.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/dfb73afb510b44188371587e563107e8?lk3s=43402efa&x-expires=1789542766&x-signature=D5HzV%2FT%2FbJ40mrTSIPJPtdRXyyg%3D",
@@ -37905,8 +37905,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "赛博朋克纹理发光字",
       description: "赛博朋克纹理发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405875861712342307.png",
+        static_img: "/huazi/7405875861712342307.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ef236fab915b467c91505e55e8eb0b59?lk3s=43402efa&x-expires=1789542766&x-signature=q5OMwLQs%2FdA9tLxOaXw%2FjbupMc8%3D",
@@ -38011,8 +38011,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "彩色镭射渐变花字",
       description: "彩色镭射渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404330497574309129.png",
+        static_img: "/huazi/7404330497574309129.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/908ca87be1ce438591dc58316e3de3ae?lk3s=43402efa&x-expires=1789542766&x-signature=SuAXSDVHy17hwCPn2CNwEg9FeFk%3D",
@@ -38117,8 +38117,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "薄荷绿花字",
       description: "薄荷绿花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404021791427005723.png",
+        static_img: "/huazi/7404021791427005723.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/78fbfa8f9b434959bf16ed1105a6f5d5?lk3s=43402efa&x-expires=1789542766&x-signature=F66MbIeE%2BXX8j5HwknoKSXdwhHo%3D",
@@ -38223,8 +38223,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色花字",
       description: "科技",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7351303614104636699.png",
+        static_img: "/huazi/7351303614104636699.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0598a9143c314cdfa8887375993c0e75?lk3s=43402efa&x-expires=1789542766&x-signature=m8vzOkJ7zguk1%2FR%2B7lUUlUa2CDw%3D",
@@ -39700,8 +39700,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色发光字",
       description: "黄色发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405565480678739200.png",
+        static_img: "/huazi/7405565480678739200.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b07f20d599944aa6a23f515657b6a576?lk3s=43402efa&x-expires=1789542766&x-signature=qGpxHwvvnqunARL4CiTqvywZxe4%3D",
@@ -40003,8 +40003,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "赛博朋克未来科技感立体发光花字",
       description: "赛博朋克未来科技感立体发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404088879780826406.png",
+        static_img: "/huazi/7404088879780826406.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/44e2e035c88847aab7044fe882f3d939?lk3s=43402efa&x-expires=1789542766&x-signature=%2FtanCv%2B4GLTDKCqxkTH7oB9dHzs%3D",
@@ -40527,8 +40527,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变红边发光花字",
       description: "黄色渐变红边发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407014765907774747.png",
+        static_img: "/huazi/7407014765907774747.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3fbf8f453b3d4a72bd1778189427e057?lk3s=43402efa&x-expires=1789542769&x-signature=05jiiJ3wYip5GR%2FHnRVKSuC4UzM%3D",
@@ -40959,8 +40959,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色渐变3D立体花字",
       description: "蓝色渐变3D立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405125461438762267.png",
+        static_img: "/huazi/7405125461438762267.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e56408ca3e0b40d7b2ee420a289274f5?lk3s=43402efa&x-expires=1789542769&x-signature=G5Zy8wCA7AhsqVcwYSdX8Is1Cqk%3D",
@@ -41761,8 +41761,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色渐变立体描边花字",
       description: "蓝色渐变立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7511237110914125080.png",
+        static_img: "/huazi/7511237110914125080.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/333a9a4e321d43b981fc3e1b4310171d?lk3s=43402efa&x-expires=1789542769&x-signature=UYnfvPsEWknk1cL62fcnljfwoWY%3D",
@@ -41975,8 +41975,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄橙色渐变描边立体花字",
       description: "黄橙色渐变描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405056217225104681.png",
+        static_img: "/huazi/7405056217225104681.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/952d0a1852af4ab3b9a33f3fd5738c8e?lk3s=43402efa&x-expires=1789542769&x-signature=kMGuVBWugDBgFTYBdcu9RKQmzDc%3D",
@@ -42081,8 +42081,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7491562659268119870.png",
+        static_img: "/huazi/7491562659268119870.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/cb4e7ef4e60345a986a148036fdc0723?lk3s=43402efa&x-expires=1789542769&x-signature=rUJkB5uogMUHkLDswtAQolbqJFg%3D",
@@ -42188,8 +42188,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色渐变红色底花字",
       description: "粉色渐变红色底花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404684532756073791.png",
+        static_img: "/huazi/7404684532756073791.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7d18f259646d46bd91c525273e33c441?lk3s=43402efa&x-expires=1789542769&x-signature=cWVo23Gmtu6WuO%2BdHJNFcqG8jN4%3D",
@@ -42516,8 +42516,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7530918113899105561.png",
+        static_img: "/huazi/7530918113899105561.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e254ac746b4f457cab4d81cb97a2860c?lk3s=43402efa&x-expires=1789542769&x-signature=YsfcDY6AL56GwHAszEXWHo34608%3D",
@@ -42680,8 +42680,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431462520835099955.png",
+        static_img: "/huazi/7431462520835099955.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b6412790e035467eb128395dc2293950?lk3s=43402efa&x-expires=1789542769&x-signature=46zA5DcvHBZquaSo%2BkQyd6WovWs%3D",
@@ -42786,8 +42786,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄红渐变黑边立体花字",
       description: "黄红渐变黑边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431549062475762959.png",
+        static_img: "/huazi/7431549062475762959.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2a77c24325ef4c98bdcac00d46dd9d65?lk3s=43402efa&x-expires=1789542769&x-signature=8C8LKE%2Fw%2BXpI%2F3Vua5%2BwsaL7sGw%3D",
@@ -43055,8 +43055,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色描边双色渐变立体花字",
       description: "红色描边双色渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7391023993802804521.png",
+        static_img: "/huazi/7391023993802804521.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0f1e602d41c44f4697b5d4c1a96b7ccb?lk3s=43402efa&x-expires=1789542769&x-signature=VcYEnsa9UShIk90UjIn6huomHD4%3D",
@@ -43426,8 +43426,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄橘渐变",
       description: "黄橘渐变",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7410717398510128424.png",
+        static_img: "/huazi/7410717398510128424.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/357ab1c1329f4ce0b3008c4bf6ee98bc?lk3s=43402efa&x-expires=1789542769&x-signature=8hl5tvisExxtxRcteWbSwEMwMjc%3D",
@@ -43640,8 +43640,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄白色渐变立体花字",
       description: "黄白色渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7493079330654899480.png",
+        static_img: "/huazi/7493079330654899480.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/75e86248c00948d99ca0053f5758c5dc?lk3s=43402efa&x-expires=1789542769&x-signature=Yp%2F%2Bx%2Fnxb%2FEKW34PiAaQKeqEAh4%3D",
@@ -43745,8 +43745,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白字霓虹灯渐变花字",
       description: "白字霓虹灯渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406294702212877619.png",
+        static_img: "/huazi/7406294702212877619.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5298bf610b0242ee93dfcde11002e53d?lk3s=43402efa&x-expires=1789542769&x-signature=EPaMqNs84vjiKBvd%2FA1vJhZybUw%3D",
@@ -44063,8 +44063,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变橙蓝色描边立体花字",
       description: "黄色渐变橙蓝色描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7505100141288901950.png",
+        static_img: "/huazi/7505100141288901950.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/cff8b24c929e42e1ae1601b701f8a6ee?lk3s=43402efa&x-expires=1789542769&x-signature=6vIjxg6vjkKZ8hcZ8PoFX1LBRvk%3D",
@@ -44174,8 +44174,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝绿渐变花字",
       description: "蓝绿渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7391445684953681192.png",
+        static_img: "/huazi/7391445684953681192.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d737d2b1b4264d5d87448addad2901bc?lk3s=43402efa&x-expires=1789542769&x-signature=%2FjJgRVYo0cL6vg%2BEafgN4JVvx7o%3D",
@@ -44545,8 +44545,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色 立体 渐变 花字",
       description: "紫色 立体 渐变 花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7527575726220987672.png",
+        static_img: "/huazi/7527575726220987672.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e63dac91ea50479996b64a929a3b8241?lk3s=43402efa&x-expires=1789542769&x-signature=GDftD8ZSmN48vOHvbfggmHMlxxw%3D",
@@ -44862,8 +44862,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "渐变白色描边花字",
       description: "渐变白色描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405949704904658203.png",
+        static_img: "/huazi/7405949704904658203.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/213405a977564acb80ebf108ae29c983?lk3s=43402efa&x-expires=1789542769&x-signature=wF2xbg4gOafgFznoSh4iQxpAPT4%3D",
@@ -44968,8 +44968,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "3D渐变绿色立体花字",
       description: "3D渐变绿色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404710833344892196.png",
+        static_img: "/huazi/7404710833344892196.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b56a85b843264288987af8c4a86276ea?lk3s=43402efa&x-expires=1789542769&x-signature=J%2B1WYPIZcFXxTCZuIQB9dbI%2BNJ4%3D",
@@ -45021,8 +45021,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "简约双层描边蓝色渐变花字",
       description: "简约双层描边蓝色渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7497111940762995993.png",
+        static_img: "/huazi/7497111940762995993.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5e1c9d7a6b7e447e9633d0f9bd7ca05e?lk3s=43402efa&x-expires=1789542769&x-signature=Nu5jzPUvNknNhAUV9f20SNdc3%2BY%3D",
@@ -45187,8 +45187,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "美妆立体",
       description: "美妆立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7482318463755734334.png",
+        static_img: "/huazi/7482318463755734334.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4148c5fb62ce4ca1a0d32c2f63b5f468?lk3s=43402efa&x-expires=1789542769&x-signature=1K6pv9MzLkojEY661y3pSlMdvXs%3D",
@@ -45239,8 +45239,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "忧郁蓝",
       description: "忧郁蓝",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7481306716752219417.png",
+        static_img: "/huazi/7481306716752219417.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/080a1c51798241fa8490a9688b7d1267?lk3s=43402efa&x-expires=1789542769&x-signature=B3X5KqHH7tG%2Ff8XyIaER2EcKZVg%3D",
@@ -45291,8 +45291,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黑底纹粉渐变描边发光花字",
       description: "黑底纹粉渐变描边发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407010177842482459.png",
+        static_img: "/huazi/7407010177842482459.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/105d7ad0bc4548ce8d20ff0369539234?lk3s=43402efa&x-expires=1789542769&x-signature=8KShpWHczBwO0%2FFHAr28%2FCbWdpU%3D",
@@ -45662,8 +45662,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色渐变立体文字",
       description: "红色渐变立体文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406232498734157090.png",
+        static_img: "/huazi/7406232498734157090.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/18cad88230e54f58a1f53cd36ac93a80?lk3s=43402efa&x-expires=1789542769&x-signature=kAXEy3oVbYXCujd9y3glRZTsjIo%3D",
@@ -45715,8 +45715,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色梦幻立体",
       description: "粉色梦幻立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404129182244031782.png",
+        static_img: "/huazi/7404129182244031782.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b8bc434b6af5495d903c7dc50c70b053?lk3s=43402efa&x-expires=1789542769&x-signature=evaZZYHEsl053mTcRl1nSllUAYA%3D",
@@ -45874,8 +45874,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变粉色阴影立体花字",
       description: "黄色渐变粉色阴影立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7495776303799618878.png",
+        static_img: "/huazi/7495776303799618878.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/209edc79484b4b539d88eace356ee4e7?lk3s=43402efa&x-expires=1789542769&x-signature=6dUchS881AXFe1J3LI%2FzOWzkjN8%3D",
@@ -46032,8 +46032,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色渐变",
       description: "粉色渐变",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7475023258228788505.png",
+        static_img: "/huazi/7475023258228788505.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/50afef65241346b89e57a87237a66a1b?lk3s=43402efa&x-expires=1789542769&x-signature=cAJdq6hdUFOG%2FnzcZ0hNnOwh4rA%3D",
@@ -46084,8 +46084,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色燃烧花字",
       description: "红色燃烧花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405837403782384906.png",
+        static_img: "/huazi/7405837403782384906.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/187f2b07e7ed41f2afbd7a3703f5ab6b?lk3s=43402efa&x-expires=1789542772&x-signature=Oq4kb7k%2FUolVPNDVjHrVhw%2Bu4VQ%3D",
@@ -46137,8 +46137,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "春节喜庆金字红边立体花字",
       description: "春节喜庆金字红边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7460547039252909337.png",
+        static_img: "/huazi/7460547039252909337.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b3e0b9f163114bbeb5dbe8ba189bccda?lk3s=43402efa&x-expires=1789542772&x-signature=uPY%2Bg0sNF3n94TgqfbI%2FJB4V66E%3D",
@@ -46189,8 +46189,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "斜线纹理黑白漫画感花字",
       description: "斜线纹理黑白漫画感花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405244303586397476.png",
+        static_img: "/huazi/7405244303586397476.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b07babdc7a9f4ef6930edd79e20f3dd3?lk3s=43402efa&x-expires=1789542772&x-signature=8g7q5%2FJUyPvwFuwydJeCGuYhekE%3D",
@@ -46242,8 +46242,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白纸纹理蓝边拼贴花字",
       description: "白纸纹理蓝边拼贴花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7509039282737302808.png",
+        static_img: "/huazi/7509039282737302808.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4698afd370954f0cb1ce4ba4aada475c?lk3s=43402efa&x-expires=1789542772&x-signature=r4utBtVdV%2FDlKWtrTD6KLeW%2FlIo%3D",
@@ -46293,8 +46293,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7545325777781280024.png",
+        static_img: "/huazi/7545325777781280024.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/25547c88ec694e84a562dc4ed9318fea?lk3s=43402efa&x-expires=1789542772&x-signature=9HF%2B5TGfRz5ibOaARXCP9Slws0k%3D",
@@ -46397,8 +46397,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色立体纹理花字",
       description: "黄色立体纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405846768010661157.png",
+        static_img: "/huazi/7405846768010661157.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/1a593fef6fc24cc681b843c513a64921?lk3s=43402efa&x-expires=1789542772&x-signature=sJeMmHtLCmEQ1WJezxwwHElfjV4%3D",
@@ -46450,8 +46450,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "像素化花字",
       description: "像素化花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7488161196357487934.png",
+        static_img: "/huazi/7488161196357487934.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/636ef6d2681f4d10a038786bc6ade282?lk3s=43402efa&x-expires=1789542772&x-signature=nzV7REYvllLyd4DJRTFiiX4An%2B0%3D",
@@ -46555,8 +46555,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄红立体字",
       description: "黄红立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7492626374239243545.png",
+        static_img: "/huazi/7492626374239243545.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/497be95f515a4a659a83461d91bcc4c0?lk3s=43402efa&x-expires=1789542772&x-signature=K3tg%2F7Rgs58qlEnehD3PZpzPeD4%3D",
@@ -46607,8 +46607,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "像素化花字",
       description: "像素化花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7482734426015730968.png",
+        static_img: "/huazi/7482734426015730968.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f1743d19ba9443fe896efbfd6aa15292?lk3s=43402efa&x-expires=1789542772&x-signature=2z%2FZ7FyTRkI%2F0cid%2B88jGthN%2Fic%3D",
@@ -46659,8 +46659,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7480452404811615512.png",
+        static_img: "/huazi/7480452404811615512.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a2cb217e86464d40ae9f9d11c0c8e773?lk3s=43402efa&x-expires=1789542772&x-signature=wuYkuPsMC8j3HgWkYueKHoe5wQk%3D",
@@ -46711,8 +46711,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金属质感硬朗立体花字",
       description: "金属质感硬朗立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405140394662530354.png",
+        static_img: "/huazi/7405140394662530354.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/115bfd2b0ab3462998d15286acdc6175?lk3s=43402efa&x-expires=1789542772&x-signature=GFaUT3DMH4MzHhQEzWdWJcq03ms%3D",
@@ -46764,8 +46764,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "冰雪大世界立体雪花字",
       description: "冰雪大世界立体雪花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407272554445999411.png",
+        static_img: "/huazi/7407272554445999411.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f621def05c1b4a28854e803be7edd70b?lk3s=43402efa&x-expires=1789542772&x-signature=8bMZ86yvS9lW5RZDjsHs9Q6ePb0%3D",
@@ -46817,8 +46817,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "不织布新年红",
       description: "不织布新年红",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7449585330547625228.png",
+        static_img: "/huazi/7449585330547625228.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/35e76bb517ca421287c06d58acde3a6a?lk3s=43402efa&x-expires=1789542772&x-signature=x0eO2Ykwh7s59aFLYuBD4NmEKlE%3D",
@@ -46869,8 +46869,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古纸张纹理字",
       description: "复古纸张纹理字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404377624690101544.png",
+        static_img: "/huazi/7404377624690101544.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f312ff0be0424e539b22f44e2b55a59a?lk3s=43402efa&x-expires=1789542772&x-signature=%2BgU9fBkq00lE49kMekoNsXf54%2Bo%3D",
@@ -46922,8 +46922,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7541849024001740056.png",
+        static_img: "/huazi/7541849024001740056.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/1085d893ad134305b6751cc223648361?lk3s=43402efa&x-expires=1789542772&x-signature=j3pHftLKnHb65xCEFTv2sHOHshw%3D",
@@ -46974,8 +46974,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "像素化游戏花字",
       description: "像素化游戏花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7482761022504275262.png",
+        static_img: "/huazi/7482761022504275262.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d29bd8b6489144efa4f839b32a044ee4?lk3s=43402efa&x-expires=1789542772&x-signature=LoHYWMQblukbdzHJoz9wVWdK0d4%3D",
@@ -47026,8 +47026,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "未来科技感赛博斜体字",
       description: "未来科技感赛博斜体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405126783332404517.png",
+        static_img: "/huazi/7405126783332404517.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/43a0240e69d24382915fd1feb86cf493?lk3s=43402efa&x-expires=1789542772&x-signature=Y2NOhzhB3R32svoeXSG8lpB8ick%3D",
@@ -47132,8 +47132,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "清爽冰块纹理字",
       description: "清爽冰块纹理字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405853759911333172.png",
+        static_img: "/huazi/7405853759911333172.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/684cae5c82b542d5a40350fa88d39c21?lk3s=43402efa&x-expires=1789542772&x-signature=vyg0ygYBFq1Mn2FhtLCn5my1tTQ%3D",
@@ -47185,8 +47185,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿叶绿色纹理花字",
       description: "绿叶绿色纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7435107467366878503.png",
+        static_img: "/huazi/7435107467366878503.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d105d0af38984e6c9bfcf92b285610fd?lk3s=43402efa&x-expires=1789542772&x-signature=CglAwMC2d01Uf5fNNcx%2BWd5Vxnc%3D",
@@ -47238,8 +47238,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "港风图案纹理花字",
       description: "港风图案纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7451442109753675070.png",
+        static_img: "/huazi/7451442109753675070.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/bb9e53e9980049a5af2e056b5c0c0731?lk3s=43402efa&x-expires=1789542772&x-signature=Y9MkQtcUalyrlTQ3zI%2FaOZVZ8Bs%3D",
@@ -47290,8 +47290,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "冰块立体字",
       description: "冰块立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405824092479196431.png",
+        static_img: "/huazi/7405824092479196431.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8f1522d02fb649e480cea07b5e31a004?lk3s=43402efa&x-expires=1789542772&x-signature=wJXb5SVk2V%2FcsDl9kyLIxgAwNUo%3D",
@@ -47343,8 +47343,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色星空花字",
       description: "蓝色星空花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405857800208928037.png",
+        static_img: "/huazi/7405857800208928037.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c8784e918e204fae99c1f2ed485a76d8?lk3s=43402efa&x-expires=1789542772&x-signature=C74mv0RJ5b%2BoouzBxUCyGHRwgZk%3D",
@@ -47396,8 +47396,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色纹理立体花字",
       description: "红色纹理立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405855842072808755.png",
+        static_img: "/huazi/7405855842072808755.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e2ec7d6a319841178286e8cc994cd878?lk3s=43402efa&x-expires=1789542772&x-signature=rz1oAZOZPquimtliJMCjYRtNlhA%3D",
@@ -47449,8 +47449,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古红轴",
       description: "复古红轴",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7483893116274117950.png",
+        static_img: "/huazi/7483893116274117950.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/de68454996bb4a9dbb5871757f3072c2?lk3s=43402efa&x-expires=1789542772&x-signature=4iLn%2BxSwHlxbngLDRPy06Hnh2iQ%3D",
@@ -47501,8 +47501,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红黄质感立体花字",
       description: "红黄质感立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7481535145284160792.png",
+        static_img: "/huazi/7481535145284160792.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/dea164e9a6ed4f1bb59c03e3afcd3c47?lk3s=43402efa&x-expires=1789542772&x-signature=ZpxTwjBU9w75eHhpUUgfCVu7kYQ%3D",
@@ -47553,8 +47553,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝紫色发光纹理花字",
       description: "蓝紫色发光纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405843250960993586.png",
+        static_img: "/huazi/7405843250960993586.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/16f9ddd4a8574622813a5f98062a984f?lk3s=43402efa&x-expires=1789542772&x-signature=DI1omCATTR0ZNFf8xmzftXCjY08%3D",
@@ -47606,8 +47606,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "牛奶花字",
       description: "牛奶花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7532883438072778008.png",
+        static_img: "/huazi/7532883438072778008.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2007748acb8e428cb5e1835bf7ff939c?lk3s=43402efa&x-expires=1789542772&x-signature=1TPO8bQ3xVk5ZDDyNzYk%2FvZcGLk%3D",
@@ -47658,8 +47658,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "木纹雕刻立体字",
       description: "木纹雕刻立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405870250916384015.png",
+        static_img: "/huazi/7405870250916384015.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/96e8a514330047a8b3ec32531e9bcd28?lk3s=43402efa&x-expires=1789542772&x-signature=R%2BiFYpdG4PUedDcbTBgovNQnuao%3D",
@@ -47711,8 +47711,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "像素化花字",
       description: "像素化花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7486311409861528894.png",
+        static_img: "/huazi/7486311409861528894.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c25304ef733f4a1f81a92c14e20418fd?lk3s=43402efa&x-expires=1789542772&x-signature=ffBaltVqe0o7Ez%2BhHD9srkCwp20%3D",
@@ -47763,8 +47763,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉笔黑板花字（教师节）",
       description: "粉笔黑板花字（教师节）",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405550386234281235.png",
+        static_img: "/huazi/7405550386234281235.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2a3771b359894b18afb7567c07411fa8?lk3s=43402efa&x-expires=1789542772&x-signature=%2FaBw1RFAEpEh9%2F5FR3sd6oJBT5k%3D",
@@ -47869,8 +47869,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "流光立体花字",
       description: "流光立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405693659536051492.png",
+        static_img: "/huazi/7405693659536051492.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4ad97b7d6a5f4ad0b701d0536c41c209?lk3s=43402efa&x-expires=1789542772&x-signature=f71h6f21nDvFwnpN64tz5TQd1eA%3D",
@@ -47975,8 +47975,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "冬日冰花",
       description: "冬日冰花",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407265065272937778.png",
+        static_img: "/huazi/7407265065272937778.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6f4606a589c0430da3d6d8a64120a909?lk3s=43402efa&x-expires=1789542772&x-signature=o%2B7c4yTeJZ0WKVI1lDOGBxYdLBY%3D",
@@ -48028,8 +48028,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色黑条纹字",
       description: "红色黑条纹字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406984542742924582.png",
+        static_img: "/huazi/7406984542742924582.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/25d0efb053db40e3976d6aa7122eddd8?lk3s=43402efa&x-expires=1789542772&x-signature=wYUg%2Fyiubcw%2FeIxZQBhsV08WiZ8%3D",
@@ -48134,8 +48134,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "荧光紫渐变字",
       description: "荧光紫渐变字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404383053906267392.png",
+        static_img: "/huazi/7404383053906267392.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5d1eebf3b845482cbe077d4691ebe26a?lk3s=43402efa&x-expires=1789542772&x-signature=iLkh8jDNQWNgXgMAgvKoUQQwJRI%3D",
@@ -48187,8 +48187,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色洒墨花字（书法古风）",
       description: "红色洒墨花字（书法古风）",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405523650423639308.png",
+        static_img: "/huazi/7405523650423639308.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/46daf0afc54b49eeb6470d97cb67babf?lk3s=43402efa&x-expires=1789542772&x-signature=cZurwj7hpwRZEH4fk5ZFZJ5MCI0%3D",
@@ -48240,8 +48240,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色渐变立体描边花字",
       description: "蓝色渐变立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405919974411242791.png",
+        static_img: "/huazi/7405919974411242791.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/06fb6ab3a37c462d9762ccd69dc17d8f?lk3s=43402efa&x-expires=1789542772&x-signature=I88uSGciy1tmqj2SP05wndysAhI%3D",
@@ -48293,8 +48293,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "圣诞-四色纹理",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7306473747953863975.png",
+        static_img: "/huazi/7306473747953863975.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/oMl4bCnZ11BANeNKl9eRTAD8gEVlC6EAAAJdDD?lk3s=43402efa&x-expires=1789542772&x-signature=0LhZWVlg58bg78MXWhWDRg1R%2Fys%3D",
@@ -48399,8 +48399,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "游戏像素化花字",
       description: "游戏像素化花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7486231125992623385.png",
+        static_img: "/huazi/7486231125992623385.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8b5067963faf480c8d5b471503394b36?lk3s=43402efa&x-expires=1789542772&x-signature=S%2BW7zYr6SOjv5gl7vVrT2BJxf2s%3D",
@@ -48451,8 +48451,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花石榴",
       description: "花石榴",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7471979945447836952.png",
+        static_img: "/huazi/7471979945447836952.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/85f7743e80fa46ed93e168411203c0f6?lk3s=43402efa&x-expires=1789542772&x-signature=HmhAFlM%2Bu%2BrGbr8vdE%2F01JOvRns%3D",
@@ -48503,8 +48503,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色纹理描边立体花字",
       description: "紫色纹理描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405866412570348836.png",
+        static_img: "/huazi/7405866412570348836.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/823ba99484db47f4a710a5c76b27e197?lk3s=43402efa&x-expires=1789542772&x-signature=8AjV7%2BeD5Wc5dZ9bdVA%2B9Qh%2BpOE%3D",
@@ -48556,8 +48556,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色毛毡绒毛立体花字",
       description: "蓝色毛毡绒毛立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404145370399329587.png",
+        static_img: "/huazi/7404145370399329587.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8ce949c91b9c4c54b839a0967448e292?lk3s=43402efa&x-expires=1789542772&x-signature=K%2FXoqjFENn7DuNnsxkZsVr7Y9QM%3D",
@@ -48662,8 +48662,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉笔蓝白色立体花字",
       description: "粉笔蓝白色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405201103903624463.png",
+        static_img: "/huazi/7405201103903624463.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/06d4b09b8da74f1093914bf17723e429?lk3s=43402efa&x-expires=1789542772&x-signature=ceIbusKQEEWM16jhc4EkDt6oeQ8%3D",
@@ -48767,8 +48767,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色棋盘格纹理立体花字",
       description: "红色棋盘格纹理立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405573811107663155.png",
+        static_img: "/huazi/7405573811107663155.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7aa3fc175df7461aaf737163119ee6ed?lk3s=43402efa&x-expires=1789542772&x-signature=J75AS%2FAD7QPXFmLcA7YLUg4%2F3Ug%3D",
@@ -48820,8 +48820,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "方块游戏花字",
       description: "方块游戏花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7477911542575516952.png",
+        static_img: "/huazi/7477911542575516952.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9cfafd0f37ff43c39b305986439b0911?lk3s=43402efa&x-expires=1789542772&x-signature=WFQeL6I%2FpqctDCvYnyw%2BNJYjeP8%3D",
@@ -48925,8 +48925,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色粉笔描边花字",
       description: "绿色粉笔描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405201692775451904.png",
+        static_img: "/huazi/7405201692775451904.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/bb1e839332d24893a6ce2cf55093e03d?lk3s=43402efa&x-expires=1789542772&x-signature=BBUaMPfOqAeaMXScULWFOOFNMHU%3D",
@@ -48978,8 +48978,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "3D蓝粉色渐变立体花字",
       description: "3D蓝粉色渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406173713428745509.png",
+        static_img: "/huazi/7406173713428745509.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8d063ac2563b41d0bf4ddd0f4192f1f1?lk3s=43402efa&x-expires=1789542772&x-signature=ay5OiwTaFrjEfLy93g1Q5G3R3KY%3D",
@@ -49031,8 +49031,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红砖纹理立体花字",
       description: "红砖纹理立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405864219809287433.png",
+        static_img: "/huazi/7405864219809287433.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8e1c86dffa6a437b9ea4865ddc6de6f5?lk3s=43402efa&x-expires=1789542772&x-signature=DOIi65zbuXXnTKyWs2cA1%2Bh0FfE%3D",
@@ -49137,8 +49137,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色花字",
       description: "红色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7481938079507418430.png",
+        static_img: "/huazi/7481938079507418430.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/31a55e695d8c4f5d8353af73996b42f2?lk3s=43402efa&x-expires=1789542772&x-signature=szJTiGyPhPFvfz8r3XLZFjHUI5w%3D",
@@ -49189,8 +49189,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "光影立体花字",
       description: "光影立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405856104946748723.png",
+        static_img: "/huazi/7405856104946748723.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/dc4340f057b74a1b87e10940cc831e1d?lk3s=43402efa&x-expires=1789542772&x-signature=vRXJFISL7b5ERXnH26h3Qi75Ycw%3D",
@@ -49242,8 +49242,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "镭射荧光酸性纹理花字",
       description: "镭射荧光酸性纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404891005968747802.png",
+        static_img: "/huazi/7404891005968747802.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9ab8289e966048268d85289e21bd3b63?lk3s=43402efa&x-expires=1789542772&x-signature=48jC8gmD6d1gM255SVPTg2qBSA8%3D",
@@ -49295,8 +49295,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "潮酷镭射立体文字",
       description: "潮酷镭射立体文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405104737386892584.png",
+        static_img: "/huazi/7405104737386892584.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3fc5acd5d4bb4603b96c2b169afbfb43?lk3s=43402efa&x-expires=1789542772&x-signature=63V9GQfpV7mvR1CrtcQiUxYYkVs%3D",
@@ -49400,8 +49400,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7482727212375035160.png",
+        static_img: "/huazi/7482727212375035160.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7ca6b096d76f492a833445d067b14bef?lk3s=43402efa&x-expires=1789542772&x-signature=d%2Fzbbzx98eueFlgkDfRyc6C6Vec%3D",
@@ -49452,8 +49452,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "芭比闪粉星光花字",
       description: "芭比闪粉星光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405130183306415397.png",
+        static_img: "/huazi/7405130183306415397.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a2fa7a6114b44d858291d284f00b168c?lk3s=43402efa&x-expires=1789542772&x-signature=K1oWtJS8gDY%2BoD%2Fa7he5R9ZX6pI%3D",
@@ -49505,8 +49505,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄绿格纹立体花字",
       description: "黄绿格纹立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405647754199895305.png",
+        static_img: "/huazi/7405647754199895305.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6358003867954a1583599ff6e9fd4bf8?lk3s=43402efa&x-expires=1789542772&x-signature=fKcEzHV6R0GesbBVBaPA5vm5hmE%3D",
@@ -49611,8 +49611,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉蓝格纹立体花字",
       description: "粉蓝格纹立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405919944526892315.png",
+        static_img: "/huazi/7405919944526892315.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/11ea0833baee4dafb3327a10a5f7e3ee?lk3s=43402efa&x-expires=1789542772&x-signature=aaIwDJsNTbRecjR9sIPOoKiOWfI%3D",
@@ -49664,8 +49664,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "双色纹理立体字",
       description: "双色纹理立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405860859177717032.png",
+        static_img: "/huazi/7405860859177717032.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0dc7f3dbab694b02aca80e4abecd11f3?lk3s=43402efa&x-expires=1789542772&x-signature=SS9Zlf7K0fwjRJngavvzdJ7jv8g%3D",
@@ -49717,8 +49717,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色波点纹理花字",
       description: "绿色波点纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405844279479913766.png",
+        static_img: "/huazi/7405844279479913766.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d50e4b8ee47c44c38602d352d11b2e78?lk3s=43402efa&x-expires=1789542772&x-signature=IVRRkgW9UFirIJew1neWgsc4mj0%3D",
@@ -49770,8 +49770,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色纹理多层阴影花字",
       description: "粉色纹理多层阴影花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405245402917735691.png",
+        static_img: "/huazi/7405245402917735691.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/55b0da4a06c54fd9914384c23ca4104f?lk3s=43402efa&x-expires=1789542772&x-signature=uE6bJQm5O6F01bLrubaNCqETmQg%3D",
@@ -49875,8 +49875,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉黄纹理立体花字",
       description: "粉黄纹理立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405645973613022515.png",
+        static_img: "/huazi/7405645973613022515.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2453cfcd8b81445a8d28b4f43b92dd5b?lk3s=43402efa&x-expires=1789542772&x-signature=Z0rn60sO1mOf9eapoqLohtQugGM%3D",
@@ -49928,8 +49928,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色格纹立体字",
       description: "粉色格纹立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406387389809069321.png",
+        static_img: "/huazi/7406387389809069321.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0f8c474758134cdab2a45feeb1bf1550?lk3s=43402efa&x-expires=1789542772&x-signature=9Ii%2BPKZTuAu2OM7bp3F%2FNQvB44k%3D",
@@ -49981,8 +49981,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色纹理描边发光花字",
       description: "黄色纹理描边发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404875825729850659.png",
+        static_img: "/huazi/7404875825729850659.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6262e9ecd2cf42fb8842ea21181f87ca?lk3s=43402efa&x-expires=1789542772&x-signature=WXdWKOdhyFU3BCCbqVrwrasL4kw%3D",
@@ -50034,8 +50034,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "毛笔质感",
       description: "毛笔质感",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7410762405778705715.png",
+        static_img: "/huazi/7410762405778705715.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ed603641ebf64c34a59655679a206960?lk3s=43402efa&x-expires=1789542772&x-signature=YPbi85p2TrRkeDz05jela5HO5%2B4%3D",
@@ -50140,8 +50140,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "春节火焰",
       description: "春节火焰",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7457575657376238910.png",
+        static_img: "/huazi/7457575657376238910.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/335799825151439ab4c5bc8b57da7d59?lk3s=43402efa&x-expires=1789542775&x-signature=hy%2FGCinrXotCZNkbNm4Jug7JZyA%3D",
@@ -50245,8 +50245,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色渐变裂痕综艺花字",
       description: "红色渐变裂痕综艺花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404314496833015077.png",
+        static_img: "/huazi/7404314496833015077.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ca134da0dbb24d44a04c0be628930444?lk3s=43402efa&x-expires=1789542775&x-signature=nKKJLjRUU2ECJvMmVJIfEUX9kNI%3D",
@@ -50351,8 +50351,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白色纹理红色字",
       description: "白色纹理红色字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405812611427749158.png",
+        static_img: "/huazi/7405812611427749158.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/997ae89074704c1096442b77355fe593?lk3s=43402efa&x-expires=1789542775&x-signature=R6KJ0%2BW%2BUvgw99lEvbFhdWbhAbY%3D",
@@ -50563,8 +50563,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "万圣-血滴字",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7294156228794535207.png",
+        static_img: "/huazi/7294156228794535207.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/oYxeRAfnREzLVMACnEAgNXhzy6ArG11ANA6QEC?lk3s=43402efa&x-expires=1789542775&x-signature=NU7NCkQn8fdbi3pXyfTHIO8WtoQ%3D",
@@ -50618,8 +50618,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "开工立体",
       description: "开工立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7462945508533931288.png",
+        static_img: "/huazi/7462945508533931288.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/afb7f42fa5914d69a5d2144fc9132360?lk3s=43402efa&x-expires=1789542775&x-signature=QjDAxLrE7TNzzacF%2Fu2ElTz52fE%3D",
@@ -50670,8 +50670,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色白色描边花字",
       description: "红色白色描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404769759432084748.png",
+        static_img: "/huazi/7404769759432084748.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e89da6c9007941a0b1a51ac8d8bfff25?lk3s=43402efa&x-expires=1789542775&x-signature=NfeIQUnJBpt3%2Fyi4gfDr1%2BEdmV0%3D",
@@ -50723,8 +50723,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红纹理立体白描边花字",
       description: "红纹理立体白描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403672172897553715.png",
+        static_img: "/huazi/7403672172897553715.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3e9a1972fe2b428d9532713c77a2ac1c?lk3s=43402efa&x-expires=1789542775&x-signature=nJHeUINIwAoPqZautIkFVmJcKJ8%3D",
@@ -50776,8 +50776,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "多层红色渐变描边黑色花字",
       description: "多层红色渐变描边黑色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7329003799433973027.png",
+        static_img: "/huazi/7329003799433973027.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c752e82a751f49e38231e739029a5c65?lk3s=43402efa&x-expires=1789542775&x-signature=ha3yt%2BcWMlW6MnLOfiUh52ZA2EA%3D",
@@ -50829,8 +50829,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "万圣-红木板字",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7294182924587502889.png",
+        static_img: "/huazi/7294182924587502889.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/o0AGzhgiEqyA0OeIAC6AiDfAQnYvMAtRL2CGhA?lk3s=43402efa&x-expires=1789542775&x-signature=c4WUj%2FdC6lO9w8lIpoHNwMd3pm0%3D",
@@ -50884,8 +50884,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "像素化花字",
       description: "像素化花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7489037914584681790.png",
+        static_img: "/huazi/7489037914584681790.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4c26abae7519481789561a531448b1b3?lk3s=43402efa&x-expires=1789542775&x-signature=jWOI7R0fVHQHknK4iQikhprdp3s%3D",
@@ -51042,8 +51042,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白字带红划白黑描边",
       description: "白字带红划白黑描边",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406678794901130534.png",
+        static_img: "/huazi/7406678794901130534.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5573d367f37540e79f70b1a54cd164ca?lk3s=43402efa&x-expires=1789542775&x-signature=%2FCPdXPs60vE7ERQOecY2Sh7%2BVaE%3D",
@@ -51095,8 +51095,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金箔字喜庆圆底花字",
       description: "金箔字喜庆圆底花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407014800204549413.png",
+        static_img: "/huazi/7407014800204549413.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4f8455798f31467f9955b9c8fdc9879f?lk3s=43402efa&x-expires=1789542775&x-signature=oD1%2BlDY3O94gbDI5LIjy2paDC4A%3D",
@@ -51378,8 +51378,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色复古文字",
       description: "红色复古文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404416840476265780.png",
+        static_img: "/huazi/7404416840476265780.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/1e9518f83bfa4356ace097125cedcb3c?lk3s=43402efa&x-expires=1789542775&x-signature=AETUSx9K95Ffi%2F869ZwjPzKeQWo%3D",
@@ -51537,8 +51537,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "25元旦-福圈背景花字",
       description: "25元旦-福圈背景花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7447922811793853732.png",
+        static_img: "/huazi/7447922811793853732.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7a6d208f374345d5be7484e426aab6c5?lk3s=43402efa&x-expires=1789542775&x-signature=X7VrpBwJp2Mr3YPFTqMXcAdLtDk%3D",
@@ -51748,8 +51748,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古红蓝",
       description: "复古红蓝",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7460441811627035929.png",
+        static_img: "/huazi/7460441811627035929.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f5aae0cd1f5644edb47163a3c5f43934?lk3s=43402efa&x-expires=1789542775&x-signature=znWb2ozbLKofKTS26iCO%2FCC6Dc4%3D",
@@ -51853,8 +51853,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "暗黑橙色渐变描边花字",
       description: "暗黑橙色渐变描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405143396869770534.png",
+        static_img: "/huazi/7405143396869770534.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2c0f6eaf4f4043a4a6da84ba39c70a8a?lk3s=43402efa&x-expires=1789542775&x-signature=KwbLkauDO6jw39Pnxz7IgbO7y9w%3D",
@@ -51906,8 +51906,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄红新年花字",
       description: "黄红新年花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7462291141325688088.png",
+        static_img: "/huazi/7462291141325688088.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9eef0823a5e9434bb12d2985aae935a2?lk3s=43402efa&x-expires=1789542775&x-signature=RSGoS%2BrnLsfSNW2ViMU3XigwNp8%3D",
@@ -52011,8 +52011,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色立体",
       description: "红色立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7457924478878928152.png",
+        static_img: "/huazi/7457924478878928152.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/fc9bde66df0a45f29321e0fec18a5140?lk3s=43402efa&x-expires=1789542775&x-signature=2tC8wejkbUpFdozxQh5MENGpwXI%3D",
@@ -52169,8 +52169,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金色描边红色纹理花字",
       description: "金色描边红色纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404681840377875766.png",
+        static_img: "/huazi/7404681840377875766.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/fdbf9e69edfd4f138f18c369b6746fd6?lk3s=43402efa&x-expires=1789542775&x-signature=mYEmy0R8egU087OiylPGt8McSbk%3D",
@@ -52598,8 +52598,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "星星立体花字",
       description: "星星立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7494900604641365310.png",
+        static_img: "/huazi/7494900604641365310.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/121778cf228b4cf1837d0e2946ce9280?lk3s=43402efa&x-expires=1789542775&x-signature=cm5wOYB48gMgBUQ2iDPFthlKYgI%3D",
@@ -52761,8 +52761,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红白立体花字",
       description: "红白立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405737574372756772.png",
+        static_img: "/huazi/7405737574372756772.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5ba8fb8b66d14c369f651de61fa07681?lk3s=43402efa&x-expires=1789542775&x-signature=kNULigY1jt%2F2%2BzKmdJqJTK6RAjw%3D",
@@ -53028,8 +53028,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色蓝白边花字",
       description: "红色蓝白边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7335713356629822730.png",
+        static_img: "/huazi/7335713356629822730.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/fb8f8889832949268cbec553c929200b?lk3s=43402efa&x-expires=1789542775&x-signature=%2FiEG5efkLESaRtmHf1DZUMz8QSE%3D",
@@ -53081,8 +53081,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色渐变裂痕花字",
       description: "红色渐变裂痕花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404769483220405531.png",
+        static_img: "/huazi/7404769483220405531.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5611672d6bc844ff81df94ac95ce5abb?lk3s=43402efa&x-expires=1789542775&x-signature=qKgcfLFqW3BEWdkjX0ouabV5sJo%3D",
@@ -53187,8 +53187,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色 花字",
       description: "红色 花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7390391149338348800.png",
+        static_img: "/huazi/7390391149338348800.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/fae7eb3090f24772aa0e14c98d6145f2?lk3s=43402efa&x-expires=1789542775&x-signature=3FI49%2F4pnTqQNaR4gjORDaHG4T0%3D",
@@ -53240,8 +53240,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "3D红色渐变星光立体花字",
       description: "3D红色渐变星光立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406174570966781221.png",
+        static_img: "/huazi/7406174570966781221.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f8d1a0aff40941a29de74e2d343c2125?lk3s=43402efa&x-expires=1789542775&x-signature=oPDz96GVYn8gLpGXC0WvLjYytgk%3D",
@@ -53399,8 +53399,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红黄渐变纹理立体花字",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7313169456081947931.png",
+        static_img: "/huazi/7313169456081947931.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/ocKfHyPdAAZEEBT4QTA26BFlAb8UfaboeABn1D?lk3s=43402efa&x-expires=1789542775&x-signature=KRt1kprlo13gBx%2BaiSfyVzTfTak%3D",
@@ -53507,8 +53507,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色渐变立体波点底纹花字",
       description: "红色渐变立体波点底纹花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404035148204739867.png",
+        static_img: "/huazi/7404035148204739867.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/70ebb2a904cd41848d7260146eb10933?lk3s=43402efa&x-expires=1789542775&x-signature=TQSWcvpGff7QvzPGDwGPOvbBHFU%3D",
@@ -53772,8 +53772,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色立体花字",
       description: "红色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7493087421102411033.png",
+        static_img: "/huazi/7493087421102411033.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/06f39ee460d141e99e08ca28fd561ce6?lk3s=43402efa&x-expires=1789542775&x-signature=eB4CeCZCIvC5UN%2BldSQXdFehYEI%3D",
@@ -53985,8 +53985,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红字双层描边纸张纹理花字",
       description: "红字双层描边纸张纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405025997860490506.png",
+        static_img: "/huazi/7405025997860490506.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a4f71693cdd14746967a55fd63b9c4ab?lk3s=43402efa&x-expires=1789542775&x-signature=x2neviWfA5OBaYzgiu%2FJJEzeqW4%3D",
@@ -54202,8 +54202,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红黄立体字",
       description: "红黄立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7410765061796416768.png",
+        static_img: "/huazi/7410765061796416768.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e3c5c91801074c17a7ea819c17fe51f1?lk3s=43402efa&x-expires=1789542775&x-signature=HN4bbU6I2%2FnxGmqmwLSiwWdA%2FSQ%3D",
@@ -54308,8 +54308,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色填充白色描边",
       description: "红色填充白色描边",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430448068283206950.png",
+        static_img: "/huazi/7430448068283206950.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/66da7ecd37fb4854a7443ab707512d85?lk3s=43402efa&x-expires=1789542775&x-signature=ezuWtNgpL%2FLPLWr%2FkO25MHl%2FTpA%3D",
@@ -54361,8 +54361,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉金新年花字",
       description: "粉金新年花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7459730150943395134.png",
+        static_img: "/huazi/7459730150943395134.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/46f4f4c98d4c4e6da7e1b1e336cb21d3?lk3s=43402efa&x-expires=1789542775&x-signature=833fkUHJ%2F29i8pZ7Jc6uG7yR8TE%3D",
@@ -54627,8 +54627,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "元旦红色立体花字",
       description: "元旦红色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404796157727083814.png",
+        static_img: "/huazi/7404796157727083814.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/48f8a5b7f5a7402eaa2ac9116fa3e758?lk3s=43402efa&x-expires=1789542775&x-signature=wCQB1C9DrSu5spPjHoS%2F6ybRn68%3D",
@@ -54680,8 +54680,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "橙色描边立体综艺花字",
       description: "橙色描边立体综艺花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405243169991855423.png",
+        static_img: "/huazi/7405243169991855423.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/56889f1b51134e418698dc97a4124df0?lk3s=43402efa&x-expires=1789542775&x-signature=7k2GU9fKU8Op6aLMyehmVt7XMgU%3D",
@@ -54839,8 +54839,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "渐变黑荧光绿花字",
       description: "渐变黑荧光绿花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405947349379452211.png",
+        static_img: "/huazi/7405947349379452211.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/cf858fb124e84f119b3071e6c2ff5bcb?lk3s=43402efa&x-expires=1789542775&x-signature=4NvlTzBgTgKI%2B3%2BS%2FGQnxw94bAM%3D",
@@ -55108,8 +55108,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "圣诞-雪花红色字",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7312419048623541545.png",
+        static_img: "/huazi/7312419048623541545.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/osI1AABAb59eFHnKIeDSbavPSMd4gDAAEDvkEe?lk3s=43402efa&x-expires=1789542775&x-signature=m7R74cqs%2FiAV0yg2PYy4RshZouA%3D",
@@ -55163,8 +55163,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古红绿撞色立体字",
       description: "复古红绿撞色立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406644388358540544.png",
+        static_img: "/huazi/7406644388358540544.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ce791da8c769471d990c037f680e38d2?lk3s=43402efa&x-expires=1789542775&x-signature=9VjZTzJPQXumfSXFTFjVStLXeQc%3D",
@@ -55640,8 +55640,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色渐变立体发光花字",
       description: "红色渐变立体发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7328403746214464819.png",
+        static_img: "/huazi/7328403746214464819.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7d440d44541b465582748ae912d6100b?lk3s=43402efa&x-expires=1789542775&x-signature=NquYJ6OuIh1zTvJM7nljLGlh3wE%3D",
@@ -55963,8 +55963,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "火焰燃烧花字",
       description: "火焰燃烧花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7402109946025790747.png",
+        static_img: "/huazi/7402109946025790747.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/oU1orPU6vs5Ai5CAIEQAZvODj8AAI5TBildgm?lk3s=43402efa&x-expires=1789542778&x-signature=SzAJY%2FyxSsWdCkUpBfbeG0HaIZo%3D",
@@ -56185,8 +56185,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金色纹理花字",
       description: "金色纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7465587976928660760.png",
+        static_img: "/huazi/7465587976928660760.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/76a548f99c6143a9a1081be643f629e8?lk3s=43402efa&x-expires=1789542778&x-signature=TQtELaU2zOr1TYa6VJVYqWDDxQw%3D",
@@ -56452,8 +56452,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "渐变星星花字",
       description: "渐变星星花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7460434187036691737.png",
+        static_img: "/huazi/7460434187036691737.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ad24b2de200f460c9448b79bb39f3c97?lk3s=43402efa&x-expires=1789542778&x-signature=tcxmeWQfnZly2S%2Bs8vuVJBQVjXo%3D",
@@ -56938,8 +56938,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄字黑边红底花字",
       description: "黄字黑边红底花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431549056674991375.png",
+        static_img: "/huazi/7431549056674991375.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4de98081c6ec4e6e920fee4f56aea1e7?lk3s=43402efa&x-expires=1789542778&x-signature=ZXbdxnyKRa15vGpO9kFjUS%2F5c9A%3D",
@@ -57103,8 +57103,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "中秋灯笼星星花字",
       description: "中秋灯笼星星花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406743750933810471.png",
+        static_img: "/huazi/7406743750933810471.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8efd968ce12a484581b1416ed51bf920?lk3s=43402efa&x-expires=1789542778&x-signature=nNcXDNnlajrkBiL2afxy4WiOD%2F0%3D",
@@ -57209,8 +57209,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄绸缎",
       description: "黄绸缎",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7495311379738397976.png",
+        static_img: "/huazi/7495311379738397976.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0c451d19a456410999cf9e514ebf7758?lk3s=43402efa&x-expires=1789542778&x-signature=Di5UugrhQJT1Y2awgLwkLaE7kW4%3D",
@@ -57261,8 +57261,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "浪漫中秋渐变 ",
       description: "浪漫中秋渐变 ",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407412458370944294.png",
+        static_img: "/huazi/7407412458370944294.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2026479bbd824a1589b36aff4a02b9b2?lk3s=43402efa&x-expires=1789542778&x-signature=xGbsVMiPHxFt7QPfrIwtEA242WA%3D",
@@ -57314,8 +57314,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色花字",
       description: "黄色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7448948322427047230.png",
+        static_img: "/huazi/7448948322427047230.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c4a3ce933766410bb586dd1f443bf2f6?lk3s=43402efa&x-expires=1789542778&x-signature=ZOacsO2Nl3sAAK3PltlgqwH4gvU%3D",
@@ -57743,8 +57743,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "纹理花字",
       description: "纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7399157478648253732.png",
+        static_img: "/huazi/7399157478648253732.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/ochqxiAwUvqZPQABCA9JvrHxGYiAAB0Ij18DE?lk3s=43402efa&x-expires=1789542778&x-signature=PWTYzeMor3CehLDaAjsFK9%2BLBrQ%3D",
@@ -57849,8 +57849,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "格纹复古立体花字",
       description: "格纹复古立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405945244237303091.png",
+        static_img: "/huazi/7405945244237303091.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0669123116284140a2153b7d53521ea0?lk3s=43402efa&x-expires=1789542778&x-signature=vB4hDtrUsczn4Z3T7Gm2j4Z1W4Q%3D",
@@ -57902,8 +57902,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉黄撞色星星装饰花字",
       description: "粉黄撞色星星装饰花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406205299100536074.png",
+        static_img: "/huazi/7406205299100536074.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2365e38ec1dc48a0b52773098de79f09?lk3s=43402efa&x-expires=1789542778&x-signature=pcNJ8v035HjWZQA5JlwQs%2FalByI%3D",
@@ -58114,8 +58114,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色渐变波点纹理花字",
       description: "黄色渐变波点纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405224102115527936.png",
+        static_img: "/huazi/7405224102115527936.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/13c78ad88b064bf283c11a67013d6c11?lk3s=43402efa&x-expires=1789542778&x-signature=pwNtDwjJozzuq2vz8uI5nKi63V0%3D",
@@ -58279,8 +58279,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "综艺字星星",
       description: "综艺字星星",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7409320679838846234.png",
+        static_img: "/huazi/7409320679838846234.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f501c606bff0451e80e25237865fbaa7?lk3s=43402efa&x-expires=1789542778&x-signature=CCujehnCxLFQof03joen4jStMlg%3D",
@@ -58332,8 +58332,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色立体质感花字",
       description: "黄色立体质感花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7480466283088235801.png",
+        static_img: "/huazi/7480466283088235801.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/61030d4058ca45b8a662c98a956be117?lk3s=43402efa&x-expires=1789542778&x-signature=DdkZMxA2P4d36BPZCk%2BmbcrWgSA%3D",
@@ -58653,8 +58653,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色立体描边花字",
       description: "黄色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405023729782164747.png",
+        static_img: "/huazi/7405023729782164747.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ef0bad1e445a47a595c2004c3ad75cfb?lk3s=43402efa&x-expires=1789542778&x-signature=xhH7XWAwaK7fvbeJyYeWZMCLTq8%3D",
@@ -58759,8 +58759,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "可爱风立体描边",
       description: "可爱风立体描边",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7434103306181528882.png",
+        static_img: "/huazi/7434103306181528882.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/1fdff2363d7b4f00bb89fbee8f961728?lk3s=43402efa&x-expires=1789542778&x-signature=PBJ%2BTTGiLHFA9XgUrt9qOQG1fPU%3D",
@@ -58865,8 +58865,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "金花字",
       description: "金花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406269205164592396.png",
+        static_img: "/huazi/7406269205164592396.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6404bf25d6654dc4808e959f8fb749cb?lk3s=43402efa&x-expires=1789542778&x-signature=Vgo71CHSlIzsy6YYcnXmjMgD2tg%3D",
@@ -59024,8 +59024,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白色立体字",
       description: "白色立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7389657424883387699.png",
+        static_img: "/huazi/7389657424883387699.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b37a341016f94635b1b0dbd2c4938ae2?lk3s=43402efa&x-expires=1789542778&x-signature=bi9zVKa6qgivBTLImgvfj87%2FWj4%3D",
@@ -59183,8 +59183,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色立体描边花字",
       description: "黄色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405239905443482919.png",
+        static_img: "/huazi/7405239905443482919.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9a9158244b87498a9e7a617b8f493104?lk3s=43402efa&x-expires=1789542778&x-signature=n12dNPBTn%2FRWg%2FsaRoJ%2FU3DmE8E%3D",
@@ -59454,8 +59454,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色镂空描边花字",
       description: "黄色镂空描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406349356347002138.png",
+        static_img: "/huazi/7406349356347002138.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/09e0288233a04388b0a90d3d90a3e101?lk3s=43402efa&x-expires=1789542778&x-signature=taOsEhARLBfA3A4XgwjEaVwYa0Y%3D",
@@ -59772,8 +59772,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄底纸张撕边字",
       description: "黄底纸张撕边字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404023782316313890.png",
+        static_img: "/huazi/7404023782316313890.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c2e7c844130c4ce89f3650241379a4e1?lk3s=43402efa&x-expires=1789542778&x-signature=bADUPn15rIeY3q1NMmmRlgZK4KI%3D",
@@ -59825,8 +59825,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色波点描边立体花字",
       description: "黄色波点描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404881915871825186.png",
+        static_img: "/huazi/7404881915871825186.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5b9d3ab174f14405ab8e2a177ee123ac?lk3s=43402efa&x-expires=1789542778&x-signature=7Au7EcoOYW2xndJRp%2FR%2Bb0tmfrw%3D",
@@ -59931,8 +59931,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄色",
       description: "黄色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405879107424111910.png",
+        static_img: "/huazi/7405879107424111910.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/4a69335789d54b9d9330a01a9f3fc4ec?lk3s=43402efa&x-expires=1789542778&x-signature=DxuPjZu3TqRewbD%2Bhr5xTN3p5Gs%3D",
@@ -62049,8 +62049,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古花字",
       description: "复古花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7435890198455536923.png",
+        static_img: "/huazi/7435890198455536923.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9f01315971d7437497e37e7b285cf538?lk3s=43402efa&x-expires=1789542780&x-signature=lxBzQjnLO%2FsFFwjKaInJdxeO6R0%3D",
@@ -65135,8 +65135,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝白色立体花字",
       description: "蓝白色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431507293306506533.png",
+        static_img: "/huazi/7431507293306506533.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/82a5add5f60248408bb45a656afa4820?lk3s=43402efa&x-expires=1789542783&x-signature=MMw7VcNue%2FK%2BQenjHQnA2M%2BnelQ%3D",
@@ -65187,8 +65187,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "3D蓝色渐变立体花字",
       description: "3D蓝色渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405874090348711218.png",
+        static_img: "/huazi/7405874090348711218.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/bba95db25c5f4a5bbab656cfe5609e3e?lk3s=43402efa&x-expires=1789542783&x-signature=XaAyeKXToKV5KCoh8wNeCeBudfs%3D",
@@ -65299,8 +65299,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7478297038023871769.png",
+        static_img: "/huazi/7478297038023871769.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/41f39c64214543c2b36b0f094e84c222?lk3s=43402efa&x-expires=1789542783&x-signature=mhLHZVSfElSUnmwaeguv4pvJcRs%3D",
@@ -65404,8 +65404,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色渐变星星花字",
       description: "蓝色渐变星星花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404757920535055679.png",
+        static_img: "/huazi/7404757920535055679.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/afbde8f51c6f45b78b6f4487cd1d5adc?lk3s=43402efa&x-expires=1789542783&x-signature=4s7uPL%2B%2Bq7iwMTtr9OVo9QJUIiQ%3D",
@@ -65510,8 +65510,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色立体字",
       description: "蓝色立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404828637326757172.png",
+        static_img: "/huazi/7404828637326757172.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2b0b8aec02d94466bfdf0fd5bfcf2d5c?lk3s=43402efa&x-expires=1789542783&x-signature=%2B9hauvsuAfRmY%2BH%2Fp5dcmpD3OTs%3D",
@@ -65775,8 +65775,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色描边字",
       description: "蓝色描边字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403983551021993243.png",
+        static_img: "/huazi/7403983551021993243.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f223fca0ef5a4bb8acdf43f1535c8a12?lk3s=43402efa&x-expires=1789542783&x-signature=0Thmn6bxnBQcUH%2FbMmnY2WlmtPg%3D",
@@ -65828,8 +65828,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "伪三维多层描边花字",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7315430777976655139.png",
+        static_img: "/huazi/7315430777976655139.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/oIChDEUAzkWfcCzdghN6CgAARfWYAlA8HCiNVF?lk3s=43402efa&x-expires=1789542783&x-signature=1asN12tJzDx8ZnMhIW%2F2xVo5cKM%3D",
@@ -66198,8 +66198,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "双层描边白蓝双色花字",
       description: "双层描边白蓝双色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404710098255269139.png",
+        static_img: "/huazi/7404710098255269139.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/58b4fc297ade41c1873fbf78bc449516?lk3s=43402efa&x-expires=1789542783&x-signature=%2Bpf4AS%2FxbXkTvdRBE%2BhY4H%2B8C5A%3D",
@@ -66622,8 +66622,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "知识-花字2",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7317913619340070207.png",
+        static_img: "/huazi/7317913619340070207.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/o8U8abodagjNneAAATODCkCDDAjeIcEdlaaAAE?lk3s=43402efa&x-expires=1789542783&x-signature=sujy8zFfSXKxL1qE5k4PQ8jW3KM%3D",
@@ -66834,8 +66834,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色投影字",
       description: "蓝色投影字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404004705740786996.png",
+        static_img: "/huazi/7404004705740786996.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6796f5e7abe044989dd01debcf4dd803?lk3s=43402efa&x-expires=1789542783&x-signature=pWyN34oGG8tompDLcHhFsi9%2F%2FKw%3D",
@@ -66995,8 +66995,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝黑渐变综艺描边立体花字",
       description: "蓝黑渐变综艺描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404089887411965199.png",
+        static_img: "/huazi/7404089887411965199.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5e703fd236d649cba9a16b27b10ed1b6?lk3s=43402efa&x-expires=1789542783&x-signature=LYRaJ0EbFh%2BqeM3Ks1FpH9%2Fkfpg%3D",
@@ -67048,8 +67048,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝黑双描边冰块冰雪万花筒花字",
       description: "蓝黑双描边冰块冰雪万花筒花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404876048438938895.png",
+        static_img: "/huazi/7404876048438938895.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a6143d5c277f4a1fb965fc035d1b48ed?lk3s=43402efa&x-expires=1789542783&x-signature=VAYVQ%2BIb7KPfALABRG5PxdSI7F4%3D",
@@ -67578,8 +67578,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色双层描边",
       description: "蓝色双层描边",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406384565951941914.png",
+        static_img: "/huazi/7406384565951941914.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ee3c545e38f1434abc0be27a0b83b2d0?lk3s=43402efa&x-expires=1789542783&x-signature=cBLfGB%2BwF1Vu1VdihcdUTlHik7Y%3D",
@@ -68000,8 +68000,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "简约描边纸纹理蓝色花字",
       description: "简约描边纸纹理蓝色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7460439436510301464.png",
+        static_img: "/huazi/7460439436510301464.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5da4ac65ef044b72bd0752378484f13f?lk3s=43402efa&x-expires=1789542783&x-signature=E7bBlt1ZcKAFd2tSei5C%2FMKdn5I%3D",
@@ -68105,8 +68105,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白色纸张质感立体花字",
       description: "白色纸张质感立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430995853440994570.png",
+        static_img: "/huazi/7430995853440994570.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/97a97ec4c09549c38c477bf3a40fb986?lk3s=43402efa&x-expires=1789542783&x-signature=3sM1jgYgVPCQGEa0AaN%2FbCSygW4%3D",
@@ -68158,8 +68158,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝白描边",
       description: "蓝白描边",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7434900706798161203.png",
+        static_img: "/huazi/7434900706798161203.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/fecc952f9710427daba200d4a6a6feb9?lk3s=43402efa&x-expires=1789542783&x-signature=%2FyEncQld2erfqvabf4COiSBr9Xg%3D",
@@ -68317,8 +68317,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白蓝纹理字",
       description: "白蓝纹理字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7431505103326137615.png",
+        static_img: "/huazi/7431505103326137615.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0e96075a938148b7b261202b06ce57c9?lk3s=43402efa&x-expires=1789542783&x-signature=%2FXgryrmYRqyoc%2Fo1Ru93xdKjZ24%3D",
@@ -68423,8 +68423,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "浅蓝内阴影白色描边字",
       description: "浅蓝内阴影白色描边字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405953919085595930.png",
+        static_img: "/huazi/7405953919085595930.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/eb98800c66e842a7be66af65da2c9a3a?lk3s=43402efa&x-expires=1789542783&x-signature=zDdHSQ9ggkHxl4OecAtQuX3qDHY%3D",
@@ -68582,8 +68582,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝黄综艺花字",
       description: "蓝黄综艺花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7471593256606895385.png",
+        static_img: "/huazi/7471593256606895385.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/41f0b289698f41ad9d02c8a30a3354ed?lk3s=43402efa&x-expires=1789542783&x-signature=KpXN3MkZrVIvTRugDAwwX0I8nlM%3D",
@@ -68634,8 +68634,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7526161513816739097.png",
+        static_img: "/huazi/7526161513816739097.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/724a48e6b366469b87eeee45a1109eff?lk3s=43402efa&x-expires=1789542783&x-signature=k9xKUWwNQvQbX78P3jvgQZMv%2Fwk%3D",
@@ -68739,8 +68739,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "冰冰凉",
       description: "冰冰凉",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7497604377235049790.png",
+        static_img: "/huazi/7497604377235049790.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/293da890d1c44ffcbfd6fea9a2e9549d?lk3s=43402efa&x-expires=1789542783&x-signature=kSYJJ%2FRX8lbKeU0c%2FZI2lit5J%2BE%3D",
@@ -68948,8 +68948,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝白色冬季冰雪花字",
       description: "蓝白色冬季冰雪花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404526221230443785.png",
+        static_img: "/huazi/7404526221230443785.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2d221ea596e54cf6a3a91cf3ec3800d0?lk3s=43402efa&x-expires=1789542783&x-signature=KJk9Oo1NT3XoJIpFbP03aXM4r9I%3D",
@@ -69001,8 +69001,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "游戏立体字",
       description: "游戏立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405801528612769060.png",
+        static_img: "/huazi/7405801528612769060.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3637c7a52e0d49578337daa4956ebf3e?lk3s=43402efa&x-expires=1789542783&x-signature=6YEwjgFVqKyduzAOSY9kyrOkjQs%3D",
@@ -69107,8 +69107,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白色纸张质感立体花字",
       description: "白色纸张质感立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430824690727275802.png",
+        static_img: "/huazi/7430824690727275802.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6fba072bdd2b4ead864f75e4d9daf28a?lk3s=43402efa&x-expires=1789542783&x-signature=XLTOim4zFi2zBdnSGSoLPYwNF7c%3D",
@@ -69160,8 +69160,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白色石材质感立体蓝阴影花字",
       description: "白色石材质感立体蓝阴影花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404076575030922505.png",
+        static_img: "/huazi/7404076575030922505.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9c8ff4dea22e4302a690c9236ec2fcd2?lk3s=43402efa&x-expires=1789542783&x-signature=r8rcRIz6ofiS%2FvH%2BKKSR01A1YjA%3D",
@@ -69319,8 +69319,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白色花字",
       description: "白色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7510996426575449368.png",
+        static_img: "/huazi/7510996426575449368.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f48196c470704b1bb9ca0c4cd6f9f2ca?lk3s=43402efa&x-expires=1789542783&x-signature=gY5MJMLZNkP7OxGXI70ouNZkBuM%3D",
@@ -69582,8 +69582,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝色渐变波点纹理花字",
       description: "蓝色渐变波点纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405224199884737827.png",
+        static_img: "/huazi/7405224199884737827.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/878fc986c4e04fc1bbe15207b181aaa5?lk3s=43402efa&x-expires=1789542783&x-signature=Law7DSt7iV8K2SiDMdni5%2FhsjnA%3D",
@@ -69635,8 +69635,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "像素风游戏风纹理花字蓝色伪三维",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7314956298682928384.png",
+        static_img: "/huazi/7314956298682928384.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/o0ge7wACwfYTCCNAIyKUGKgADhE8NACzAEAahP?lk3s=43402efa&x-expires=1789542783&x-signature=uLHz85pENZbTLIg%2Fg0D%2B88uO9f4%3D",
@@ -69688,8 +69688,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "浅蓝色纹理立体花字",
       description: "浅蓝色纹理立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404762475582786852.png",
+        static_img: "/huazi/7404762475582786852.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/91701bcbfa9445d5bb46e3be326a964c?lk3s=43402efa&x-expires=1789542783&x-signature=WMeSNNJyzqgLEmeZnCBKM4JCNgo%3D",
@@ -69794,8 +69794,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古蓝色字",
       description: "复古蓝色字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430797889141509416.png",
+        static_img: "/huazi/7430797889141509416.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d3b8aa2b91954639905e61ac78fb5979?lk3s=43402efa&x-expires=1789542783&x-signature=96%2BceE7dt0gztnIKs2Arxq0Bszc%3D",
@@ -69847,8 +69847,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白字蓝边粗描边花字",
       description: "白字蓝边粗描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404381121615613210.png",
+        static_img: "/huazi/7404381121615613210.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/bb9aba4adfd04ce0996be9abbb35813f?lk3s=43402efa&x-expires=1789542783&x-signature=RU2d4qmO71%2B3COqjqYD5W0fEIL4%3D",
@@ -70217,8 +70217,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "互动引导立体",
       description: "互动引导立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7527223959767764248.png",
+        static_img: "/huazi/7527223959767764248.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2d64700b996f4eafa9bd586efa5f49f5?lk3s=43402efa&x-expires=1789542786&x-signature=mSb1PX6lCSlSM66Sc6uL26bq6uQ%3D",
@@ -70534,8 +70534,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "端午61立体字效",
       description: "端午61立体字效",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7506871646129573182.png",
+        static_img: "/huazi/7506871646129573182.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/423655c96cf34aaa9577d1c52dd12cef?lk3s=43402efa&x-expires=1789542786&x-signature=t8rZQQMXPWNBCkRb5Kdc5mWv6vU%3D",
@@ -70692,8 +70692,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "美妆立体",
       description: "美妆立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7526125596955659545.png",
+        static_img: "/huazi/7526125596955659545.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2bf4275dff8342249d531c232e3245b9?lk3s=43402efa&x-expires=1789542786&x-signature=kXwT8Fk3cN7NqdtymlRGZyoUglY%3D",
@@ -70744,8 +70744,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色描边白色花字",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7263028102610144575.png",
+        static_img: "/huazi/7263028102610144575.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/oA4tC8nAN8AoeAA93XDIJACCAAIgH4ARykbegG?lk3s=43402efa&x-expires=1789542786&x-signature=PR5MBsc4gbNbRh2Z6EswJahUbr4%3D",
@@ -70956,8 +70956,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉黄描边立体",
       description: "粉黄描边立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7471642975651564862.png",
+        static_img: "/huazi/7471642975651564862.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0e204638955b4fa9ac081a188bb1960b?lk3s=43402efa&x-expires=1789542786&x-signature=kXDjkieIvSUjXHGyorR0eZpJP6I%3D",
@@ -71066,8 +71066,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "母亲节立体",
       description: "母亲节立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7496412960647286078.png",
+        static_img: "/huazi/7496412960647286078.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5bbf150a5c8d4a03b71db46ded8f5c0d?lk3s=43402efa&x-expires=1789542786&x-signature=0KSZLdutf4Nr%2FbdhjuW1je6W0%2Bo%3D",
@@ -71329,8 +71329,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色立体描边花字",
       description: "粉色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7476028091077430552.png",
+        static_img: "/huazi/7476028091077430552.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ef05f045f6ed4cf7b4d1a504dde686db?lk3s=43402efa&x-expires=1789542786&x-signature=U3xhQy9xEd1GJQhXFXRLAd4oRv8%3D",
@@ -71381,8 +71381,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "发光花字",
       description: "发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405950908644723977.png",
+        static_img: "/huazi/7405950908644723977.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2d70974ae06845bf899334698f0f1ab9?lk3s=43402efa&x-expires=1789542786&x-signature=N90JcpWcHMwlorf7dMaBfWSBai0%3D",
@@ -71646,8 +71646,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉白描边立体",
       description: "粉白描边立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7474566247460441368.png",
+        static_img: "/huazi/7474566247460441368.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/825afbda18e0425db2750bf3e08eb496?lk3s=43402efa&x-expires=1789542786&x-signature=OOGauxBX3XFK9agL3BlRO90niCM%3D",
@@ -71698,8 +71698,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝粉色渐变多层立体花字",
       description: "蓝粉色渐变多层立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404367331842936115.png",
+        static_img: "/huazi/7404367331842936115.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a6dffa6e8afa4a139309426ac98df1bd?lk3s=43402efa&x-expires=1789542786&x-signature=zhfzuPko%2Fcrzs1dZoKYomrbqc9Y%3D",
@@ -71863,8 +71863,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色立体",
       description: "粉色立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7469667482442222910.png",
+        static_img: "/huazi/7469667482442222910.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/23517008e6244d2c9218eba6b9850c46?lk3s=43402efa&x-expires=1789542786&x-signature=anAcoJAviUlxpPsIbN39rKT4MrI%3D",
@@ -72031,8 +72031,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色发光",
       description: "红色发光",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403924486346509606.png",
+        static_img: "/huazi/7403924486346509606.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7d984b0d33c543378204ee279de4c96f?lk3s=43402efa&x-expires=1789542786&x-signature=%2FkuaZIimmOe0J4suoVnzBZ7wyN0%3D",
@@ -72243,8 +72243,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红色立体花字",
       description: "红色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7252103474719051020.png",
+        static_img: "/huazi/7252103474719051020.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/oITneC84M8aAQCAkEAABDbvUDwpKkACMiAeNg7?lk3s=43402efa&x-expires=1789542786&x-signature=G3Mdt3du1PgTIgP78b2A0WdXEXc%3D",
@@ -72349,8 +72349,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉紫色渐变发光花字",
       description: "粉紫色渐变发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403773847754902810.png",
+        static_img: "/huazi/7403773847754902810.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/453ed0f4297d4a13908ea1f439804096?lk3s=43402efa&x-expires=1789542786&x-signature=lToej%2B8gSnGhpUIyo3kWIzxu4ws%3D",
@@ -72455,8 +72455,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉黄立体花字",
       description: "粉黄立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7494574052934241560.png",
+        static_img: "/huazi/7494574052934241560.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/97847c9f0d5d429f916545271bdc37d5?lk3s=43402efa&x-expires=1789542786&x-signature=3aSA6AjItj%2FoHzD%2BIMMK7UfgJ%2FI%3D",
@@ -72775,8 +72775,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "花字",
       description: "花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7532077639864208665.png",
+        static_img: "/huazi/7532077639864208665.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/019a7e4b506c4062ae9807f2655d3ff8?lk3s=43402efa&x-expires=1789542786&x-signature=HqD%2F54maaOjK6g7ZC5McXOz4CgQ%3D",
@@ -72880,8 +72880,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色渐变仿3d立体花字",
       description: "粉色渐变仿3d立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7371338640280161545.png",
+        static_img: "/huazi/7371338640280161545.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5815591174164a1490786f4dab48b36a?lk3s=43402efa&x-expires=1789542786&x-signature=Yxxg9hX%2B1iBgNq1p8JjlBw2dgpM%3D",
@@ -73155,8 +73155,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "透明果冻粉",
       description: "透明果冻粉",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7483781507337817406.png",
+        static_img: "/huazi/7483781507337817406.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/973f4d57ad60451d97411f843122edf5?lk3s=43402efa&x-expires=1789542786&x-signature=PTDVIHxhceu1xcPAyb8j3NntdiM%3D",
@@ -73260,8 +73260,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫粉色星光发光花字",
       description: "紫粉色星光发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406010312467434779.png",
+        static_img: "/huazi/7406010312467434779.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/555fdfc2c3494861bb2915f8e363af57?lk3s=43402efa&x-expires=1789542786&x-signature=DIRrPBirJbgMclSC8FDbp90yBWQ%3D",
@@ -73527,8 +73527,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "清新粉色立体描边花字",
       description: "清新粉色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404359079063244067.png",
+        static_img: "/huazi/7404359079063244067.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/2a261e8477d444d6a1d37c6f530e57ec?lk3s=43402efa&x-expires=1789542786&x-signature=CrNkUnpPG9dvFW3%2FvixCaBA%2BdW0%3D",
@@ -73580,8 +73580,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉白描边立体节日花字",
       description: "粉白描边立体节日花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404870544413281536.png",
+        static_img: "/huazi/7404870544413281536.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/35f877ac493843ba8cf5c890c576b11a?lk3s=43402efa&x-expires=1789542786&x-signature=jOdwyEHiQWV4XCWSD7a78NDM5Q4%3D",
@@ -73686,8 +73686,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色渐变波点纹理花字",
       description: "粉色渐变波点纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405224954368642319.png",
+        static_img: "/huazi/7405224954368642319.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/fedf0a4508b04e0fbe69fe9e358d59e7?lk3s=43402efa&x-expires=1789542786&x-signature=%2F6Y8a2kJWucRhhCFDGit6x%2Fbnds%3D",
@@ -74056,8 +74056,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉白色渐变立体花字",
       description: "粉白色渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404520184062430491.png",
+        static_img: "/huazi/7404520184062430491.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ef9f3e8860274444b78ae8c1634664c2?lk3s=43402efa&x-expires=1789542786&x-signature=1LSRA1cRHQjWiDsnGPc8Y0GKrn4%3D",
@@ -74109,8 +74109,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黑粉甜酷渐变花字",
       description: "黑粉甜酷渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406172056645078299.png",
+        static_img: "/huazi/7406172056645078299.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/71db2a6075404be393a301c6742172be?lk3s=43402efa&x-expires=1789542786&x-signature=bOsRgnvYPwBeztVYa91iWFS49tk%3D",
@@ -74378,8 +74378,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "立体渐变花字（综艺）",
       description: "立体渐变花字（综艺）",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403951797972339979.png",
+        static_img: "/huazi/7403951797972339979.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3c4c4a41cbfe4ea6b2ccd56147d8a177?lk3s=43402efa&x-expires=1789542786&x-signature=eCB1cR7S36Kd%2Bnr7zVyeQG6B1kQ%3D",
@@ -74647,8 +74647,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色",
       description: "粉色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7481670126689946942.png",
+        static_img: "/huazi/7481670126689946942.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/664edac0de65476a8860d007f467cdc1?lk3s=43402efa&x-expires=1789542786&x-signature=CE3SjFOkq4zNbCcryoVLeenzzp4%3D",
@@ -74805,8 +74805,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白芭比花字",
       description: "白芭比花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405198458337889586.png",
+        static_img: "/huazi/7405198458337889586.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/1d31cbdf16bb474ebab52998abb4acad?lk3s=43402efa&x-expires=1789542786&x-signature=TbGeCsYkJ6Zdd3nJLGBIECBOAJk%3D",
@@ -74858,8 +74858,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉蓝闪闪花字",
       description: "粉蓝闪闪花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7505772084703022361.png",
+        static_img: "/huazi/7505772084703022361.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ab4a5c7ea7db461aaca86c45976b96f7?lk3s=43402efa&x-expires=1789542786&x-signature=cAjuD5K6%2FWCeFvG8AE2dDLJGl%2BY%3D",
@@ -75227,8 +75227,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉紫色气球花字",
       description: "粉紫色气球花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7470023899539967257.png",
+        static_img: "/huazi/7470023899539967257.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d70e4ce6f40d401da8d9f4f3062c8f45?lk3s=43402efa&x-expires=1789542786&x-signature=Qfdrsu1IFEUlBfZttvPmPNjDkeo%3D",
@@ -75279,8 +75279,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄粉圆底心星点缀花字",
       description: "黄粉圆底心星点缀花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404876152554278154.png",
+        static_img: "/huazi/7404876152554278154.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ee9e1fa355634e3b94156699c1d09794?lk3s=43402efa&x-expires=1789542786&x-signature=jRiGy7WBdJ0lJpl6UAlIFOlWCJ4%3D",
@@ -75489,8 +75489,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "芭比粉",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7263379569594436900.png",
+        static_img: "/huazi/7263379569594436900.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/ocAAf6HAQCAT84M2Uf5MyTMI0ffUFwLcPIv2AG?lk3s=43402efa&x-expires=1789542786&x-signature=1s40aNzhGDCC8Ik6mIwRadKuNMM%3D",
@@ -75597,8 +75597,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "涂鸦字",
       description: "涂鸦字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7361330845342371113.png",
+        static_img: "/huazi/7361330845342371113.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c8048ee39f0a496db99d397e3bd98581?lk3s=43402efa&x-expires=1789542786&x-signature=RaD6fl0EbzJPAXO8QmGRuzura6M%3D",
@@ -75650,8 +75650,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色闪闪花字",
       description: "粉色闪闪花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7459711214587776318.png",
+        static_img: "/huazi/7459711214587776318.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7e45704825514abd821eaf7e87cc02bf?lk3s=43402efa&x-expires=1789542786&x-signature=w2TePe%2FXUuOzPxvk1ynEg1NvGo0%3D",
@@ -75755,8 +75755,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "甜酷芭比粉色立体花字",
       description: "甜酷芭比粉色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403721451993304370.png",
+        static_img: "/huazi/7403721451993304370.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/0584cca752c14d1a9f4771ccfd7f5c30?lk3s=43402efa&x-expires=1789542786&x-signature=yHnxtdyMPsYvh5IvkW9BScRUUBw%3D",
@@ -75914,8 +75914,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色紫色渐变立体",
       description: "粉色紫色渐变立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406377074849566003.png",
+        static_img: "/huazi/7406377074849566003.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f723236a3ccf443e9ac984c17dd56263?lk3s=43402efa&x-expires=1789542786&x-signature=YeGad1vKRKXHyBFlffnfzf40pH4%3D",
@@ -76020,8 +76020,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉紫色多层渐变立体花字",
       description: "粉紫色多层渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7403767866266324261.png",
+        static_img: "/huazi/7403767866266324261.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/dbcee1a4c0df4fd0945781703d205001?lk3s=43402efa&x-expires=1789542786&x-signature=GCKzkrAnGcE0kDNSCjhrONVB%2F3A%3D",
@@ -76126,8 +76126,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "红字黄边立体字",
       description: "红字黄边立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7408393528163716404.png",
+        static_img: "/huazi/7408393528163716404.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c2c14cea49674723b3e58844162e6b93?lk3s=43402efa&x-expires=1789542786&x-signature=Jm%2FDtq0zcvhBaFuyNGdwTAZ3jtU%3D",
@@ -76391,8 +76391,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉色樱花花字",
       description: "粉色樱花花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405756302271483155.png",
+        static_img: "/huazi/7405756302271483155.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9f268a92298b4e1988e2340075888297?lk3s=43402efa&x-expires=1789542786&x-signature=nEFpc2PoZn8iRA3kPvBglmmuc%2Bw%3D",
@@ -76549,8 +76549,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉蓝色立体字效",
       description: "粉蓝色立体字效",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7523240490314173721.png",
+        static_img: "/huazi/7523240490314173721.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b5a147c3efaf43d988dff754765de4b6?lk3s=43402efa&x-expires=1789542786&x-signature=gaOMZkxncu%2BpylHdffDGKO85aBA%3D",
@@ -76601,8 +76601,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉黑色描边甜酷花字",
       description: "粉黑色描边甜酷花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404713728219925801.png",
+        static_img: "/huazi/7404713728219925801.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/8e92c489e23b4a59a1722c1d0096a68c?lk3s=43402efa&x-expires=1789542786&x-signature=TiTxb42Ne9IAW2O%2FOehipGpfk6Q%3D",
@@ -76707,8 +76707,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "多层描边粉紫色渐变花字",
       description: "多层描边粉紫色渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404706418848271670.png",
+        static_img: "/huazi/7404706418848271670.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/bad94fe39db54532a36df1d76cc3ffbd?lk3s=43402efa&x-expires=1789542786&x-signature=i648MDwNb8l56kUAye2ppGC%2FElQ%3D",
@@ -76760,8 +76760,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "糖果",
       description: "糖果",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7522895833600380222.png",
+        static_img: "/huazi/7522895833600380222.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/42b5a28b2f154bbe905d1d3c80735061?lk3s=43402efa&x-expires=1789542786&x-signature=8kDWgLh9fs8T9ruo%2BS9VRmXSQKI%3D",
@@ -77666,8 +77666,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色蓝色描边花字",
       description: "绿色蓝色描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404747598109609228.png",
+        static_img: "/huazi/7404747598109609228.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/eff0e4cc0f534e2a9c2c7e028b3766d3?lk3s=43402efa&x-expires=1789542790&x-signature=tApyK%2Funn%2BpIwT%2BmZ132ZBJHxiQ%3D",
@@ -77719,8 +77719,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄绿渐变立体字",
       description: "黄绿渐变立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406966103861169408.png",
+        static_img: "/huazi/7406966103861169408.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a6d486ae2a444155a411fa27031fc6c8?lk3s=43402efa&x-expires=1789542790&x-signature=oVZu02n0gZMYnKs7h%2BzgQPA%2B34A%3D",
@@ -78143,8 +78143,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "高饱和撞色渐变立体花字",
       description: "高饱和撞色渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404080787638799651.png",
+        static_img: "/huazi/7404080787638799651.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/488d8398ca77438c8a8326ad051a957b?lk3s=43402efa&x-expires=1789542790&x-signature=TAAMWYvQ2LWc0RyrA1jztKDoRIg%3D",
@@ -78196,8 +78196,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "运动立体",
       description: "运动立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7473821452597316926.png",
+        static_img: "/huazi/7473821452597316926.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/43a6500526c040a898d9fb8c7c3ab7ff?lk3s=43402efa&x-expires=1789542790&x-signature=xt63aRHKWgHRt9NgKvhSDwWeOk4%3D",
@@ -78301,8 +78301,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色花字",
       description: "绿色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7472017607768673598.png",
+        static_img: "/huazi/7472017607768673598.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e6d28bd879704e0db44862dacde9604a?lk3s=43402efa&x-expires=1789542790&x-signature=z2GuJ4gZGImU%2B5JNgzZjY2xW1QU%3D",
@@ -78776,8 +78776,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "简约绿色镂空花字",
       description: "简约绿色镂空花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404093067151658274.png",
+        static_img: "/huazi/7404093067151658274.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/118a5bdba9394e99885f523d05895c7d?lk3s=43402efa&x-expires=1789542790&x-signature=tjwoAPk6rHiTP21wLbvYXg6ZFso%3D",
@@ -79101,8 +79101,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色清新条纹渐变立体花字",
       description: "绿色清新条纹渐变立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405127816867597605.png",
+        static_img: "/huazi/7405127816867597605.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c3bcecad85c846138a9e8c67fc148db6?lk3s=43402efa&x-expires=1789542790&x-signature=P0rFVu49mW%2BisBGzEm0MICjgMWk%3D",
@@ -79313,8 +79313,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄绿色纹理花字",
       description: "黄绿色纹理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404768610100497700.png",
+        static_img: "/huazi/7404768610100497700.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d143b28cfdbd41aeb8de4c0d05f81e35?lk3s=43402efa&x-expires=1789542790&x-signature=C0K70nbb65dl3w9t4h0uH9Mrgmg%3D",
@@ -79688,8 +79688,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄绿描边花字",
       description: "黄绿描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7411774424355065088.png",
+        static_img: "/huazi/7411774424355065088.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/de396b6e19bd4306957a1e3be95a75d0?lk3s=43402efa&x-expires=1789542790&x-signature=NmbTZewRqTroVAscWY6VpRq5c%2Bs%3D",
@@ -80169,8 +80169,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色条纹渐变发光花字",
       description: "绿色条纹渐变发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406004095309450546.png",
+        static_img: "/huazi/7406004095309450546.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a98659189dbf4ea39381dab07ad6114e?lk3s=43402efa&x-expires=1789542790&x-signature=WB2Mf58hAJ%2BCl2N3%2BV7LDmvbDJE%3D",
@@ -80328,8 +80328,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝绿色立体花字",
       description: "蓝绿色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405962322373578024.png",
+        static_img: "/huazi/7405962322373578024.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c5c52522d9054c428643673ab96b8088?lk3s=43402efa&x-expires=1789542790&x-signature=x5K3bMDG9fUGAfUixYhM%2F9aFXwA%3D",
@@ -80434,8 +80434,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "双十一黄绿立体",
       description: "双十一黄绿立体",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430467479744335142.png",
+        static_img: "/huazi/7430467479744335142.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c6b93a4db7734907b9ad25b75abd246e?lk3s=43402efa&x-expires=1789542790&x-signature=TzBuF2qCFao1nhAGh5WZz6aHMBQ%3D",
@@ -80540,8 +80540,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古绿色立体花字",
       description: "复古绿色立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405561923728690458.png",
+        static_img: "/huazi/7405561923728690458.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/add3c74c09854e29a9647cde6e0fb919?lk3s=43402efa&x-expires=1789542790&x-signature=3d5Vev5zYgu7XmI5muDE5z9cZX8%3D",
@@ -80593,8 +80593,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色渐变立体字",
       description: "绿色渐变立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404854087830867234.png",
+        static_img: "/huazi/7404854087830867234.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b1a4d99f7df14679b169df40f520b706?lk3s=43402efa&x-expires=1789542790&x-signature=JjihFu4plC2He5Lj1u5XkThLTb0%3D",
@@ -80646,8 +80646,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝绿色运动风渐变花字",
       description: "蓝绿色运动风渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405128752167963914.png",
+        static_img: "/huazi/7405128752167963914.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9f0be837186e4de88e86e20fca03cbdb?lk3s=43402efa&x-expires=1789542790&x-signature=Tr2FzUBgvgoBH0O%2FpRLNMjtBsxM%3D",
@@ -80910,8 +80910,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "粉绿色渐变多层立体花字",
       description: "粉绿色渐变多层立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7474572068676357401.png",
+        static_img: "/huazi/7474572068676357401.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3cc50940e9bc40459d6e6a65293910dc?lk3s=43402efa&x-expires=1789542790&x-signature=wxILk3zsA18WpiiwZ97XyFaaxb8%3D",
@@ -81015,8 +81015,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "三色渐变发光字",
       description: "三色渐变发光字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406256498252188968.png",
+        static_img: "/huazi/7406256498252188968.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/fbcbea1b0f09465480c9de87c433c8e6?lk3s=43402efa&x-expires=1789542790&x-signature=Jxxw1sgFSlr2Fsw0t5puhMotYD4%3D",
@@ -81068,8 +81068,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "圣诞-复古绿点",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7305827683798224191.png",
+        static_img: "/huazi/7305827683798224191.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/oQf7DtexAxObFItHKAADI5el4rBHGybLEqAMnA?lk3s=43402efa&x-expires=1789542790&x-signature=mZaTSTsrEo6y%2FtKPt%2Ble8XPz0nY%3D",
@@ -81229,8 +81229,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色紫色花字",
       description: "",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7293142782896590114.png",
+        static_img: "/huazi/7293142782896590114.png",
       },
       item_urls: [
         "https://lf26-faceu-file-sign.bytecdn.com/tos-cn-v-436d67/oMKlThsmACAQANB7gIe2NeCnUbpzbxnDA8CBsA?lk3s=43402efa&x-expires=1789542790&x-signature=ygklsHkJ6LJ4zUzgYnJg2T1bFz4%3D",
@@ -81282,8 +81282,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "仿3d水波纹薄荷",
       description: "仿3d水波纹薄荷",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7347236230674844937.png",
+        static_img: "/huazi/7347236230674844937.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/539fdf9fe2394107bc8ddb7186bf17eb?lk3s=43402efa&x-expires=1789542790&x-signature=fX5O2xrtN6ASJe9t5U4vmYeAlaI%3D",
@@ -81653,8 +81653,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝黄渐变绿色描边花字",
       description: "蓝黄渐变绿色描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7430785639781567753.png",
+        static_img: "/huazi/7430785639781567753.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/1dbf1d8a5392454082baf68b96b7d7d9?lk3s=43402efa&x-expires=1789542790&x-signature=b3sP%2B383DQHwRylq%2BRY7fU%2FIWP8%3D",
@@ -81812,8 +81812,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "晕染绿",
       description: "晕染绿",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7357047867233602855.png",
+        static_img: "/huazi/7357047867233602855.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ca9a1d6071274e3eb93049866e739dc6?lk3s=43402efa&x-expires=1789542790&x-signature=1BwUvukqNNI2xFCTztzhw%2FyjvLQ%3D",
@@ -82613,8 +82613,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色花字",
       description: "科技",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7351302410180005157.png",
+        static_img: "/huazi/7351302410180005157.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b3d4f1a6d34d4c61bcf366f7fbfcdd2d?lk3s=43402efa&x-expires=1789542790&x-signature=dljF2Lm%2FfAObA83MSxURSpnUjI0%3D",
@@ -82666,8 +82666,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色渐变黑边字",
       description: "绿色渐变黑边字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406991694668795163.png",
+        static_img: "/huazi/7406991694668795163.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b63b25b8a6f9428991f8bea4f5edfe06?lk3s=43402efa&x-expires=1789542790&x-signature=mf%2BWBSo1RnPbanu1M0Uiag8OLLw%3D",
@@ -82719,8 +82719,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "小荷漫漫",
       description: "小荷漫漫",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7523990414601260350.png",
+        static_img: "/huazi/7523990414601260350.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/caa5f30ca6bf43f3b671dd449ad045ad?lk3s=43402efa&x-expires=1789542790&x-signature=d9ce%2BhuRRVVkRhZiJay6UX%2FIe3o%3D",
@@ -82771,8 +82771,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白字绿边带格纹",
       description: "白字绿边带格纹",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406685269446905125.png",
+        static_img: "/huazi/7406685269446905125.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/df82e597b1d24ad9a64bc332953cfe96?lk3s=43402efa&x-expires=1789542790&x-signature=cwkZLIkq4LcQmVRdcxsijRK9U4I%3D",
@@ -82877,8 +82877,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色水晶立体渐变花字",
       description: "绿色水晶立体渐变花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406011060521667866.png",
+        static_img: "/huazi/7406011060521667866.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/d4e97ed84392438b919e606c8b50b094?lk3s=43402efa&x-expires=1789542790&x-signature=WlQkxqWNF5u%2BpKsCYBtQTiKIeL8%3D",
@@ -82930,8 +82930,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "港风复古墨绿圆边花字",
       description: "港风复古墨绿圆边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404043957887372571.png",
+        static_img: "/huazi/7404043957887372571.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ac2bc72763c0431db3ef2b3f94a48434?lk3s=43402efa&x-expires=1789542790&x-signature=6y%2FGrSrFpo7Kb2QLm88RPE99RGc%3D",
@@ -83301,8 +83301,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白绿多层渐变投影花字",
       description: "白绿多层渐变投影花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405130126477757722.png",
+        static_img: "/huazi/7405130126477757722.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/905534b8749245d9bd647ddb2c125214?lk3s=43402efa&x-expires=1789542790&x-signature=Yl0CxvObOtePWaKvf%2FCJNw1kTRY%3D",
@@ -83833,8 +83833,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝绿色渐变多层投影立体花字",
       description: "蓝绿色渐变多层投影立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404137941632552202.png",
+        static_img: "/huazi/7404137941632552202.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/80087e52f9c64752afa8c3b6e457b36d?lk3s=43402efa&x-expires=1789542790&x-signature=doLLvgRkEH2QY4%2FlYjkFPTReiX8%3D",
@@ -84045,8 +84045,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "毛毡薄荷绿花字",
       description: "毛毡薄荷绿花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7346195217466363148.png",
+        static_img: "/huazi/7346195217466363148.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/745f24b1a1a2432eb03b9512166173fb?lk3s=43402efa&x-expires=1789542790&x-signature=onC%2BaWaUfEej0Ic%2B3ANm%2FK3wHpQ%3D",
@@ -84204,8 +84204,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "青色",
       description: "青色",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7370971660947705099.png",
+        static_img: "/huazi/7370971660947705099.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/a2ea17e015bf407eab5e66725f3cd6c9?lk3s=43402efa&x-expires=1789542790&x-signature=IzbgSoBDh2%2B1Qo0k90RoQXlqVhE%3D",
@@ -84257,8 +84257,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色手绘涂鸦花字",
       description: "绿色手绘涂鸦花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7359509585222208778.png",
+        static_img: "/huazi/7359509585222208778.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/c72a67cdd3ef482e8bab00041c73c262?lk3s=43402efa&x-expires=1789542790&x-signature=wd%2FZRhuPeH6iTY7p2SA7WeN7UKg%3D",
@@ -84310,8 +84310,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色渐变立体描边花字",
       description: "绿色渐变立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404713810730241319.png",
+        static_img: "/huazi/7404713810730241319.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/637e73a9885242e097f9a62eaad818f4?lk3s=43402efa&x-expires=1789542790&x-signature=naoD2fd%2F1KdhcIwZJSQBWZNf1j0%3D",
@@ -84469,8 +84469,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "黄绿格",
       description: "黄绿格",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7351685926277352723.png",
+        static_img: "/huazi/7351685926277352723.png",
       },
       item_urls: [
         "https://p9-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/969b5d2cd44b4d8c96314b07938d05b0?lk3s=43402efa&x-expires=1789542790&x-signature=sC%2FkNmFRncEKEy9tEVqA5lSyWiw%3D",
@@ -84628,8 +84628,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "绿色描边立体花字",
       description: "绿色描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405636378769313065.png",
+        static_img: "/huazi/7405636378769313065.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/ae31f5743a4444aeaf1319bace6bffd8?lk3s=43402efa&x-expires=1789542790&x-signature=JIKdUehwlNMciqfW0L687M1OZdc%3D",
@@ -84787,8 +84787,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "复古质感肌理花字",
       description: "复古质感肌理花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404777605955734793.png",
+        static_img: "/huazi/7404777605955734793.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5f556c5c38fd424794d7d172ffdd3a54?lk3s=43402efa&x-expires=1789542790&x-signature=4huM5hGVWwF8piHW1kcmmtU5JD8%3D",
@@ -84946,8 +84946,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色立体文字",
       description: "紫色立体文字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405124477803171124.png",
+        static_img: "/huazi/7405124477803171124.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5ec2760bc1da44a79167f2fc31ef8055?lk3s=43402efa&x-expires=1789542793&x-signature=u0pt6%2FYul%2BlgmAtdHssvHmtTbOA%3D",
@@ -85105,8 +85105,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色多重描边字",
       description: "紫色多重描边字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7407080664236870964.png",
+        static_img: "/huazi/7407080664236870964.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5db190aebac2498d810d9df3b1bf12bf?lk3s=43402efa&x-expires=1789542793&x-signature=eF3HCeEyE4IC%2BvXJw9f8lP2uK08%3D",
@@ -85158,8 +85158,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色渐变立体字",
       description: "紫色渐变立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406236406151925007.png",
+        static_img: "/huazi/7406236406151925007.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/eefec8e7205d4a6db9298c9b1815014e?lk3s=43402efa&x-expires=1789542793&x-signature=xfWvwyzqRvAyrjkXjGLQIjw3BaY%3D",
@@ -85317,8 +85317,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "618紫色渐变立体字效",
       description: "618紫色渐变立体字效",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7507256223939530009.png",
+        static_img: "/huazi/7507256223939530009.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/b1dfa0d795d4462ab4f231d1bf69345c?lk3s=43402efa&x-expires=1789542793&x-signature=UxW%2B5ZtPLz%2BXsG2xttYXt6H8Kvo%3D",
@@ -85475,8 +85475,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "赛博故障风荧光花字",
       description: "赛博故障风荧光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405948653761744137.png",
+        static_img: "/huazi/7405948653761744137.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/1068b3fa9c1444998cc8ad86bdd5517c?lk3s=43402efa&x-expires=1789542793&x-signature=%2BIVYsaDn5zhmNcph2PtBTgcThUQ%3D",
@@ -85581,8 +85581,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色立体字",
       description: "紫色立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406657094851562792.png",
+        static_img: "/huazi/7406657094851562792.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3aaeaa225b374bd98d209a6a17e0460b?lk3s=43402efa&x-expires=1789542793&x-signature=NFFhn1wHnityhD69tadez5%2B08U8%3D",
@@ -85634,8 +85634,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "橙紫立体花字",
       description: "橙紫立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7475389169183837502.png",
+        static_img: "/huazi/7475389169183837502.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/3c446582b9744134a17b4c670162795c?lk3s=43402efa&x-expires=1789542793&x-signature=glLmIwlgapUZhCrVj3mrwXy%2FnoA%3D",
@@ -85739,8 +85739,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫红色描边立体花字",
       description: "紫红色描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7424524996350905612.png",
+        static_img: "/huazi/7424524996350905612.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/1c429f29bde44ec6954d80f78f1d6586?lk3s=43402efa&x-expires=1789542793&x-signature=Udy7H57zHuJrIXTRv1Y2dKdiyjA%3D",
@@ -86057,8 +86057,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色渐变投影字",
       description: "紫色渐变投影字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404055341010390324.png",
+        static_img: "/huazi/7404055341010390324.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7633ca67bf034445a6bff6a59fecf823?lk3s=43402efa&x-expires=1789542793&x-signature=9aAM0ksbYgzAgtKX3UdnzyNypu0%3D",
@@ -86163,8 +86163,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "蓝紫色渐变描边立体花字",
       description: "蓝紫色渐变描边立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405053909191904566.png",
+        static_img: "/huazi/7405053909191904566.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/119235ef828a4f44a749b1ee577f0532?lk3s=43402efa&x-expires=1789542793&x-signature=snyUniJnjeAyYThIXhX9ZIE%2FM1Y%3D",
@@ -86269,8 +86269,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "白色立体描边花字",
       description: "白色立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405043787539549452.png",
+        static_img: "/huazi/7405043787539549452.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/82d91a5330d1402f833e1d3a7dbb9ac6?lk3s=43402efa&x-expires=1789542793&x-signature=SoQ1HalCs0PTuoC%2BbsJNwPYdzyc%3D",
@@ -86534,8 +86534,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色渐变立体描边花字",
       description: "紫色渐变立体描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404673172978650431.png",
+        static_img: "/huazi/7404673172978650431.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/f35be8056c3e48c6b206c63d68094c50?lk3s=43402efa&x-expires=1789542793&x-signature=PcohIvJnyrhK2Oi7%2BAC31TV1dK4%3D",
@@ -86693,8 +86693,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫玫瑰",
       description: "紫玫瑰",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7481958256655486233.png",
+        static_img: "/huazi/7481958256655486233.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/7d7bbd474e004510986f227b761053b4?lk3s=43402efa&x-expires=1789542793&x-signature=%2BGWKGgzwZo8tqZ8Cx%2B7YZF%2BdsJg%3D",
@@ -86851,8 +86851,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫红渐变透明字",
       description: "紫红渐变透明字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406974135018048820.png",
+        static_img: "/huazi/7406974135018048820.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/e2a9a617a58d493680660aa3dc0ff352?lk3s=43402efa&x-expires=1789542793&x-signature=gfiTMhlWCexj%2B5UbTbDPG7RN7Dc%3D",
@@ -87016,8 +87016,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "发光粉赛博故障风立体花字",
       description: "发光粉赛博故障风立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405967249992879410.png",
+        static_img: "/huazi/7405967249992879410.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/56b4a342a2aa412d904c0680c5ad5844?lk3s=43402efa&x-expires=1789542793&x-signature=7WuomDNMuiPboCFWfkJ8HRrPyJk%3D",
@@ -87287,8 +87287,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "万圣节主题色描边花字",
       description: "万圣节主题色描边花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7404469048517414153.png",
+        static_img: "/huazi/7404469048517414153.png",
       },
       item_urls: [
         "https://p26-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/9dd821adc4824f9db0f868000ae7cb7b?lk3s=43402efa&x-expires=1789542793&x-signature=LNmbB6NbRAZ5aHrcGgn8OYkJGJM%3D",
@@ -87446,8 +87446,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色立体字",
       description: "紫色立体字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7406649743616740642.png",
+        static_img: "/huazi/7406649743616740642.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/343939ba8b32469d8235aa0e21faae10?lk3s=43402efa&x-expires=1789542793&x-signature=Aq%2FsXIYi%2FuY7%2FA8ClrSUTrQ98Ao%3D",
@@ -87605,8 +87605,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "简约双层描边渐变紫色花字",
       description: "简约双层描边渐变紫色花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7434403828629245223.png",
+        static_img: "/huazi/7434403828629245223.png",
       },
       item_urls: [
         "https://p3-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/5eb8ecb4174b4b5b9394d9425aa0e151?lk3s=43402efa&x-expires=1789542793&x-signature=0XYITFapTWCvf1oNrQlCTNtBoYs%3D",
@@ -87658,8 +87658,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色骷髅立体花字",
       description: "紫色骷髅立体花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7424527557699079487.png",
+        static_img: "/huazi/7424527557699079487.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/1bad6596dda743b9bf205a7b5fc56e5a?lk3s=43402efa&x-expires=1789542793&x-signature=P%2F32%2Fu4YIinHpkvKlnkXrfe%2F4k0%3D",
@@ -88082,8 +88082,8 @@ export const huaZiData: HuaZiItem[] = [
       title: "紫色描边立体发光花字",
       description: "紫色描边立体发光花字",
       cover_url: {
-        small: "",
-        static_img: "",
+        small: "/huazi/7405210233917787446.png",
+        static_img: "/huazi/7405210233917787446.png",
       },
       item_urls: [
         "https://p6-artist-file-sign.byteimg.com/tos-cn-i-ik1znaa6ae/6f56d870e5714bcdb005989d3458b3ae?lk3s=43402efa&x-expires=1789542793&x-signature=aqnMsk1vFrkhg%2FGZ5mVY%2FTJLuIg%3D",
