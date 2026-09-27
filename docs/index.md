@@ -16,6 +16,12 @@ keywords: 简创AIGC, 剪映小助手, API基地址, capcut-mate, gen_video, 视
 1. 所有 RESTful API 必须使用统一基地址：`https://capcut-mate.jcaigc.cn`
 2. 仅 [gen_video](/docs/gen_video.zh.html)（视频导出）收费，其余接口免费
 
+::: tip 想让 AI 工具直接调用？
+下载技能文件装进 Claude Code 等支持 Agent Skills 的工具，就能用自然语言生成剪映草稿，不用自己拼 JSON、写 curl。安装步骤见下方「🧩 SKILL.md 下载与安装」。
+
+<a class="skill-download" href="/SKILL.md" download="SKILL.md">⬇️ 下载 SKILL.md</a>
+:::
+
 ---
 
 ## 🌐 API 基地址
@@ -89,6 +95,127 @@ SVIP 用户在 `gen_video` 标准价格基础上再打 **6 折**（即按原价�
 
 时间单位为**微秒**（1 秒 = 1000000）。列表字段（`video_infos` 等）是 JSON 字符串。写接口必须携带 `create_draft` 返回的 `draft_url`。
 
+如果把下面的技能文件装进 AI 工具，以上规则会由工具自动遵守，你直接用自然语言提需求即可。
+
+---
+
+## 🧩 SKILL.md 下载与安装
+
+把剪映小助手封装成 **Agent Skill**（技能文件 `SKILL.md`）。下载并安装到支持技能（Agent Skills）的 AI 工具后，直接用自然语言就能驱动剪映草稿的创建与导出，不必自己拼 JSON、写 curl。
+
+<a class="skill-download" href="/SKILL.md" download="SKILL.md">⬇️ 下载 SKILL.md</a>
+
+也可以直接命令行下载：
+
+```bash
+curl -O https://docs.jcaigc.cn/SKILL.md
+```
+
+| 项目 | 说明 |
+|------|------|
+| 文件名 | `SKILL.md` |
+| 技能名 | `capcut-mate`（写在文件开头的 `name` 字段，安装目录名要与它一致） |
+| 文件大小 | 约 6.5 KB |
+| 适用工具 | Claude Code、Claude 网页版/桌面版，以及 Cursor、GitHub Copilot、Gemini CLI、Codex CLI、Windsurf 等支持 Agent Skills 的工具 |
+| 前置条件 | 无需额外依赖；仅导出视频（`gen_video`）需要自备 `apiKey` |
+| 下载地址 | `https://docs.jcaigc.cn/SKILL.md` |
+
+### 安装到 Claude Code（CLI / IDE 插件）
+
+技能文件必须放在名为 `capcut-mate` 的目录里，且该目录下直接就是 `SKILL.md`。
+
+**方式一：个人级技能（所有项目都能用）**
+
+```bash
+# macOS / Linux
+mkdir -p ~/.claude/skills/capcut-mate
+curl -o ~/.claude/skills/capcut-mate/SKILL.md https://docs.jcaigc.cn/SKILL.md
+```
+
+```powershell
+# Windows PowerShell
+New-Item -ItemType Directory -Force "$env:USERPROFILE\.claude\skills\capcut-mate"
+curl.exe -o "$env:USERPROFILE\.claude\skills\capcut-mate\SKILL.md" https://docs.jcaigc.cn/SKILL.md
+```
+
+**方式二：项目级技能（只在当前项目生效）**
+
+把文件放到项目根目录：
+
+```
+你的项目/
+└─ .claude/
+   └─ skills/
+      └─ capcut-mate/
+         └─ SKILL.md     ← 下载的文件放这里
+```
+
+放好之后**新开一个会话**（或执行 `/exit` 后重新进入），技能才会被加载。
+
+::: warning 装不上时先看这两条
+1. **文件名必须是大写的 `SKILL.md`**。Windows / macOS 默认不区分大小写，写成 `skill.md` 本地看着能用，但在 Linux 上会直接失效。
+2. **必须是「目录 + SKILL.md」的结构**，不能把文件平铺成 `.claude/skills/capcut-mate.md`；而且目录名要和技能名一致，即 `capcut-mate`。
+:::
+
+### 安装到 Claude 网页版 / 桌面版
+
+Claude 网页版与桌面版通过**上传 zip 包**安装技能，不能直接用上面的目录：
+
+1. 先在**设置 → 能力（Capabilities）**里打开「代码执行与文件创建」——不开这个开关，技能无法运行。
+2. 进入 **自定义（Customize）→ 技能（Skills）→ 创建技能 → 上传技能**，选择 zip 包。
+3. 上传后把该技能**打开开关**。
+
+zip 包的内部结构必须是「技能目录 + SKILL.md」，不要多套一层文件夹：
+
+```
+capcut-mate/          ← 压缩包的顶层就是这一层
+└─ SKILL.md
+```
+
+在电脑上建好 `capcut-mate` 目录、把下载的 `SKILL.md` 放进去，然后压缩成 `capcut-mate.zip` 即可：
+
+```bash
+mkdir -p capcut-mate
+curl -o capcut-mate/SKILL.md https://docs.jcaigc.cn/SKILL.md
+zip -r capcut-mate.zip capcut-mate     # 或右键「压缩」
+```
+
+::: tip 技能不会跨产品同步
+在网页版上传的技能，不会出现在 Claude Code 里；反过来也一样。两边都要用，就各自安装一次。
+:::
+
+### 安装到其它 AI 工具
+
+同一个 `SKILL.md` 换到别的工具也能用，规则是一样的：**建一个名为 `capcut-mate` 的目录，把 `SKILL.md` 放进去**，区别只是“放在哪个目录”。
+
+| 工具 | 放置位置（`capcut-mate` 为技能目录名） |
+|------|--------------------------------------|
+| Cursor | 项目内 `.cursor/skills/capcut-mate/SKILL.md`；用户级 `~/.cursor/skills/capcut-mate/SKILL.md` |
+| GitHub Copilot | 项目内 `.github/skills/capcut-mate/SKILL.md`；用户级 `~/.copilot/skills/capcut-mate/SKILL.md` |
+| Gemini CLI | 工作区 `.gemini/skills/capcut-mate/SKILL.md`；用户级 `~/.gemini/skills/capcut-mate/SKILL.md` |
+| Codex CLI | 仓库内 `.agents/skills/capcut-mate/SKILL.md`；用户级 `~/.agents/skills/capcut-mate/SKILL.md` |
+| Windsurf | 工作区 `.windsurf/skills/capcut-mate/SKILL.md`；全局 `~/.codeium/windsurf/skills/capcut-mate/SKILL.md` |
+
+::: warning 以各工具官方文档为准
+各工具的「技能（Skills）」目录约定仍在演进，上表仅供参考。安装前请查一下该工具官方文档里 Skills / 技能 一章；如果你的工具不在表里，在设置里搜 “Skills” 也能找到对应目录。此外 `.agents/skills/` 正逐渐成为跨工具的通用位置，但 Claude Code 只读 `.claude/skills/`。
+:::
+
+### 验证是否安装成功
+
+Claude Code 里可以先执行 `/skills`（或 `/context`），确认列表中出现 `capcut-mate`。
+
+然后提一句带触发词的需求，比如：
+
+> 用剪映小助手创建一个 1080x1920 的竖屏草稿，加一段 5 秒视频
+
+AI 应该会自动读取该技能并调用 `/create_draft`、`/add_videos` 等接口。如果它反过来问你“接口地址是什么”，说明技能没被加载，请检查目录名、文件名大小写和层级是否正确。
+
+### 使用提示
+
+- 技能里已写明硬规则：Base URL、微秒、`draft_url`、列表字段是 JSON 字符串、异步轮询等，无需你再向 AI 解释。
+- 仅 `gen_video`（导出）收费，0.3 元/分钟，需要 `apiKey`。请先到 [https://www.jcaigc.cn](https://www.jcaigc.cn) 获取并充值，调用时把 Key 交给 AI 即可。
+- 想要更细的接口参数，让 AI 直接读本站文档页，或参考[调用指南](/guide/llm-guide.zh)与[精简契约](/guide/llm-contract.zh)。
+
 ---
 
 ## 🔧 核心功能
@@ -107,6 +234,7 @@ SVIP 用户在 `gen_video` 标准价格基础上再打 **6 折**（即按原价�
 <div class="grid-item">
 <h3>🤖 模型接入</h3>
 <ul>
+<li><a href="/SKILL.md" download="SKILL.md" title="下载 SKILL.md 技能文件，安装到 AI 工具后可用自然语言调用">⬇️ 下载 SKILL.md</a></li>
 <li><a href="/llms.txt" title="llms.txt 发现入口">llms.txt</a></li>
 <li><a href="/guide/llm-guide.zh.html" title="模型调用指南">调用指南</a></li>
 <li><a href="/guide/llm-contract.zh.html" title="精简契约">精简契约</a></li>

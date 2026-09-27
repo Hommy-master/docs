@@ -228,6 +228,28 @@ export default defineConfig({
                 margin-right: 8px;
                 font-size: 0.9em;
             }
+
+            /* SKILL.md 下载按钮 */
+            .skill-download {
+                display: inline-block;
+                margin: 4px 8px 4px 0;
+                padding: 10px 24px;
+                border-radius: 22px;
+                background: var(--vp-c-brand);
+                color: #fff !important;
+                font-weight: 600;
+                text-decoration: none !important;
+                transition: background-color 0.25s;
+            }
+
+            .skill-download:hover {
+                background: var(--vp-c-brand-dark);
+            }
+
+            /* SKILL.md 安装步骤中的命令块 */
+            .skill-steps code {
+                font-size: 0.9em;
+            }
         `,
         ],
     ],

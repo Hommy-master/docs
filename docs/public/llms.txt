@@ -7,6 +7,10 @@ video_infos / audio_infos / image_infos / captions 等列表字段是 JSON 字�
 导出是异步：gen_video 后轮询 gen_video_status，直到 status=completed 或 failed。
 扣子拼装辅助接口（*_infos、timelines、str_to_list）在原生 function calling 中不要主动调用。
 
+## 技能文件（Agent Skill）
+
+- [SKILL.md](https://docs.jcaigc.cn/SKILL.md): 可直接下载的 Agent Skill 文件（name: capcut-mate）。安装到 Claude Code 等支持技能的工具后，可用自然语言驱动剪映草稿创建与导出；下载与安装说明见 https://docs.jcaigc.cn/
+
 ## 模型调用
 
 - [调用指南](https://docs.jcaigc.cn/guide/llm-guide.zh.md): 调用顺序、硬规则与最小示例

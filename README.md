@@ -4,12 +4,14 @@
 
 ```
 .
+├─ SKILL.md                     # Agent Skill 源文件（下载入口 → /SKILL.md）
 ├─ docs                         # VitePress srcDir
 │  ├─ .vitepress
 │  │  ├─ config.ts
 │  │  └─ theme
 │  ├─ public
-│  │  └─ llms.txt               # 模型发现入口 → /llms.txt
+│  │  ├─ llms.txt               # 模型发现入口 → /llms.txt
+│  │  └─ SKILL.md               # SKILL.md 的站点副本（由 sync-skill 生成）
 │  ├─ index.md
 │  ├─ guide                     # 模型调用指南 / 精简契约
 │  ├─ api                       # 接口正文（rewrites 到 /docs/{slug}）
@@ -25,7 +27,18 @@
 └─ .github/workflows/release.yml
 ```
 
-对外 URL：接口页仍是 `/docs/{slug}.zh.html`；模型镜像为 `/docs/{slug}.zh.md`；发现入口为 `/llms.txt`。
+## SKILL.md 维护
+
+仓库根目录的 `SKILL.md` 是**唯一源文件**，`docs/public/SKILL.md` 是站点下载副本（对外地址 `https://docs.jcaigc.cn/SKILL.md`）。
+修改源文件后必须同步副本，否则下载到的还是旧版本：
+
+```bash
+pnpm run sync-skill
+```
+
+`SKILL.md` 的 YAML frontmatter 必须以第 1 行的 `---` 开头，且**只保留技能规范定义的字段**（`name`、`description`，可选 `license` / `compatibility` / `metadata` / `allowed-tools`）。多写非规范字段会让「上传 zip 到 Claude 网页版」这类流程报错，因此不要加入生成工具留下的额外键。另外：`name`（`capcut-mate`）需与安装目录名一致，文件名必须是大写的 `SKILL.md`。
+
+对外 URL：接口页仍是 `/docs/{slug}.zh.html`；模型镜像为 `/docs/{slug}.zh.md`；发现入口为 `/llms.txt`；技能文件下载为 `/SKILL.md`。
 
 ## 环境要求
 
