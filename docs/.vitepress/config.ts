@@ -40,7 +40,7 @@ export default defineConfig({
                 generateLLMsTxt: false,
                 generateLLMsFullTxt: true,
                 generateLLMFriendlyDocsForEachPage: true,
-                ignoreFiles: ['page/huazi.md'],
+                ignoreFiles: ['page/huazi.md', 'page/tiezhi.md'],
                 ignoreFilesPerOutput: {
                     llmsFullTxt: [
                         'docs/*.md',
@@ -144,6 +144,7 @@ export default defineConfig({
                         '🔤'
                     ),
                     { text: '<span class="icon sub-icon">🎨</span>花字数据', link: '/page/huazi' },
+                    { text: '<span class="icon sub-icon">🧩</span>贴纸数据', link: '/page/tiezhi' },
                 ],
             },
         ],

@@ -1,0 +1,651 @@
+// 贴纸数据页样式
+// 结构：header（渐变标题）/ toolbar（搜索+统计）/ content（网格）/ pagination
+.tiezhi-viewer {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 12px 20px;
+  height: calc(100vh - 80px);
+  overflow: hidden;
+  display: grid;
+  grid-template-rows: auto auto 1fr auto;
+  gap: 12px;
+}
+
+.tiezhi-header {
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(135deg, #7b6cf6 0%, #c86dd7 100%);
+  border-radius: 12px;
+  color: #fff;
+
+  h1 {
+    font-size: 2em;
+    margin: 0 0 12px;
+  }
+
+  p {
+    opacity: 0.94;
+    font-size: 1em;
+    margin: 0 0 12px;
+  }
+
+  .tiezhi-note {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 8px 14px;
+    font-size: 0.85em;
+    line-height: 1.6;
+    background: rgba(255, 255, 255, 0.16);
+    border-radius: 8px;
+  }
+}
+
+// ── 工具条 ──────────────────────────────────────────────────────────────
+.tiezhi-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding: 10px 14px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+}
+
+.tiezhi-search-box {
+  position: relative;
+  flex: 1 1 320px;
+  max-width: 560px;
+  display: flex;
+  align-items: center;
+
+  .search-icon {
+    position: absolute;
+    left: 12px;
+    font-size: 13px;
+    opacity: 0.6;
+    pointer-events: none;
+  }
+
+  .search-input {
+    width: 100%;
+    padding: 8px 34px 8px 34px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 18px;
+    font-size: 13px;
+    color: var(--vp-c-text-1);
+    background: var(--vp-c-bg);
+    transition: border-color 0.25s, box-shadow 0.25s;
+
+    &::placeholder {
+      color: var(--vp-c-text-3);
+    }
+
+    &:focus {
+      outline: none;
+      border-color: #7b6cf6;
+      box-shadow: 0 0 0 3px rgba(123, 108, 246, 0.15);
+    }
+
+    // 去掉 Safari 自带的清除按钮，用自定义的
+    &::-webkit-search-cancel-button {
+      display: none;
+    }
+  }
+
+  .search-clear {
+    position: absolute;
+    right: 8px;
+    width: 22px;
+    height: 22px;
+    border: none;
+    border-radius: 50%;
+    background: var(--vp-c-bg-alt);
+    color: var(--vp-c-text-2);
+    font-size: 14px;
+    line-height: 1;
+    cursor: pointer;
+
+    &:hover {
+      color: #7b6cf6;
+    }
+  }
+}
+
+.tiezhi-meta {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-size: 13px;
+  color: var(--vp-c-text-2);
+  white-space: nowrap;
+
+  strong {
+    color: #7b6cf6;
+    font-size: 15px;
+  }
+}
+
+.tiezhi-page-size {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+
+  .page-select {
+    padding: 5px 8px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    background: var(--vp-c-bg);
+    color: var(--vp-c-text-1);
+    font-size: 13px;
+    cursor: pointer;
+  }
+}
+
+// ── 网格 ────────────────────────────────────────────────────────────────
+.tiezhi-content {
+  min-height: 240px;
+  overflow: hidden;
+}
+
+.tiezhi-state {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--vp-c-text-3);
+  font-size: 15px;
+
+  &.error {
+    color: var(--vp-c-danger-1);
+
+    code {
+      font-size: 0.9em;
+    }
+  }
+}
+
+.tiezhi-grid {
+  height: 100%;
+  overflow-y: auto;
+  padding: 4px 4px 12px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 14px;
+  align-content: start;
+}
+
+.tiezhi-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 10px;
+  background: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    border-color: rgba(123, 108, 246, 0.5);
+    box-shadow: 0 8px 20px rgba(123, 108, 246, 0.16);
+  }
+}
+
+.tiezhi-thumb {
+  position: relative;
+  flex-shrink: 0;
+  border-radius: 10px;
+  cursor: zoom-in;
+  // 棋盘格底纹：贴纸多为透明底，白底上看不清边界
+  background-color: #fff;
+  background-repeat: no-repeat;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.06);
+  transition: filter 0.22s ease;
+
+  &:hover {
+    filter: brightness(1.03);
+  }
+
+  // 动图直接铺满整个方框：object-fit contain 与静态格子的等比内缩一致，
+  // 同一行里静态卡片和动图卡片看上去才是一样大的
+  .tiezhi-thumb-anim {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 10px;
+    // 点击事件交给外层的缩略图处理，否则光标停在图上会变成默认箭头
+    pointer-events: none;
+  }
+
+  .tiezhi-thumb-tag {
+    position: absolute;
+    top: 4px;
+    right: 6px;
+    padding: 1px 5px;
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 1.4;
+    color: #fff;
+    background: linear-gradient(135deg, #7b6cf6 0%, #c86dd7 100%);
+    border-radius: 4px;
+    pointer-events: none;
+  }
+
+  .tiezhi-thumb-idx {
+    position: absolute;
+    top: 4px;
+    left: 6px;
+    font-size: 10px;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.35);
+    background: rgba(255, 255, 255, 0.75);
+    border-radius: 4px;
+    padding: 2px 4px;
+    pointer-events: none;
+  }
+}
+
+.tiezhi-card-body {
+  width: 100%;
+  text-align: center;
+  // 撑满剩余空间，把复制按钮压到卡片底部，同一行按钮才能齐平
+  flex: 1 1 auto;
+}
+
+.tiezhi-card-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  word-break: break-word;
+  // 固定两行高度：只截断不占位的话，一行标题和两行标题的卡片会差一行高度，
+  // 同一网格行里卡片高矮不齐、行与行之间也对不齐。占满两行即可全等。
+  min-height: calc(2 * 1.3em);
+}
+
+.tiezhi-card-id {
+  margin-top: 2px;
+  font-size: 11px;
+  font-family: var(--vp-font-family-mono);
+  color: var(--vp-c-text-3);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.tiezhi-copy-btn {
+  width: 100%;
+  margin-top: auto;
+  padding: 6px 10px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #7b6cf6 0%, #a35fe0 100%);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.22s, background 0.22s, transform 0.12s;
+
+  &:hover {
+    opacity: 0.9;
+  }
+
+  &:active {
+    transform: scale(0.98);
+  }
+
+  &.copied {
+    background: #52c41a;
+  }
+}
+
+// ── 分页 ────────────────────────────────────────────────────────────────
+.tiezhi-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 6px 0;
+
+  .page-btn,
+  .page-number-btn {
+    padding: 5px 11px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 6px;
+    background: var(--vp-c-bg);
+    color: var(--vp-c-text-1);
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.22s;
+
+    &:hover:not(:disabled) {
+      border-color: #7b6cf6;
+      color: #7b6cf6;
+    }
+
+    &:disabled {
+      opacity: 0.45;
+      cursor: not-allowed;
+    }
+  }
+
+  .page-number-btn.active {
+    background: linear-gradient(135deg, #7b6cf6 0%, #a35fe0 100%);
+    border-color: transparent;
+    color: #fff;
+  }
+
+  .tiezhi-page-info {
+    font-size: 13px;
+    color: var(--vp-c-text-2);
+    margin: 0 4px;
+  }
+
+  .tiezhi-jump {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    color: var(--vp-c-text-2);
+
+    .jump-input {
+      width: 64px;
+      padding: 5px 8px;
+      border: 1px solid var(--vp-c-divider);
+      border-radius: 6px;
+      background: var(--vp-c-bg);
+      color: var(--vp-c-text-1);
+      font-size: 13px;
+
+      &:focus {
+        outline: none;
+        border-color: #7b6cf6;
+      }
+    }
+  }
+}
+
+// ── 预览弹窗 ────────────────────────────────────────────────────────────
+.tiezhi-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 24px;
+  background: rgba(0, 0, 0, 0.86);
+  animation: tiezhiFadeIn 0.22s ease;
+}
+
+.tiezhi-modal .modal-content {
+  display: flex;
+  flex-direction: column;
+  max-width: 560px;
+  width: 100%;
+  max-height: 92vh;
+  overflow: auto;
+  background: var(--vp-c-bg);
+  border-radius: 14px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+.tiezhi-modal .modal-stage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  // 棋盘格：透明贴纸的边界更清楚
+  background-color: #f7f7fa;
+  background-image:
+    linear-gradient(45deg, #e9e9f0 25%, transparent 25%, transparent 75%, #e9e9f0 75%),
+    linear-gradient(45deg, #e9e9f0 25%, transparent 25%, transparent 75%, #e9e9f0 75%);
+  background-size: 20px 20px;
+  background-position: 0 0, 10px 10px;
+  border-radius: 14px 14px 0 0;
+}
+
+.tiezhi-modal .modal-image {
+  background-repeat: no-repeat;
+  flex-shrink: 0;
+}
+
+// 与静态格子同一尺寸、同一等比内缩规则，左右切换时弹窗高度不会跳动
+.tiezhi-modal .modal-anim {
+  flex-shrink: 0;
+  object-fit: contain;
+}
+
+.tiezhi-modal .modal-info {
+  padding: 16px 18px 18px;
+}
+
+.tiezhi-modal .modal-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+  margin-bottom: 10px;
+  word-break: break-word;
+}
+
+.tiezhi-modal .modal-id {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 10px;
+  background: var(--vp-c-bg-soft);
+  border: 1px dashed var(--vp-c-divider);
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 12px;
+
+  &:hover {
+    border-color: #7b6cf6;
+  }
+
+  .modal-id-label {
+    flex-shrink: 0;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    color: #fff;
+    background: #7b6cf6;
+    border-radius: 4px;
+    padding: 2px 5px;
+  }
+
+  code {
+    font-size: 12px;
+    color: var(--vp-c-text-1);
+    word-break: break-all;
+  }
+}
+
+.tiezhi-modal .modal-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  .tiezhi-copy-btn {
+    width: auto;
+    flex: 1;
+    padding: 8px 14px;
+    font-size: 13px;
+  }
+
+  .modal-counter {
+    flex-shrink: 0;
+    font-size: 12px;
+    color: var(--vp-c-text-3);
+  }
+}
+
+.tiezhi-modal .modal-hint {
+  margin-top: 10px;
+  font-size: 11px;
+  color: var(--vp-c-text-3);
+  text-align: center;
+}
+
+.tiezhi-modal .modal-close {
+  position: absolute;
+  top: 16px;
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  border: none;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+  font-size: 26px;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.2s;
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.24);
+  }
+}
+
+.tiezhi-modal .modal-nav {
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  border: none;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.14);
+  color: #fff;
+  font-size: 28px;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.2s;
+
+  &:hover:not(:disabled) {
+    background: rgba(255, 255, 255, 0.3);
+  }
+
+  &:disabled {
+    opacity: 0.25;
+    cursor: not-allowed;
+  }
+}
+
+// ── 轻提示 ──────────────────────────────────────────────────────────────
+.tiezhi-toast {
+  position: fixed;
+  left: 50%;
+  bottom: 40px;
+  transform: translateX(-50%);
+  z-index: 1100;
+  padding: 10px 20px;
+  border-radius: 22px;
+  background: rgba(30, 30, 36, 0.92);
+  color: #fff;
+  font-size: 13px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
+}
+
+.tiezhi-toast-enter-active,
+.tiezhi-toast-leave-active {
+  transition: opacity 0.24s ease, transform 0.24s ease;
+}
+
+.tiezhi-toast-enter-from,
+.tiezhi-toast-leave-to {
+  opacity: 0;
+  transform: translate(-50%, 12px);
+}
+
+@keyframes tiezhiFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+// ── 响应式 ──────────────────────────────────────────────────────────────
+@media (max-width: 959px) {
+  .tiezhi-viewer {
+    height: calc(100vh - 114px);
+  }
+}
+
+@media (max-width: 768px) {
+  .tiezhi-header {
+    padding: 16px;
+
+    h1 {
+      font-size: 1.6em;
+    }
+
+    .tiezhi-note {
+      font-size: 0.78em;
+    }
+  }
+
+  .tiezhi-grid {
+    grid-template-columns: repeat(auto-fill, minmax(148px, 1fr));
+    gap: 10px;
+  }
+
+  .tiezhi-modal {
+    padding: 12px;
+
+    .modal-nav {
+      display: none;
+    }
+
+    .modal-close {
+      top: 10px;
+      right: 12px;
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  .tiezhi-viewer {
+    padding: 10px 12px;
+  }
+
+  .tiezhi-toolbar {
+    padding: 8px 10px;
+  }
+
+  .tiezhi-grid {
+    grid-template-columns: repeat(auto-fill, minmax(126px, 1fr));
+    gap: 8px;
+  }
+
+  .tiezhi-pagination {
+    gap: 5px;
+
+    .page-btn,
+    .page-number-btn {
+      padding: 5px 8px;
+      font-size: 12px;
+    }
+
+    // 小屏上页码按钮太挤，只保留首末页与跳转
+    .page-number-btn {
+      display: none;
+
+      &.active {
+        display: inline-block;
+      }
+    }
+
+    .tiezhi-jump {
+      display: none;
+    }
+  }
+}

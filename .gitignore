@@ -26,3 +26,5 @@ dist-ssr
 #cache
 
 docs/.vitepress/cache
+/docs/public/tiezhi/anim
+/docs/public/tiezhi/atlas
